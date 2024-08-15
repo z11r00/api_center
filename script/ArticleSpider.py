@@ -47,12 +47,19 @@ class Article(object):
             'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36'
         ]
         
-        self.baseUrl = "https://mdnice.com/writing/"
-        self.url = "https://api.mdnice.com/writings"
+        #self.apiUrl = "api.mdnice.com"
+        #self.contentUrl = "mdnice.com"
+        
+        # 获取secrets环境变量, node使用process.env.MYTOKEN
+        self.apiUrl = os.getenv('API_URL')
+        self.contentUrl = os.getenv('CONTENT_URL')
+        
+        self.detailsUrl = "https://"+self.contentUrl+"/writing/"
+        self.listUrl = "https://"+self.apiUrl+"/writings"
         
         self.header = {
-            'Host': 'api.mdnice.com',
-            'Referer': 'https://mdnice.com/',
+            'Host': self.apiUrl,
+            'Referer': "https://"+self.contentUrl,
             'User-Agent': random.choice(self.USER_AGENT),
         }
 
@@ -69,7 +76,7 @@ class Article(object):
             'pageSize': pageSize
         }
         
-        res = article.get_list(self.url, params)
+        res = article.get_list(self.listUrl, params)
         json_data = json.loads(res)
         
         code = json_data['code']
@@ -90,10 +97,8 @@ class Article(object):
         
         for item in data:
             
-            #time.sleep(1)
-            
             outId = item['outId']
-            info_url = self.baseUrl+outId
+            info_url = self.detailsUrl+outId
             re = requests.get(info_url)
             
             html = etree.HTML(re.content)
