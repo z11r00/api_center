@@ -5,6 +5,7 @@ from lxml import etree
 import os
 import random
 import json
+import sys
 from datetime import datetime, timezone, timedelta
 import time
 
@@ -140,8 +141,6 @@ class Article(object):
 
 if __name__ == '__main__':
 
-    # 每天早上7点采集，获取当前页最后一条数据更新时间，如果时间小于昨天7点则不执行（保证采集最新）
-    # 大于昨天7点，data长度有，则不断累加currentPage数值
     currentPage = 1
     pageSize = 30
     flag_date = get_compare_time(24)
@@ -161,9 +160,11 @@ if __name__ == '__main__':
         if return_code<0:
             print("error_code: " + str(return_code) + ", error_msg: " + error_msg[str(return_code)])
             break
+            sys.exit(1)  # 使用 sys.exit() 退出程序并返回非零退出码
         
         currentPage += 1
         time.sleep(2)
-        #print('currentPage:' + str(currentPage))
+        
+        
     
     
