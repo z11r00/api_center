@@ -30,7 +30,7 @@ jobs:
         env:
           FM_USERNAME: ${{ secrets.USERNAME }}
         run: |
-          python ../../script/ArticleSpider.py
+          python /script/ArticleSpider.py
       - name: 列出所有文件
         run: |
           ls -l
