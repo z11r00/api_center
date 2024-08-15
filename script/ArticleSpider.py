@@ -109,7 +109,7 @@ class Article(object):
                 json_data = json.loads(json_str)
                 
                 # 文章详情文件路径
-                details_path = '../api/article/details/'+outId+'.json'
+                details_path = 'api/article/details/'+outId+'.json'
                   
                 details_directory = os.path.dirname(details_path)  
                 if not os.path.exists(details_directory):  
@@ -125,7 +125,7 @@ class Article(object):
                 return -3
             
         # 文章列表文件路径  
-        file_path = '../api/article/list/' + str(currentPage)+'.json'
+        file_path = 'api/article/list/' + str(currentPage)+'.json'
           
         directory = os.path.dirname(file_path)  
         if not os.path.exists(directory):  
