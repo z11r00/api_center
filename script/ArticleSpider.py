@@ -51,8 +51,8 @@ class Article(object):
         #self.contentUrl = "mdnice.com"
         
         # 获取secrets环境变量, node使用process.env.MYTOKEN
-        self.apiUrl = os.getenv('API_URL')
-        self.contentUrl = os.getenv('CONTENT_URL')
+        self.apiUrl = os.getenv('API_URL', default='api.mdnice.com')
+        self.contentUrl = os.getenv('CONTENT_URL', default='mdnice.com')
         
         self.detailsUrl = "https://"+self.contentUrl+"/writing/"
         self.listUrl = "https://"+self.apiUrl+"/writings"
@@ -156,6 +156,12 @@ if __name__ == '__main__':
         "-2": "over time~",
         "-3": "parse fail~"
     }
+    
+    #####测试#####
+    #article = Article()
+    #return_code = article.run(currentPage, pageSize, flag_date)
+    #exit()
+    #####测试#####
     
     while(True):
         
