@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "c07842ea29ac496090d2ec32e83747d8"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82007,
+                "outId": "c07842ea29ac496090d2ec32e83747d8",
+                "articleOutId": "c07842ea29ac496090d2ec32e83747d8",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Python作为一种流行的编程语言，其优点主要体现在以下几个方面：</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">简单易学：Python的语法简洁清晰，采用缩进表示代码块，降低了学习门槛，使编程更加直观易懂。 功能强大：Python内置了丰富的数据类型和库，支持多种编程范式，如面向过程、面向对象和函数式编程，能够满足各种复杂编程需求。 跨平台性：Python具有良好的跨平台性，可以在不同的操作系统上运行，如Windows、Linux、macOS等，为开发者提供了更大的灵活性。 丰富的第三方库：Python拥有庞大的第三方库和框架生态系统，如NumPy、Pandas、Django、Flask等，这些库和框架大大扩展了Python的应用范围，提高了开发效率。 社区支持：Python拥有庞大的开发者社区，提供了丰富的教程、文档和在线资源，帮助开发者快速解决问题，促进了Python的广泛应用和持续发展。</p>",
+                "title": "Python入门基础教程",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 103,
+                "tagName": "Python",
+                "userId": 73062,
+                "userOutId": "730864005298",
+                "username": "练习生小王同学",
+                "avatar": "",
+                "description": "Python作为一种流行的编程语言，其优点主要体现在以下几个方面：简单易学：Python的语法简洁清晰，采用缩进表示代码块，降低了学习门槛，使编程更加直观易懂。功能强大：Python内置了丰富的数据类",
+                "level": 1,
+                "publishTime": "2024/08/15",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "fa97dc2bdcfe41968e585697a18fe4f7",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-15 21:04"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "c07842ea29ac496090d2ec32e83747d8"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
