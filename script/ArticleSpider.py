@@ -51,6 +51,7 @@ class Article(object):
         #self.contentUrl = "mdnice.com"
         
         # 获取secrets环境变量, node使用process.env.MYTOKEN
+        #self.apiUrl = os.getenv('API_URL', default='api.mdnice.com')
         self.apiUrl = os.getenv('API_URL', default='api.mdnice.com')
         self.contentUrl = os.getenv('CONTENT_URL', default='mdnice.com')
         
