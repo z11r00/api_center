@@ -23,7 +23,7 @@
                 "description": "配置存储springCloudConfig是使用EnvironmentRepository来存储服务器的配置数据的，返回Environment对象public&nbsp;Environment(@Js",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

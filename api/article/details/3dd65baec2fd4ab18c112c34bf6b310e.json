@@ -23,7 +23,7 @@
                 "description": "1.段（Segment）的概念段是数据库中存储数据对象的逻辑单元，一个段由多个区（Extent）组成，每个区由一组连续的Oracle数据块构成。段是在表空间中分配的，用于存储特定的数据类型。例如，一个",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 0,
+                "readingNum": 1,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 94,
+                    "writingNum": 97,
                     "createTime": "2024-08-06 19:02"
                 }
             }

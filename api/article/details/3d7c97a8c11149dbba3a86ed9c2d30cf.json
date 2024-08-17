@@ -23,7 +23,7 @@
                 "description": "当年在校招面试时，面试官出了一道SQL题：一次年级考试，求每个班级内的成绩前10名。最近又遇到一个查询需求，假设一张表有(id,a,b,c)字段，需要一次批量查出：查询a=1andb=2andc=3条",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "bty834.github.io",
                 "followWords": null,

@@ -23,7 +23,7 @@
                 "description": "本文内容：理解对象基本JavaScript数据类型引用值与原始值的包装类型引用值（或者对象）是某个特定引用类型的实例。对象被认为是某个特定引用类型的实例。新对象通过使用new操作符后跟一个构造函数（c",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 41,
+                    "writingNum": 42,
                     "createTime": "2024-08-06 19:07"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "为什么有gounsafeGo是支持指针的语言，但是为了保持简洁、安全，Go的指针有很多限制，但是一些场景又需要绕过这些安全限制，因此提供了unsafe包，unsafe可以绕过：指针运算、不同的指针类型",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": "欢迎关注简单的土拨鼠",

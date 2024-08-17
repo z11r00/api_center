@@ -23,7 +23,7 @@
                 "description": "在TypeScript中，enum关键字提供了一种定义一组命名常量的方式，这些常量可以作为类型或值使用。枚举最早在TypeScript的第一个版本中引入，虽然它们还没有被添加到JavaScript中，",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 15,
+                    "writingNum": 16,
                     "createTime": "2024-08-06 19:02"
                 }
             }

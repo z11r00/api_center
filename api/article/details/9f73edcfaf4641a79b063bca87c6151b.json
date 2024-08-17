@@ -23,7 +23,7 @@
                 "description": "在开发过程中，调试无疑是我们解决疑难杂症的手段之一，但调试不仅仅是在解决Bug的时候才能应用的技能，当拿到一个新的项目时，我们也可以通过调试的方法，去快速了解代码、熟悉业务。React调试不求人：VS",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 41,
+                    "writingNum": 42,
                     "createTime": "2024-08-06 19:07"
                 }
             }
