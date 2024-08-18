@@ -23,7 +23,7 @@
                 "description": "介绍如何使用RAGAs框架评估RAG应用的性能。并通过构建元数据链和记录到CometML-LLM来监控复杂的生成过程。详细教了RAGAs的评估指标、评估数据集的准备、评估过程的实现，以及如何使用Com",
                 "level": 2,
                 "publishTime": "2024/08/16",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1561,
+                    "writingNum": 1569,
                     "createTime": "2024-08-06 19:06"
                 }
             }

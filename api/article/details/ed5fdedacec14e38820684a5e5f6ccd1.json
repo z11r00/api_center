@@ -23,7 +23,7 @@
                 "description": "1.数据字典视图与动态性能视图在Oracle数据库中，与用户相关的表可以分为三种类型：用户自己创建的表：这些表由用户在数据库中自行创建，存储业务数据。数据字典视图：由Oracle数据库自动生成的系统表",
                 "level": 1,
                 "publishTime": "2024/08/16",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 97,
+                    "writingNum": 96,
                     "createTime": "2024-08-06 19:02"
                 }
             }

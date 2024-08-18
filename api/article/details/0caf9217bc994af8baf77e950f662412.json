@@ -23,7 +23,7 @@
                 "description": "Easy-RAG：一个适合学习、使用、自主扩展的检索增强生成系统，支持知识图谱提取解析和向量数据库应用，提高检索效率。参考文献：[1]http://github.com/yuntianhe2014/E",
                 "level": 2,
                 "publishTime": "2024/08/16",
-                "readingNum": 6,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1561,
+                    "writingNum": 1569,
                     "createTime": "2024-08-06 19:06"
                 }
             }

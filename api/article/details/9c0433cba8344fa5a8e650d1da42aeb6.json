@@ -23,7 +23,7 @@
                 "description": "使用Upstash向量的维基百科语义搜索。参考文献：[1]https://github.com/upstash/wikipedia-semantic-search[2]https://wikipedi",
                 "level": 2,
                 "publishTime": "2024/08/16",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1561,
+                    "writingNum": 1569,
                     "createTime": "2024-08-06 19:06"
                 }
             }

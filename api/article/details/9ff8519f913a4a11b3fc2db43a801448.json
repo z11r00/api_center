@@ -23,7 +23,7 @@
                 "description": "Tonbo：基于ApacheArrow和Parquet的嵌入式持久数据库，提供键值存储方式的插入、过滤和范围扫描功能，支持高效查询类型安全的有序数据。参考文献：[1]http://github.com",
                 "level": 2,
                 "publishTime": "2024/08/16",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1561,
+                    "writingNum": 1569,
                     "createTime": "2024-08-06 19:06"
                 }
             }

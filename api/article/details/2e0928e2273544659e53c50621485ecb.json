@@ -23,7 +23,7 @@
                 "description": "1.特权用户与口令文件概述在Oracle数据库中，特权用户是指具有较高权限的用户，通常用于管理和维护数据库。特权用户中的最重要的一个就是SYS用户，它是数据库创建时自动生成的，并拥有最高权限。SYS用",
                 "level": 1,
                 "publishTime": "2024/08/16",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 97,
+                    "writingNum": 96,
                     "createTime": "2024-08-06 19:02"
                 }
             }

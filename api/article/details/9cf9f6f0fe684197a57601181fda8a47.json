@@ -23,7 +23,7 @@
                 "description": "能够一键自动下载全平台视频，对视频字幕进行翻译，还能对原视频进行人声分离，克隆音色并重新配音，再对视频进行合成，全过程自动化。参考文献：[1]http://github.com/Kedreamix/L",
                 "level": 2,
                 "publishTime": "2024/08/16",
-                "readingNum": 8,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1561,
+                    "writingNum": 1569,
                     "createTime": "2024-08-06 19:06"
                 }
             }

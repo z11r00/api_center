@@ -23,7 +23,7 @@
                 "description": "FLUX提示词五合一（炉石&amp;游戏王&amp;塔罗牌&amp;海报&amp;漫画）一键生成byLLMParty。该工作流是通过ComfyUILLMParty插件中调用【flux提示词生成面具】节",
                 "level": 2,
                 "publishTime": "2024/08/16",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1561,
+                    "writingNum": 1569,
                     "createTime": "2024-08-06 19:06"
                 }
             }
