@@ -23,7 +23,7 @@
                 "description": "搞数据分析肯定是要学习下数据库的;纵向表合并UNIONALL在合并表的时候不做任何附加动作，只是将多个表格简单的首尾相连;UNION合并表格的时候，除了拼接之外还会多一个附加动作——去重(以前旧版本还",
                 "level": 1,
                 "publishTime": "2024/08/16",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

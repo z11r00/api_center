@@ -23,7 +23,7 @@
                 "description": "学习nginxlocation~.*.(js|css)?$语法规则引言nginx作为一款高性能的Web服务和反向代理服务，在网站性能优化中扮演着重要的角色。其中，location指令的正确配置是优化工",
                 "level": 1,
                 "publishTime": "2024/08/16",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "选择了才有机会，相信了才有可能！ ",
                 "followWords": "公众号｜知乎同名哦",
@@ -39,7 +39,7 @@
                     "name": "Linux相关",
                     "briefIntro": "Linux相关",
                     "cover": "https://files.mdnice.com/user/10427/column-cover/9de8a059-b25e-4f68-8435-8e57237e3c3f.jpg",
-                    "writingNum": 1,
+                    "writingNum": 3,
                     "createTime": "2024-08-13 08:38"
                 }
             }

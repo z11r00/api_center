@@ -23,7 +23,7 @@
                 "description": "背景1、业务背景公司在处理业务时，需要使用socket传输字符串内容，在A处输入，在B处显示。但反馈说输入表情符号经过传输后，ios会变成问号，PC会乱码。如下情况：2、表情乱码表情符号乱码的原因通常",
                 "level": 1,
                 "publishTime": "2024/08/16",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-06 19:02"
                 }
             }

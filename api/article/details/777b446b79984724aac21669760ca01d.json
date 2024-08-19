@@ -23,7 +23,7 @@
                 "description": "1.数据库的逻辑结构与物理结构1.1逻辑结构逻辑结构指的是数据库在逻辑层面上的组织形式，它主要帮助用户理解和管理数据在数据库中的排列和关系。表空间（Tablespace）：表空间是数据库逻辑结构中的基",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 97,
+                    "writingNum": 78,
                     "createTime": "2024-08-06 19:02"
                 }
             }

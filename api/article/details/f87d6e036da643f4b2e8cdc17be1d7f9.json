@@ -23,7 +23,7 @@
                 "description": "jquery设置option默认选中$(selector).find('option[value=\"xxx\"]').prop('selected',&nbsp;true);",
                 "level": 1,
                 "publishTime": "2024/08/17",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

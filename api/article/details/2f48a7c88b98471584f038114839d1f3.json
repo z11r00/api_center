@@ -23,7 +23,7 @@
                 "description": "1.Oracle数据库的连接模式概述在Oracle数据库中，用户需要通过特定的连接模式与数据库进行交互。这些连接模式主要分为两类：专用数据库连接模式和共享数据库连接模式。每种连接模式都有不同的适用场景",
                 "level": 1,
                 "publishTime": "2024/08/15",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 97,
+                    "writingNum": 78,
                     "createTime": "2024-08-06 19:02"
                 }
             }

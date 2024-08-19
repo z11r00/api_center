@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "ddb116d0312d4adc861336a9babf4e71"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82175,
+                "outId": "ddb116d0312d4adc861336a9babf4e71",
+                "articleOutId": "ddb116d0312d4adc861336a9babf4e71",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(89, 89, 89); font-size: 19px; line-height: 30px; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 10px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px; font-family: 微软雅黑;\">找了一圈都没有找到已发布到专栏的文章的删除按钮，头疼。</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(89, 89, 89); font-size: 19px; line-height: 30px; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 10px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px; font-family: 微软雅黑;\">还有以前作为普通用户，图片空间是足够的，平台一整改，图片存储空间就爆撑了。</p>",
+                "title": "发布到滴墨专栏的文章怎么删除",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 26910,
+                "userOutId": "121138200405",
+                "username": "杰瑞",
+                "avatar": "",
+                "description": "找了一圈都没有找到已发布到专栏的文章的删除按钮，头疼。还有以前作为普通用户，图片空间是足够的，平台一整改，图片存储空间就爆撑了。",
+                "level": 1,
+                "publishTime": "2024/08/18",
+                "readingNum": 4,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "a7d1aee783fe4fc680cee0338ec24a64",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 3,
+                    "createTime": "2024-08-06 19:06"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "ddb116d0312d4adc861336a9babf4e71"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

@@ -23,7 +23,7 @@
                 "description": "由于经常需要进行页面间传参且各种传参的业务场景也不相同，根据官方文档和日常工作进行了总结,共有六种传参方式1.页面跳转传参微信小程序提供了多种页面跳转API，可以在页面之间传递参数。使用wx.navi",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 0,
+                "readingNum": 1,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
