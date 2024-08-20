@@ -23,7 +23,7 @@
                 "description": "LongRAG：通过长上下文增强检索增强生成LLMs。Figure1:TraditionalRAGvs.LongRAGFigure2:OurproposedLongRAGframeworkiscomp",
                 "level": 2,
                 "publishTime": "2024/08/17",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1577,
+                    "writingNum": 1585,
                     "createTime": "2024-08-06 19:06"
                 }
             }

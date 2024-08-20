@@ -23,7 +23,7 @@
                 "description": "1.自定义数据类型Oracle数据库不仅支持常规的内置数据类型，还支持用户定义的数据类型，包括对象类型（ObjectType）、嵌套类型（NestedTableType）和可变数组类型（VarrayD",
                 "level": 1,
                 "publishTime": "2024/08/17",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

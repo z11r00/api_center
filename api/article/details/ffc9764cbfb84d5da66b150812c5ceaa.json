@@ -23,7 +23,7 @@
                 "description": "LLM功能库：使用Bash/JavaScript/Python轻松创建大型语言模型工具和代理，同时提供常用LLM工具和Agent的库。参考文献：[1]http://github.com/sigoden",
                 "level": 2,
                 "publishTime": "2024/08/18",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1577,
+                    "writingNum": 1585,
                     "createTime": "2024-08-06 19:06"
                 }
             }

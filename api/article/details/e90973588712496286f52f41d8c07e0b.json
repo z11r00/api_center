@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "e90973588712496286f52f41d8c07e0b"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82203,
+                "outId": "e90973588712496286f52f41d8c07e0b",
+                "articleOutId": "e90973588712496286f52f41d8c07e0b",
+                "html": "",
+                "title": "环状热图",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 73307,
+                "userOutId": "145240319579",
+                "username": "章鱼小丸子",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/19",
+                "readingNum": 5,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "b79b7d2e19c04c109ed1ef99b6e0e7b0",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-19 11:55"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "e90973588712496286f52f41d8c07e0b"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

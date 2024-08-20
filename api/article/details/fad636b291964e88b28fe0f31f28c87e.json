@@ -23,7 +23,7 @@
                 "description": "OpenResearcher：加速科学研究的AI助手，提供对研究查询的有帮助回答，访问arXiv语料库获取最新科学见解，探索科学前沿。参考文献：[1]https://github.com/GAIR-N",
                 "level": 2,
                 "publishTime": "2024/08/18",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1577,
+                    "writingNum": 1585,
                     "createTime": "2024-08-06 19:06"
                 }
             }

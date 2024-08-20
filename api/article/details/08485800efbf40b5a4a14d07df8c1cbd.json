@@ -23,7 +23,7 @@
                 "description": "前言前面学习了docker的安装、常用命令，也搭建了镜像仓库，现在开始使用docker来部署常用的软件。部署redisdocker&nbsp;run&nbsp;-d&nbsp;\\--name&nbsp",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 7,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

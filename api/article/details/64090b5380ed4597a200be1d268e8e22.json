@@ -23,7 +23,7 @@
                 "description": "1.Oracle数据库约束的概念：约束是用于强制数据库表中数据完整性的一种规则。在数据表中插入或修改数据时，必须遵守预先定义的约束条件。例如，员工的性别必须是“男”或“女”，部门编号必须是已经存在的部",
                 "level": 1,
                 "publishTime": "2024/08/17",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "e11de33268f1433fb7176a537ad81b56"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82210,
+                "outId": "e11de33268f1433fb7176a537ad81b56",
+                "articleOutId": "e11de33268f1433fb7176a537ad81b56",
+                "html": "",
+                "title": "《我操！免费神器——虚拟直播助手 V3.5.7，开启无人直播新纪元》",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 115,
+                "tagName": "人工智能",
+                "userId": 73310,
+                "userOutId": "292570055909",
+                "username": "张老师分享",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/19",
+                "readingNum": 11,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "db937dd700294782af1e7ac24410c4e5",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-19 13:12"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "e11de33268f1433fb7176a537ad81b56"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

@@ -23,7 +23,7 @@
                 "description": "1.视图的定义与作用：视图是一种非常重要的数据库对象，形式类似于普通表，可以通过视图来查询数据。视图实际上是建立在表上的一种虚表，不保存真实的数据，仅保存了一条SELECT语句，对视图的访问将被转换为",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

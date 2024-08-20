@@ -23,7 +23,7 @@
                 "description": "1.索引信息的查询：要获取数据库中索引的相关信息，如索引类型、所在表、是否唯一索引等，可以查询与索引相关的数据字典视图。常用的数据字典视图包括dba_indexes、dba_ind_columns、u",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

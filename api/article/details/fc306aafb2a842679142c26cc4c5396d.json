@@ -23,7 +23,7 @@
                 "description": "该合集涵盖了从基础RAG到复杂任务处理的多种方法，包括智能重排序、多模态检索和自适应检索等一系列提升RAG系统的技术。此外，文档还提供了详细的实现指南，包括文字版科普、原理示意图和项目代码示例，堪称手",
                 "level": 2,
                 "publishTime": "2024/08/18",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1577,
+                    "writingNum": 1585,
                     "createTime": "2024-08-06 19:06"
                 }
             }

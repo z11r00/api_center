@@ -23,7 +23,7 @@
                 "description": "一个使用dify打造数字人的项目，支持Docker快速部署，支持Dify服务接入，支持ASR、LLM、TTS、Agent模块化扩展，支持Live2d人物模型扩展和控制方式，支持PC端和移动端web访问",
                 "level": 2,
                 "publishTime": "2024/08/17",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1577,
+                    "writingNum": 1585,
                     "createTime": "2024-08-06 19:06"
                 }
             }

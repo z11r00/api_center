@@ -23,7 +23,7 @@
                 "description": "BindingSID与RSVP-TE隧道相似，SR-MPLSTE隧道可以作为一种转发邻接。如果将SR-MPLSTE隧道作为转发邻接分配一个邻接SID（AdjacencySID），则该SID可以标识SR",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "",
                 "followWords": "让我再卷一分钟",

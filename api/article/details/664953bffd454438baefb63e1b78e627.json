@@ -23,7 +23,7 @@
                 "description": "1.索引的基本概念：索引用于加快表中的数据查询速度，尤其在查询频繁的大表中非常有用。查询时，通常通过WHERE子句来指定查询条件。使用索引可以显著减少不必要的磁盘I/O，从而提高查询速度。例如，若查询",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 0,
+                "readingNum": 1,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

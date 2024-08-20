@@ -23,7 +23,7 @@
                 "description": "旨在通过利用多模态大语言模型（LLM）将原始的OCR扫描PDF文本转换成高准确度、格式正确且易于阅读的Markdown文档。首先将PDF文件转图像，进行OCR扫描处理提取文本，再利用本地LLM或API",
                 "level": 2,
                 "publishTime": "2024/08/18",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1577,
+                    "writingNum": 1585,
                     "createTime": "2024-08-06 19:06"
                 }
             }
