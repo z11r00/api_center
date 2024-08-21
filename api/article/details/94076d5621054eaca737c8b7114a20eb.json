@@ -23,7 +23,7 @@
                 "description": "1.视图的查询与DML操作：对视图的访问包括查询和受限制的DML操作。访问视图的方法与访问表的基本相同。可以使用SELECT语句从视图中查询数据：SELECT&nbsp;*&nbsp;FROM&nbs",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 85,
                     "createTime": "2024-08-06 19:02"
                 }
             }

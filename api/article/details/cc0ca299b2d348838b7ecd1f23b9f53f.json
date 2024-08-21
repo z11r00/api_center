@@ -23,7 +23,7 @@
                 "description": "大规模零样本文本到语音合成评估协议：开源评估标准，促进未来研究通过可靠和公正的评估提出新模型，为零样本文本到语音合成技术的发展提供支持。参考文献：[1]https://github.com/keonl",
                 "level": 2,
                 "publishTime": "2024/08/19",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1585,
+                    "writingNum": 1589,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "1.系统简介Sentry是一个开源的监控系统，可以收集项目中的异常信息，便于开发人员第一时间发现问题，定位问题，解决问题。当前文档基于Sentry23.11.2进行说明。2.系统搭建虽然Sentry官",
                 "level": 1,
                 "publishTime": "2024/08/18",
-                "readingNum": 8,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": "https://dstweihao.cn",
                 "followWords": "",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 59,
+                    "writingNum": 60,
                     "createTime": "2024-08-06 19:03"
                 }
             }

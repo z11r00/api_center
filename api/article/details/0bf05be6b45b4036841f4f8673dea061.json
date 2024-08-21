@@ -23,7 +23,7 @@
                 "description": "知识蒸馏（KnowledgeDistillation，KD)是目前LLM领域非常重要的一项技术，它不仅可以用于将前沿模型（GPT-4o等）的回答思路转移到开源模型上，而且也可用于让大模型训练专用小模型",
                 "level": 2,
                 "publishTime": "2024/08/19",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1585,
+                    "writingNum": 1589,
                     "createTime": "2024-08-06 19:06"
                 }
             }

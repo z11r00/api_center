@@ -23,7 +23,7 @@
                 "description": "学习揭秘：掌握A记录、CNAME、MX和NS记录的区别与应用引言在互联网的基础设施中，域名解析系统（DNS）扮演着至关重要的角色。它将域名转换为机器可读的IP地址，使得普通用户能够通过易于记忆的名称来",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "选择了才有机会，相信了才有可能！ ",
                 "followWords": "公众号｜知乎同名哦",
@@ -39,7 +39,7 @@
                     "name": "Linux相关",
                     "briefIntro": "Linux相关",
                     "cover": "https://files.mdnice.com/user/10427/column-cover/9de8a059-b25e-4f68-8435-8e57237e3c3f.jpg",
-                    "writingNum": 4,
+                    "writingNum": 5,
                     "createTime": "2024-08-13 08:38"
                 }
             }

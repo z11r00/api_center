@@ -23,7 +23,7 @@
                 "description": "ControlNeXt是一款轻量级的可控模块，适用于各种基础模型（如SD1.5、SDXL、SD3、SVD）和任务（如图像/视频生成）。该方法在训练中具有更快的收敛速度，并且支持多种条件下的生成与编辑。",
                 "level": 2,
                 "publishTime": "2024/08/19",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1585,
+                    "writingNum": 1589,
                     "createTime": "2024-08-06 19:06"
                 }
             }

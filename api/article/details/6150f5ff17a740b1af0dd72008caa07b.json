@@ -23,7 +23,7 @@
                 "description": "（公众号用的是QQ音乐，可以随时听）INFINIEasysearchINFINIEasysearch是一个分布式的近实时搜索与分析引擎，核心引擎基于开源的ApacheLucene。Easysearch",
                 "level": 1,
                 "publishTime": "2024/08/19",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 59,
+                    "writingNum": 58,
                     "createTime": "2024-08-06 19:03"
                 }
             }

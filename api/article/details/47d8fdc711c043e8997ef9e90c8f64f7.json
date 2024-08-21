@@ -23,7 +23,7 @@
                 "description": "三年面试五年模拟：AI行业面试笔试经验与知识宝典，专为算法工程师设计，覆盖AIGC、深度学习、自动驾驶等领域。参考文献：[1]http://github.com/WeThinkIn/Interview",
                 "level": 2,
                 "publishTime": "2024/08/19",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1585,
+                    "writingNum": 1589,
                     "createTime": "2024-08-06 19:06"
                 }
             }

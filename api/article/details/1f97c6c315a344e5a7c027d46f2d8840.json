@@ -23,7 +23,7 @@
                 "description": "EmoLLM是一系列能够支持理解用户-支持用户-帮助用户心理健康辅导链路的心理健康大模型，由LLM指令微调而来，欢迎大家star。目前已经开源的LLM微调配置如下：路线图如下所示：框架图如下所示：最新",
                 "level": 2,
                 "publishTime": "2024/08/19",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1585,
+                    "writingNum": 1589,
                     "createTime": "2024-08-06 19:06"
                 }
             }

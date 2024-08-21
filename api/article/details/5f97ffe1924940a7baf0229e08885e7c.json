@@ -23,7 +23,7 @@
                 "description": "在Oracle数据库中，关系运算符和逻辑运算符用于在SQL查询中定义条件。1.等号（=）运算符作用：用于精确匹配字段的值。适用场景：适用于比较数值、字符串、日期等数据类型，要求条件严格相等。例子：SE",
                 "level": 1,
                 "publishTime": "2024/08/19",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 85,
                     "createTime": "2024-08-06 19:02"
                 }
             }

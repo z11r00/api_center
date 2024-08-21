@@ -23,7 +23,7 @@
                 "description": "1.同义词的概念：同义词是为数据库对象定义的别名，目的是简化SQL语句的书写。通过使用同义词，用户可以用一个简短且易记的名称来替代一个复杂的数据库对象名称，从而使得SQL语句更简洁。2.同义词的类型：",
                 "level": 1,
                 "publishTime": "2024/08/19",
-                "readingNum": 0,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 85,
                     "createTime": "2024-08-06 19:02"
                 }
             }

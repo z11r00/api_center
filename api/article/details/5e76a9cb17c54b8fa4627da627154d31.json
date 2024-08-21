@@ -23,7 +23,7 @@
                 "description": "Oracle查询语句中的单行函数，特别是一些常用的字符串处理函数。1.ConCAT函数作用：将两个字符串连接在一起，生成一个新的字符串。使用方法：concat(字符串1,字符串2)示例：SELECT&",
                 "level": 1,
                 "publishTime": "2024/08/19",
-                "readingNum": 0,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 85,
                     "createTime": "2024-08-06 19:02"
                 }
             }

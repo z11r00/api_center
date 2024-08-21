@@ -23,7 +23,7 @@
                 "description": "LLM结合Live2D的一个项目：Open-LLM-VTuber，通过语音交互、面部表情捕捉和长期记忆功能，实现自然流畅的对话体验。特点：快速免提语音交互：支持直接用语音与LLM对话无需手动输入文字支",
                 "level": 2,
                 "publishTime": "2024/08/19",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1585,
+                    "writingNum": 1589,
                     "createTime": "2024-08-06 19:06"
                 }
             }
