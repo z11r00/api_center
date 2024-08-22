@@ -23,7 +23,7 @@
                 "description": "搜索引擎在对网站进行索引和排名时，会重点考虑标题中的关键词。恰当的标题关键词布局有助于提高网站在搜索结果中的曝光度。例如，对于一个旅游网站，“北京小众旅游景点推荐，带你领略别样风情”这样包含地域和特色",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 14,
+                "readingNum": 16,
                 "likeNum": 0,
                 "introduction": "国内最全的API平台",
                 "followWords": "幂简集成",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 11,
+                    "writingNum": 12,
                     "createTime": "2024-08-06 19:02"
                 }
             }

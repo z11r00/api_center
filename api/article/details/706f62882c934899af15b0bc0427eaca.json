@@ -23,7 +23,7 @@
                 "description": "1.TO_CHAR函数：作用：TO_CHAR函数用于将日期型数据或数字型数据转换为字符串。这个函数非常常用，特别是在需要将日期或数字显示在网页或报表中时。语法：将日期转换为字符串：TO_CHAR(日期",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 85,
+                    "writingNum": 89,
                     "createTime": "2024-08-06 19:02"
                 }
             }

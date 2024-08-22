@@ -23,7 +23,7 @@
                 "description": "分组函数与分组统计分组函数又称为聚集函数，用于对一组数据进行统计计算，返回单一结果，而不是逐行返回。常见的分组函数有：AVG（平均值）、MIN（最小值）、MAX（最大值）、SUM（求和）和COUNT（",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 85,
+                    "writingNum": 89,
                     "createTime": "2024-08-06 19:02"
                 }
             }

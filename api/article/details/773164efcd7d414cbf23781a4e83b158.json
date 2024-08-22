@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "773164efcd7d414cbf23781a4e83b158"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82330,
+                "outId": "773164efcd7d414cbf23781a4e83b158",
+                "articleOutId": "773164efcd7d414cbf23781a4e83b158",
+                "html": "<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 22px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">网关简介</span><span class=\"suffix\" style=\"display: none;\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">为什么要有网关，这个不好解释，那就说说如果没有网关会有哪些问题吧</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">对于微服务来说，会有很多的应用服务</p> \n<ul data-tool=\"mdnice编辑器\" style=\"list-style-type: disc; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    客户端请求不同的微服务，这些增加了客户端的复杂性 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    如果微服务进行重新划分了，那么客户端如何进行通信 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    认证相当复杂，每个服务都需要独立认证 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    在进行防火墙开通时，所有的微服务要给所有的客户端开通白名单，很复杂 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">网关呢，就可以解决上述的问题</p> \n<ul data-tool=\"mdnice编辑器\" style=\"list-style-type: disc; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    网关可以来实现安全认证，防止很多恶意访问 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    网关可以进行限流熔断，防止请求过多导致服务不可用 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    网关可以进行日志监控，所有的外部请求都会经过网关，可以来记录日志信息 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    网关可以实现灰度发布，让一部分人继续使用原功能，另一部分人使用新功能 \n  </section></li> \n</ul> \n<blockquote class=\"multiquote-1\" data-tool=\"mdnice编辑器\" style=\"margin-top: 20px; margin-bottom: 20px; margin-left: 0px; margin-right: 0px; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; border-top-style: none; border-bottom-style: none; border-left-style: solid; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; background-attachment: scroll; background-clip: border-box; background-color: rgba(0, 0, 0, 0.05); background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: no-repeat; background-size: auto; width: auto; height: auto; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px; display: block; overflow-x: auto; overflow-y: auto;\"> <span style=\"display: none; color: rgb(0, 0, 0); font-size: 16px; line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: normal;\"></span> \n <p style=\"text-indent: 0em; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px; color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;\"><a href=\"https://zhhll.icu/2022/%E6%A1%86%E6%9E%B6/%E5%BE%AE%E6%9C%8D%E5%8A%A1/springcloud/%E7%BD%91%E5%85%B3/%E7%BD%91%E5%85%B3/\" style=\"color: rgb(30, 107, 184); font-weight: bold; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word;\">https://zhhll.icu/2022/框架/微服务/springcloud/网关/网关/</a></p> \n</blockquote>",
+                "title": "Spring Cloud全解析：网关简介",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 101,
+                "tagName": "Java",
+                "userId": 42289,
+                "userOutId": "643529755269",
+                "username": "拾光师",
+                "avatar": "",
+                "description": "网关简介为什么要有网关，这个不好解释，那就说说如果没有网关会有哪些问题吧对于微服务来说，会有很多的应用服务客户端请求不同的微服务，这些增加了客户端的复杂性如果微服务进行重新划分了，那么客户端如何进行通",
+                "level": 1,
+                "publishTime": "2024/08/21",
+                "readingNum": 1,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "e060fcda2883448cb51a481ba0f3d57a",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 78,
+                    "createTime": "2024-08-06 19:04"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "773164efcd7d414cbf23781a4e83b158"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

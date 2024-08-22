@@ -23,7 +23,7 @@
                 "description": "1.ADD_MONTHS函数：作用：ADD_MONTHS函数用于在指定日期的基础上，加上或减去一个指定的月数，返回一个新的日期。语法：ADD_MONTHS(日期,月数)示例：--&nbsp;将2017",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 0,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 85,
+                    "writingNum": 89,
                     "createTime": "2024-08-06 19:02"
                 }
             }

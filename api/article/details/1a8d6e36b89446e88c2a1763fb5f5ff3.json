@@ -23,7 +23,7 @@
                 "description": "1.ABS函数：作用：ABS函数用于求一个数字的绝对值。绝对值是指一个数字在数轴上离原点的距离，因此结果总是非负数。语法：ABS(数字表达式)示例：若要求-15.6的绝对值，可以使用如下SQL语句：S",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 85,
+                    "writingNum": 89,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "在语言模型微调中，数据质量至关重要，尤其是对于参数量达到8B的相对较小的语言模型（SLM）。我们对这一概念的研究始于NeurIPSLLM效率挑战2023，参赛者在24小时内使用通用GPU对开源LLM进",
                 "level": 2,
                 "publishTime": "2024/08/20",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1589,
+                    "writingNum": 1597,
                     "createTime": "2024-08-06 19:06"
                 }
             }

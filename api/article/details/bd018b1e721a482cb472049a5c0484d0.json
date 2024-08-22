@@ -23,7 +23,7 @@
                 "description": "Hermes3是NousResearch推出的Hermes系列最新旗舰模型，也是自Llama-3.1发布以来的首次全参数微调，包括405B/70B/8B。Hermes3是一个通用语言模型，相较于Her",
                 "level": 2,
                 "publishTime": "2024/08/20",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1589,
+                    "writingNum": 1597,
                     "createTime": "2024-08-06 19:06"
                 }
             }
