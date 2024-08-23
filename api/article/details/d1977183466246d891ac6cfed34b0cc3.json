@@ -23,7 +23,7 @@
                 "description": "Oracle分析函数OVER()OVER()是Oracle从8.1.6版本开始提供的一个强大分析函数，用于解决复杂报表统计需求。它允许在数据分组后，基于每个组内的某种统计值对每一行返回一个结果值。与传",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 89,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

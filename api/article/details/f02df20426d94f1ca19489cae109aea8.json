@@ -23,7 +23,7 @@
                 "description": "1.Oracle数据库中的三类用户在Oracle数据库中，用户可以分为三类：SYSDBA用户：该类用户拥有最高权限，能够执行数据库的所有管理任务，包括启动和关闭数据库、创建或删除数据库对象等。SYS用",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 89,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

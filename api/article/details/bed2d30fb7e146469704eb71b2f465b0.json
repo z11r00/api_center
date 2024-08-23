@@ -23,7 +23,7 @@
                 "description": "1.ROW_NUMBER()函数与OVER()的使用1.1什么是ROW_NUMBER()函数？ROW_NUMBER()是Oracle中的一个分析函数，用于为结果集中的每一行分配唯一的序号。这个序号根据",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 89,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "Oracle中的OVER()函数及其数据窗口在Oracle数据库中，OVER()函数提供了一种强大的方式来进行分析计算，它允许对每行数据指定一个“数据窗口”，并在该窗口内计算聚合结果。这个“数据窗口”",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 89,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "VideoLingo可以将视频进行字幕切割、翻译、对齐、配音，最终生成Netflix级别的字幕和配音。特点：自动化：一键完成视频字幕切割、翻译、对齐和配音，无需手动操作字幕：使用NLP和LLM技术进行",
                 "level": 2,
                 "publishTime": "2024/08/21",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1597,
+                    "writingNum": 1605,
                     "createTime": "2024-08-06 19:06"
                 }
             }

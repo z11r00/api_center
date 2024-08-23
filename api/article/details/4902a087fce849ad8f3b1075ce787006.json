@@ -23,7 +23,7 @@
                 "description": "Linux中的时间戳：atime、ctime和mtime引言在Linux操作系统中，一切皆文件。与Windows或macOS不同，Linux的文件系统时间戳有三种类型：访问时间（atime）、修改时间",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 10,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": "选择了才有机会，相信了才有可能！ ",
                 "followWords": "公众号｜知乎同名哦",
@@ -39,7 +39,7 @@
                     "name": "Linux相关",
                     "briefIntro": "Linux相关",
                     "cover": "https://files.mdnice.com/user/10427/column-cover/9de8a059-b25e-4f68-8435-8e57237e3c3f.jpg",
-                    "writingNum": 5,
+                    "writingNum": 6,
                     "createTime": "2024-08-13 08:38"
                 }
             }

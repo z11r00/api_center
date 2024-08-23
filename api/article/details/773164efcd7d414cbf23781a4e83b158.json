@@ -23,7 +23,7 @@
                 "description": "网关简介为什么要有网关，这个不好解释，那就说说如果没有网关会有哪些问题吧对于微服务来说，会有很多的应用服务客户端请求不同的微服务，这些增加了客户端的复杂性如果微服务进行重新划分了，那么客户端如何进行通",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 79,
                     "createTime": "2024-08-06 19:04"
                 }
             }

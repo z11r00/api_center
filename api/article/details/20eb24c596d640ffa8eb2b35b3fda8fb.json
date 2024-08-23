@@ -23,7 +23,7 @@
                 "description": "springCloudConfig获取远程配置client端获取配置springCloudConfig核心其实在于实现了一个PropertySourceLocator接口来进行获取远程配置的@Orde",
                 "level": 1,
                 "publishTime": "2024/08/20",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 78,
+                    "writingNum": 79,
                     "createTime": "2024-08-06 19:04"
                 }
             }

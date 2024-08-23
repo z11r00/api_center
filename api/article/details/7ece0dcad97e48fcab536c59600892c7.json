@@ -23,7 +23,7 @@
                 "description": "它可以自动裁剪中心人物，将光照条件匹配到背景、修复边缘、并添加深度模糊和胶片颗粒等额外效果，大大加快了后期特效的处理速度。实时更换背景后的效果，不仅人物的边缘看起来没有太多的违和感，而且连光照的颜色和",
                 "level": 2,
                 "publishTime": "2024/08/21",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1597,
+                    "writingNum": 1605,
                     "createTime": "2024-08-06 19:06"
                 }
             }

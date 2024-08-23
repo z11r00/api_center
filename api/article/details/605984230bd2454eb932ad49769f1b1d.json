@@ -23,7 +23,7 @@
                 "description": "分层设计领域驱动设计（Domain-drivendesign,DDD）作为一种复杂软件系统的应对方案，在设计和编码提供了一种新的解决方式，即领域驱动，要求程序员在设计和编码时从领域专家的角度出发来实现",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "bty834.github.io",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 11,
+                    "writingNum": 12,
                     "createTime": "2024-08-10 08:48"
                 }
             }

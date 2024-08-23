@@ -23,7 +23,7 @@
                 "description": "英伟达最近上线了一批不错的免费课程，先收藏起来！ps:有时候真想有一个收藏即学会的技能啊数据中心中的人工智能了解数据中心的AI基础知识，涵盖机器学习、深度学习、GPU架构和部署。了解多系统AI集群和基",
                 "level": 1,
                 "publishTime": "2024/08/21",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 12,
+                    "writingNum": 13,
                     "createTime": "2024-08-06 19:02"
                 }
             }
