@@ -23,7 +23,7 @@
                 "description": "X-Lab已经发布了FLUX的IPapadter模型。支持512x512和1024x1024分辨率。安装他们的ComfyUI插件，下载对应的IPapadter和Clip模型，拖入对应工作流。参考文献：",
                 "level": 2,
                 "publishTime": "2024/08/21",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1605,
+                    "writingNum": 1613,
                     "createTime": "2024-08-06 19:06"
                 }
             }

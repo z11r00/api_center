@@ -23,7 +23,7 @@
                 "description": "限流大众的限流方案有三种，计数器、漏桶算法、令牌算法计数器分为固定窗口和滑动窗口固定窗口计数器固定窗口比较简单粗暴，如果假定某个接口1s最多接收100个请求，维护一个固定单位时间的计数器，检测到单位时",
                 "level": 1,
                 "publishTime": "2024/08/22",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 79,
+                    "writingNum": 80,
                     "createTime": "2024-08-06 19:04"
                 }
             }

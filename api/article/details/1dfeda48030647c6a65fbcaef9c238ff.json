@@ -23,7 +23,7 @@
                 "description": "1.角色的概念角色是权限的集合，使用角色的目的是使权限管理更加方便。在数据库中，如果有多个用户需要相同的权限，通过角色来管理这些权限是一个有效的方法。比如，如果有10个用户需要访问数据库，分别赋予这些",
                 "level": 1,
                 "publishTime": "2024/08/22",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 93,
+                    "writingNum": 91,
                     "createTime": "2024-08-06 19:02"
                 }
             }

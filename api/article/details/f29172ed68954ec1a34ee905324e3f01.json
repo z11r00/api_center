@@ -23,7 +23,7 @@
                 "description": "面向初学者的Python教程。它从基本的编程概念开始；它精心安排了所有术语的定义，每个术语在首次使用时都会进行解释，并逐步发展每个新的概念。像递归和面向对象编程这样的较大部分被分成一系列较小的步骤，并",
                 "level": 2,
                 "publishTime": "2024/08/22",
-                "readingNum": 8,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1605,
+                    "writingNum": 1613,
                     "createTime": "2024-08-06 19:06"
                 }
             }

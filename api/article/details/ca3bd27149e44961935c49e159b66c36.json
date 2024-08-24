@@ -23,7 +23,7 @@
                 "description": "Anthropic刚刚发布了两种学习提示工程的课程资源。为刚开始使用Claude的人提供交互式提示教程：该交互式教程包含9个章节，介绍了所有提示基础知识，从如何构建提示到包含示例的最佳实践。[1]为基",
                 "level": 2,
                 "publishTime": "2024/08/22",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1605,
+                    "writingNum": 1613,
                     "createTime": "2024-08-06 19:06"
                 }
             }

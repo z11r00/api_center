@@ -23,7 +23,7 @@
                 "description": "微软最近发布了Phi-3.5系列模型，包括Phi-3.5MiniInstruct、Phi-3.5VisionInstruct和Phi-3.5MoE，并且支持128K上下文。Phi-3.5MiniIns",
                 "level": 2,
                 "publishTime": "2024/08/21",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1605,
+                    "writingNum": 1613,
                     "createTime": "2024-08-06 19:06"
                 }
             }

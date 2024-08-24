@@ -23,7 +23,7 @@
                 "description": "最近碰到的问题后台服务的响应时间较大，比如说需要5s才能正常处理请求，但是公司nginx的统一超时配置只有3s，这样的话在后台服务没有处理完请求之前，nginx就已经提前断开请求，导致大量504请求处",
                 "level": 1,
                 "publishTime": "2024/08/22",
-                "readingNum": 0,
+                "readingNum": 1,
                 "likeNum": 0,
                 "introduction": "不大不小厂资深码农",
                 "followWords": "简单学习，快乐学习！",

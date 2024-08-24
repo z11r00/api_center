@@ -23,7 +23,7 @@
                 "description": "智谱开源了一个模型，可以输出长度超过1万字的文本，非常适合写作，特别是论文、公文等。参考文献：[1]论文：https://arxiv.org/abs/2408.07055[2]代码：https://g",
                 "level": 2,
                 "publishTime": "2024/08/21",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1605,
+                    "writingNum": 1613,
                     "createTime": "2024-08-06 19:06"
                 }
             }

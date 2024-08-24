@@ -23,7 +23,7 @@
                 "description": "本周已经踩过两次坑了，为了快速自测，会在逻辑里加入一些mock代码，结果会在某个瞬间失忆导致误提交这些mock代码，只是提交到开发分支还好，如果上线时代码review不细致，可能会导致更严重的问题。下",
                 "level": 1,
                 "publishTime": "2024/08/22",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": "不大不小厂资深码农",
                 "followWords": "简单学习，快乐学习！",

@@ -23,7 +23,7 @@
                 "description": "覆盖的模型包括OpenAI的GPT-4o系列、Anthropic的Claude系列、谷歌的Gemini系列、xAI的Groq等主流模型。表格的上半部分显示的是模型API的的价格。下半部分是模型相对价格",
                 "level": 2,
                 "publishTime": "2024/08/21",
-                "readingNum": 11,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1605,
+                    "writingNum": 1613,
                     "createTime": "2024-08-06 19:06"
                 }
             }

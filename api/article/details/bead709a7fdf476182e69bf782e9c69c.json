@@ -23,7 +23,7 @@
                 "description": "Redis的持久化机制有两种持久化机制，分别是RDB和AOF1.RDBRedisDatabaseBackupfile（RDB），也被称为Redis数据快照，RDB将内存中的数据都记录在磁盘上，当Red",
                 "level": 1,
                 "publishTime": "2024/08/22",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
