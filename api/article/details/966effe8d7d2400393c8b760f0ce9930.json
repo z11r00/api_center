@@ -23,7 +23,7 @@
                 "description": "一、概述目前为止我们学习了组播转发网络中的PIM协议，PIM模型有两种：PIM-DM主要使用在网络规模较小，用户集中的组播网络中。PIM-SM主要使用在网络规模较大，用户较为分散的组播网络中。PIM-",
                 "level": 1,
                 "publishTime": "2024/08/23",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

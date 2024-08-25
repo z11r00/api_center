@@ -23,7 +23,7 @@
                 "description": "本文背景都说题目好文章就成功了一半，甚至有人讲：“一个会写标题的人相当于千军万马！”这肯定是夸张了，不过也确实是这么个情况。因为用户就给你1秒钟，你要让人愿意接着看，标题就得马上吸引住眼球，让人有点击",
                 "level": 1,
                 "publishTime": "2024/08/23",
-                "readingNum": 7,
+                "readingNum": 15,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 9,
+                    "writingNum": 10,
                     "createTime": "2024-08-06 19:02"
                 }
             }

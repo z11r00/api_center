@@ -23,7 +23,7 @@
                 "description": "OpenVoiceChat：与大型语言模型进行自然语音对话的开源工具，支持多种语音识别、语音合成和语言模型，提供易用且可扩展的API，目标成为闭源商业实现的开源替代方案。参考文献：[1]https:/",
                 "level": 2,
                 "publishTime": "2024/08/23",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1613,
+                    "writingNum": 1621,
                     "createTime": "2024-08-06 19:06"
                 }
             }

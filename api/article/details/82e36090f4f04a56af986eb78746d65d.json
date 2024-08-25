@@ -23,7 +23,7 @@
                 "description": "前言思考init进程从内核态向用户态的转变（1）一个进程先后两种状态（2）init进程在内核态下的工作内容（3）init进程在用户态下的工作内容（4）init进程如何从内核态跳跃到用户态？还能回来不？",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

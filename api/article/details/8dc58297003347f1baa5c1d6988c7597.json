@@ -23,7 +23,7 @@
                 "description": "Awesome-Ollama，一份整理了和Ollama相关的桌面用户界面、框架、库、软件和资源的非常全的列表。参考文献：[1]http://github.com/endo9000/Awesome-Ol",
                 "level": 2,
                 "publishTime": "2024/08/23",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1613,
+                    "writingNum": 1621,
                     "createTime": "2024-08-06 19:06"
                 }
             }

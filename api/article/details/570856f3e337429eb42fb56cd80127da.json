@@ -23,7 +23,7 @@
                 "description": "AI团队经常会使用GPU利用率来代表GPU性能。但一项最新报告表明，即使GPU显示100%的利用率，实际上可能还有大量未被充分利用的计算能力。一些与基础模型公司合作的研究人员发现，他们在优化LLM训练",
                 "level": 2,
                 "publishTime": "2024/08/23",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1613,
+                    "writingNum": 1621,
                     "createTime": "2024-08-06 19:06"
                 }
             }

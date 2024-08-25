@@ -23,7 +23,7 @@
                 "description": "1.分区表的管理随着数据库系统的运行，存储的数据量不断增加，特别是在现代企业中，许多表的存储空间可以达到数百GB，甚至TB级别。对于这些大型表来说，执行全表查询或数据操作语言（DML）操作时，效率会非",
                 "level": 1,
                 "publishTime": "2024/08/23",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

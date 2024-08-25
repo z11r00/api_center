@@ -23,7 +23,7 @@
                 "description": "前面我们学习了二层交换机、三层路由的配置，包括静态路由、动态路由、OSPF、BGP等，大部分都会有超时机制与定时器，但是大部分是以秒级为单位进行检测，在当前大规模网络部署情况下，1秒可以造成大范围的网",
                 "level": 1,
                 "publishTime": "2024/08/23",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

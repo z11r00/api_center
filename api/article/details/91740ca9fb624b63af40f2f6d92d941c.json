@@ -23,7 +23,7 @@
                 "description": "纵观Llama系列模型，从版本1到3，展示了大规模预训练语言模型的演进及其在实际应用中的显著潜力。这些模型不仅在技术上不断刷新纪录，更在商业和学术界产生了深远的影响。因此，对Llama模型不同版本之间",
                 "level": 2,
                 "publishTime": "2024/08/23",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1613,
+                    "writingNum": 1621,
                     "createTime": "2024-08-06 19:06"
                 }
             }

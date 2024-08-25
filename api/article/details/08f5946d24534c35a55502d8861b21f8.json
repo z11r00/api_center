@@ -23,7 +23,7 @@
                 "description": "1.基本数据库对象管理概述在Oracle数据库中，无论是数据库管理员还是普通用户，都需要经常对数据库对象进行管理，比如表、索引、视图、存储过程和触发器等。这些数据库对象按逻辑关系组织在一起，形成了一个",
                 "level": 1,
                 "publishTime": "2024/08/23",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

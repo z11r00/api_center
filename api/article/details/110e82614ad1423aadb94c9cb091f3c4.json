@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "110e82614ad1423aadb94c9cb091f3c4"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82506,
+                "outId": "110e82614ad1423aadb94c9cb091f3c4",
+                "articleOutId": "110e82614ad1423aadb94c9cb091f3c4",
+                "html": "",
+                "title": "二叉树",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 72186,
+                "userOutId": "505524290070",
+                "username": "伟大的人",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/24",
+                "readingNum": 1,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "5b4832d52c704b30a3c3a6ece5cf6f3d",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-06 19:02"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "110e82614ad1423aadb94c9cb091f3c4"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

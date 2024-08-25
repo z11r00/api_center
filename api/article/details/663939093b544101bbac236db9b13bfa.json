@@ -23,7 +23,7 @@
                 "description": "zuul简介zuul是Netflix开源的微服务网关，包含了对请求的路由和过滤两个主要的功能路由，负责将外部请求转发到具体的微服务实例上，实现外部访问统一入口的基础过滤，负责对请求的过程进行干预，实现",
                 "level": 1,
                 "publishTime": "2024/08/23",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "103bd1e436994901b0bc13ae24716d53"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82558,
+                "outId": "103bd1e436994901b0bc13ae24716d53",
+                "articleOutId": "103bd1e436994901b0bc13ae24716d53",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">And I kind of talked about using how many Carrot Cakes do I have as kind of the baseline for should I get into Builder's Talent. And the more I think about and play with it, the more it's like, yes, Carrot Cake is the best common to pair with it, but it works with a lot of different things, and I don't think you strictly need to be doing Carrot Cake, and I think if it's somewhat early in the draft or if you have some amount of support for it, it's fine to just take it and plan to draft around it. The other most important common, I think, is Fountainport Bell. That's the one mana artifact that allows you to, if you wish, search your library for land and put it on top, basic land,</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">and then you can spend one mana and sac it to draw a card. I think this card is pretty misunderstood. I think it's very good, and I think that you can safely cut lands for bells just one to one. Like, I've seen people look at my decks and say, \"Oh, you're only playing 15 lands in this deck.\" Well, I'm playing two bells, so to me it's a 17 land deck. I think that for your first roughly three bells, maybe even more than that, you can pretty safely just think of it as a tapped land.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Like, if you keep an opening hand with a land and a bell, then you, on turn one, play the land and cast the bell, so you don't get to use mana with your other thing, so that means that your first land functionally came into play tapped, and the second land, like, you draw a land and then you play it and it's untapped, and now you have two mana on turn two, so it's the same as if your hand actually had two lands. Now, you are down your second draw step, right? Like, you had to draw a land instead of drawing something else,</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">and so if that had just been a land in your hand and you were looking for your third land, then you're like one card less far toward finding your third land, so it theoretically costs you something in your ability to hit your third land compared to having a hand with two lands, except that when you sack the bell, you get that drawback. So you're like kind of down a second mana toward developing, but only if you have to spend that mana at an inconvenient time to make that development happen. So, like, there is a very, very small fringe cost in terms of it being, like, a little bit more, like, halting to your development than a tapped land, but it's really trivial. So the big concern is, well, what if you have a hand that you would heap,</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">but you have to mulligan because you don't have a land and you only have bells, or you just have too many tapped lands because you have too many bells and the cost to sacrifice them to get your cards back becomes significant. Like, an opening hand with two bells could be pretty awkward. So with three bells in your deck, you're just over seven percent to have two of them in your opening hand. At four, it's up to thirteen. I think at seven, I'm not really worried about it, especially since that's not, like, seven percent to have two bells and no lands, that's just seven percent to have two bells at all, and if you have, like,</p>",
+                "title": "test",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 56870,
+                "userOutId": "704721855690",
+                "username": "TopDeckMTG",
+                "avatar": "",
+                "description": "AndIkindoftalkedaboutusinghowmanyCarrotCakesdoIhaveaskindofthebaselineforshouldIgetintoBuilder'sTale",
+                "level": 1,
+                "publishTime": "2024/08/25",
+                "readingNum": 1,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "32c6b1006569461a8b8f2ec6c5186534",
+                    "name": "MTG Limited",
+                    "briefIntro": "万智牌限制赛",
+                    "cover": "https://files.mdnice.com/user/56870/column-cover/cd2949b2-fb90-46e2-8b1e-68421ba2ea65.jpg",
+                    "writingNum": 16,
+                    "createTime": "2024-08-12 20:44"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "103bd1e436994901b0bc13ae24716d53"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

@@ -23,7 +23,7 @@
                 "description": "Parsera是一个轻量级的Python库，用于结合LLMs（大型语言模型）进行网站抓取，旨在简化数据提取过程，并减少代币使用，提高速度并降低成本。参考文献：[1]https://github.com",
                 "level": 2,
                 "publishTime": "2024/08/23",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1613,
+                    "writingNum": 1621,
                     "createTime": "2024-08-06 19:06"
                 }
             }
