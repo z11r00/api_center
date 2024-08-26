@@ -23,7 +23,7 @@
                 "description": "索引组织表的管理索引组织表（IndexOrganizedTable，IOT）是一种特殊类型的表，它将表中的数据和表的索引存放在同一个段中。数据按照主键的顺序存储，并且索引的叶节点包含完整的表数据。IO",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 91,
+                    "writingNum": 92,
                     "createTime": "2024-08-06 19:02"
                 }
             }

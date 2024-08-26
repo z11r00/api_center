@@ -23,7 +23,7 @@
                 "description": "簇的管理簇（Cluster）是数据库中用于组织和存储具有相同簇键的表的一种特殊机制。它的主要目的是通过将具有相同键值的记录存储在同一数据块中，来优化多表联合查询的效率。以下是簇管理的详细内容以及相关的",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 91,
+                    "writingNum": 92,
                     "createTime": "2024-08-06 19:02"
                 }
             }

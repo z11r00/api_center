@@ -23,7 +23,7 @@
                 "description": "1.索引的管理概述索引是一种数据库对象，创建在表的一列或多列上，目的是为了提高查询速度。索引有两种创建方式：自动创建：在表上指定主键或唯一性约束时，索引会自动创建。手动创建：通过命令手动创建索引，这种",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 91,
+                    "writingNum": 92,
                     "createTime": "2024-08-06 19:02"
                 }
             }

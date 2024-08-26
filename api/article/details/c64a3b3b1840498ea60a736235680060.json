@@ -23,7 +23,7 @@
                 "description": "HumanLayer：AI代理与人类沟通的Python工具包，支持工具基础和异步工作流程中的人工智能代理与人类的交互。通过人类参与循环，赋予代理工具更强大的功能调用和任务执行能力。参考文献：[1]ht",
                 "level": 2,
                 "publishTime": "2024/08/24",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1621,
+                    "writingNum": 1629,
                     "createTime": "2024-08-06 19:06"
                 }
             }

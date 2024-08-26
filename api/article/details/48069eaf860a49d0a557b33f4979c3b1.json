@@ -23,7 +23,7 @@
                 "description": "一、转换方法介绍将普通表转换为分区表的方式有以下四种：1.导出/导入（Export/import）：-**方法**：通过Oracle的导出/导入命令实现，即把要转换的普通表数据导出，随后再导入分区表。",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 91,
+                    "writingNum": 92,
                     "createTime": "2024-08-06 19:02"
                 }
             }

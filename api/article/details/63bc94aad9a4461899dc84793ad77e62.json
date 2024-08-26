@@ -23,7 +23,7 @@
                 "description": "ComfyUI发布了一个相对大的版本更新0.10。PR#2666已经支持在ComfyUI中使用循环和条件语句将所有前端代码迁移到TypeScript新的设置对话框，具有改进的分组和搜索功能新的搜索框有",
                 "level": 2,
                 "publishTime": "2024/08/24",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1621,
+                    "writingNum": 1629,
                     "createTime": "2024-08-06 19:06"
                 }
             }

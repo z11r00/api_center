@@ -23,7 +23,7 @@
                 "description": "概念策略模式(StrategyPattern)：定义一系列算法，将每一个算法封装起来，并让它们可以相互替换。策略模式让算法独立于使用它的客户而变化。策略模式属于行为型设计模式。针对一组算法，将每一个算",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

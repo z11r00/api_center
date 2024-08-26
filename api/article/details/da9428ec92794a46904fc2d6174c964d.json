@@ -23,7 +23,7 @@
                 "description": "最近在看一个系统代码时，发现系统里面在使用到了ThreadLocal，乍一看，好像很高级的样子。我再仔细一看，这个场景并不会存在线程安全问题，完全只是在一个方法中传参使用的啊！（震惊）难道是我水平太低",
                 "level": 1,
                 "publishTime": "2024/08/24",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
