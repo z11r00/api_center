@@ -23,7 +23,7 @@
                 "description": "DjangoQ2：Django多进程分布式任务队列系统，基于Django-Q进行更新与改进，支持异步任务、定时任务和重复任务，适用于多种消息代理。参考文献：[1]http://github.com/d",
                 "level": 2,
                 "publishTime": "2024/08/25",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1629,
+                    "writingNum": 1637,
                     "createTime": "2024-08-06 19:06"
                 }
             }

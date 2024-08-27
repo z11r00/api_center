@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "2003e3e5eaec4d7582e1cdeb83b08044"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82626,
+                "outId": "2003e3e5eaec4d7582e1cdeb83b08044",
+                "articleOutId": "2003e3e5eaec4d7582e1cdeb83b08044",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Scavengers talent, obviously you want to be a very... you want everything you can that's making extra objects and you want to be playing a long game, and typical scavengers talent stuff but that kind of abs-and-food space is going to play really well with both of them. So instants that make food are another really good thing to look for. That would be Savor, Cash Grab, and Pawpatch Formation. Savor is the -2/-2 instant that makes a food, Cash Grab is the mill for \"put a permanent formamant into your hand\" and if you have a squirrel or take a squirrel, get a food, and Pawpatch Formation is the modal spell where one of the modes is \"draw a card, make a food.\" So with Builder's Talent, all of those become combat tricks, so it gives you appreciable extra value on these cards that are pretty good otherwise, and Cash Grab obviously has a little bit of extra synergy because if you see and don't take a non-creature permanent from among those cards, you can always get it later with the Builder's Talent. Of course, Share Pot is great with Builder's Talent, it's two objects up front and a removal spell that you can get back for two more triggers later. It's a lot of mana, so your deck needs to be in this waiting around and spending a lot of mana, but as I'm saying, that's basically where you want to be with all the Builder's Talent decks. Fountainport, the Rare Land, is another really big one to look for with Builder's Talent. Really low opportunity cost to put it into whatever deck you have, and it's just generally really good when you're playing long games. Also, you're playing Builder's Talent, so you're probably making a bunch of food, so Fountainport will let you sacrifice the food to draw cards. And most importantly, when you spend four mana and tap Fountainport to make a treasure, Builder's Talent will trigger and you'll get a +1/+1 counter, so that means that your Fountainport can be an onboard combat trick that is pretty easily overlooked, incidentally, so you'll get some amount of value out of opponents just not playing around with that, speaking from experience there. And yeah, Honored Heirloom is very good with Builder's Talent, again, mostly because they're both looking for playing long games and they both really appreciate Carrot Cake. You're probably going to be into making little tokens when you have Builder's Talent because you're playing white and you want to reliably have bodies to put the counters on, and it doesn't necessarily matter if the body is big to start because you can make it big with the Builder's Talent. So then if you have a bunch of bodies and you're playing a long game,the Heirloom will draw cards over time to find more non-creature permanents to give you more triggers. Oh, Heirloom Epic, not another Heirloom, sorry, my mistake, yes, Heirloom Epic is the card that I'm talking about. And yeah, that's in a very similar space to Stalking the Pantry. A little bit less efficient in terms of mana on drawing the card, but also requires a little bit less synergy. Like, with Stalking the Pantry, if you don't have other +1/+1 counter sources aside from Builder's Talent, the Stalking the Pantry won't do anything some portion of the time, whereas the Heirloom Epic is going to be more reliable on its own.</p>",
+                "title": "test",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 56870,
+                "userOutId": "704721855690",
+                "username": "TopDeckMTG",
+                "avatar": "",
+                "description": "Scavengerstalent,obviouslyyouwanttobeavery...youwanteverythingyoucanthat'smakingextraobjectsandyouwa",
+                "level": 1,
+                "publishTime": "2024/08/26",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "32c6b1006569461a8b8f2ec6c5186534",
+                    "name": "MTG Limited",
+                    "briefIntro": "万智牌限制赛",
+                    "cover": "https://files.mdnice.com/user/56870/column-cover/cd2949b2-fb90-46e2-8b1e-68421ba2ea65.jpg",
+                    "writingNum": 7,
+                    "createTime": "2024-08-12 20:44"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "2003e3e5eaec4d7582e1cdeb83b08044"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

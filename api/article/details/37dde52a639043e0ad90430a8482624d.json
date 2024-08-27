@@ -23,7 +23,7 @@
                 "description": "PID（比例-积分-微分）算法是一种在控制理论中广泛使用的反馈控制算法，用于实现对系统输出的精确控制。PID控制器通过调整输入信号来控制一个过程，以便使输出值尽可能接近期望的设定点。PID控制系统相关",
                 "level": 1,
                 "publishTime": "2024/08/25",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

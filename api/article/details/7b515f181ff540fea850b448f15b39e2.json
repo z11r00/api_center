@@ -23,7 +23,7 @@
                 "description": "文章简介本文研究了计算机视觉技术在空手道训练中的应用，特别是如何通过运动预判训练来提高运动员的周边视觉能力。研究利用了一个名为KUMITRON的人工智能系统，该系统最初是为成对训练设计的，能够实时监控",
                 "level": 1,
                 "publishTime": "2024/08/25",
-                "readingNum": 9,
+                "readingNum": 14,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 9,
+                    "writingNum": 11,
                     "createTime": "2024-08-11 14:54"
                 }
             }

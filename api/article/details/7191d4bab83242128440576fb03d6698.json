@@ -23,7 +23,7 @@
                 "description": "Moonshot：一款用于评估和红队任何大型语言模型（LLM）应用的简单且模块化工具，由AI验证基金会开发，集成了基准测试和红队测试，帮助AI开发者、合规团队和AI系统所有者评估LLMs和LLM应用。",
                 "level": 2,
                 "publishTime": "2024/08/25",
-                "readingNum": 2,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1629,
+                    "writingNum": 1637,
                     "createTime": "2024-08-06 19:06"
                 }
             }

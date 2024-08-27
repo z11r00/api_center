@@ -23,7 +23,7 @@
                 "description": "本次重点介绍了58种提示技术，分成六大类：零样本提示、少样本提示、思想生成、集成学习、自我批评和分解。参考文献：[1]https://arxiv.org/pdf/2406.06608NLP工程化1.本",
                 "level": 2,
                 "publishTime": "2024/08/24",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1629,
+                    "writingNum": 1637,
                     "createTime": "2024-08-06 19:06"
                 }
             }

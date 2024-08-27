@@ -23,7 +23,7 @@
                 "description": "Zustand的持久化中间件允许你将状态存储在各种存储中，例如localStorage、AsyncStorage或IndexedDB等。这使得应用的状态可以跨页面持久化。也就是说用户刷新页面或者关闭浏",
                 "level": 1,
                 "publishTime": "2024/08/25",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

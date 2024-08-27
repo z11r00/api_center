@@ -23,7 +23,7 @@
                 "description": "在前文中，我们介绍了Zustand这个简单、易用、轻量的状态管理框架。通常情况下，状态管理通常都是全局的，可以在应用的任意地方访问。然而，这样的做法是否真的符合最佳实践呢？如果从马克思的角度来看，任何",
                 "level": 1,
                 "publishTime": "2024/08/26",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

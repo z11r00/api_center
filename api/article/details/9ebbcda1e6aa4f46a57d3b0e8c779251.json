@@ -23,7 +23,7 @@
                 "description": "DecodingAttention：针对大型语言模型（LLM）解码阶段的多头注意力（MHA）优化，利用CUDA核心进行推理的解码注意力工具，可解决FlashAttention在LLM推理解码阶段张量核",
                 "level": 2,
                 "publishTime": "2024/08/25",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1629,
+                    "writingNum": 1637,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "Liger-Kernel：为大型语言模型训练设计的高效Triton内核，通过一行代码提升模型性能，降低内存使用，支持更长上下文长度、更大批量大小和庞大词汇量。参考文献：[1]http://github",
                 "level": 2,
                 "publishTime": "2024/08/24",
-                "readingNum": 10,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1629,
+                    "writingNum": 1637,
                     "createTime": "2024-08-06 19:06"
                 }
             }

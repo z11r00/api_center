@@ -23,7 +23,7 @@
                 "description": "1.PL/SQL的定义与特点PL/SQL是Oracle公司开发的一种编程语言，它是对SQL的扩展。PL/SQL程序可以定义变量、数据类型、函数、过程、游标等，且能够包含SQL语句。PL/SQL的设计目",
                 "level": 1,
                 "publishTime": "2024/08/25",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 92,
+                    "writingNum": 87,
                     "createTime": "2024-08-06 19:02"
                 }
             }

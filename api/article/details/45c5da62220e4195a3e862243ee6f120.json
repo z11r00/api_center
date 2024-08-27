@@ -23,7 +23,7 @@
                 "description": "Notty提供了一个简洁直观、功能丰富的笔记平台，支持Markdown语法，有AI辅助功能，比如智能提示和自动排版等，对于想要借助AI提升笔记效率的人来说比较友好。特点：1、支持Markdown编辑2",
                 "level": 2,
                 "publishTime": "2024/08/25",
-                "readingNum": 5,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1629,
+                    "writingNum": 1637,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "4ec06e0a419d46698988335f6f02791b"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82645,
+                "outId": "4ec06e0a419d46698988335f6f02791b",
+                "articleOutId": "4ec06e0a419d46698988335f6f02791b",
+                "html": "",
+                "title": "自动化文章空白文档",
+                "categoryId": 7,
+                "categoryName": "文学",
+                "tagId": 145,
+                "tagName": "写作",
+                "userId": 69582,
+                "userOutId": "232317084211",
+                "username": "18359283112",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/26",
+                "readingNum": 4,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "e08df5abfa6f417f965e8bb0fb371043",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-06 19:02"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "4ec06e0a419d46698988335f6f02791b"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

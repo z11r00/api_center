@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "0e235265edb341128c842943cb4131e0"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82620,
+                "outId": "0e235265edb341128c842943cb4131e0",
+                "articleOutId": "0e235265edb341128c842943cb4131e0",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">在基因组学研究中，神经网络作为一种强大的工具，被广泛应用于基因型和表型之间的关联分析。通过构建神经网络模型，我们可以更好地理解遗传变异是如何影响个体的性状表现。本文将详细介绍如何使用Python实现这一过程，利用已知群体的基因变异数据和表型数据来构建模型，并应用于新样本表型预测。</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: #009688; padding-left: 12px; margin: 1em auto; font-size: 1.2em; border-left: 4px solid #009688;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\">什么是神经网络？</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">神经网络是一种模仿人脑神经元结构的计算模型，用于识别模式、分类数据、以及预测连续值。它由多个层组成，包括输入层、隐藏层和输出层。每一层都包含若干个节点（或称为“神经元”），这些节点通过加权连接相互作用，神经网络通过调整这些权重来学习数据中的模式。</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/34933/09d5ee28-7179-41a5-bbb2-ddac7967a0e2.png\" alt style=\"display: block; margin: 0 auto; max-width: 100%; margin-top: 10px; margin-bottom: 10px; border-radius: 5px;\"> \n</figure> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: #009688; padding-left: 12px; margin: 1em auto; font-size: 1.2em; border-left: 4px solid #009688;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\">如何构建神经网络模型？</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">第一步准备数据，在开始之前，我们需要准备基因型和表型数据。基因型数据通常是一系列的遗传变异，比如SNPs（单核苷酸多态性），而表型数据则是与这些遗传变异相关的性状测量值。假设我们已经拥有了这样的数据集，并且已经进行了必要的预处理。</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px;\"><code class=\"hljs\" style=\"overflow-x: auto; background: #fff; color: black; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; border: 2px solid #d5ebe1; border-radius: 10px; padding: 10px;\">import&nbsp;pandas&nbsp;as&nbsp;pd<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;构造一个简单的基因型-表型数据集</span><br>data&nbsp;=&nbsp;{<br>&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'SNP1'</span>:&nbsp;[0,&nbsp;1,&nbsp;1,&nbsp;0,&nbsp;1],<br>&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'SNP2'</span>:&nbsp;[1,&nbsp;0,&nbsp;0,&nbsp;1,&nbsp;0],<br>&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'SNP3'</span>:&nbsp;[1,&nbsp;1,&nbsp;0,&nbsp;1,&nbsp;1],<br>&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'Phenotype'</span>:&nbsp;[120,&nbsp;115,&nbsp;110,&nbsp;125,&nbsp;130]<br>}<br><br>df&nbsp;=&nbsp;pd.DataFrame(data)<br><span class=\"hljs-built_in\" style=\"color: #5c2699; line-height: 26px;\">print</span>(df)<br></code></pre> \n<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; margin: 0.9em auto; padding-left: 21px; font-size: 1.1em; border-left: 3px solid #451261;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\">数据预处理</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">在构建模型之前，需要对数据进行标准化或归一化，以提高模型的表现。</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px;\"><code class=\"hljs\" style=\"overflow-x: auto; background: #fff; color: black; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; border: 2px solid #d5ebe1; border-radius: 10px; padding: 10px;\">from&nbsp;sklearn.preprocessing&nbsp;import&nbsp;StandardScaler<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;数据分割</span><br>X&nbsp;=&nbsp;df.drop(<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'Phenotype'</span>,&nbsp;axis=1)<br>y&nbsp;=&nbsp;df[<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'Phenotype'</span>]<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;数据标准化</span><br>scaler&nbsp;=&nbsp;StandardScaler()<br>X_scaled&nbsp;=&nbsp;scaler.fit_transform(X)<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">接下来，我们将使用Python中的Keras库来构建神经网络模型。Keras是一个高级API，可以运行在TensorFlow之上，使得神经网络的搭建变得简单快捷。</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px;\"><code class=\"hljs\" style=\"overflow-x: auto; background: #fff; color: black; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; border: 2px solid #d5ebe1; border-radius: 10px; padding: 10px;\">from&nbsp;tensorflow.keras.models&nbsp;import&nbsp;Sequential<br>from&nbsp;tensorflow.keras.layers&nbsp;import&nbsp;Dense<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;创建模型</span><br>model&nbsp;=&nbsp;Sequential()<br>model.add(Dense(16,&nbsp;input_dim=X.shape[1],&nbsp;activation=<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'relu'</span>))<br>model.add(Dense(8,&nbsp;activation=<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'relu'</span>))<br>model.add(Dense(1,&nbsp;activation=<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'linear'</span>))<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;编译模型</span><br>model.compile(loss=<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'mean_squared_error'</span>,&nbsp;optimizer=<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'adam'</span>)<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;查看模型结构</span><br>model.summary()<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">一旦模型构建完成，就可以使用训练数据对其进行训练。</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px;\"><code class=\"hljs\" style=\"overflow-x: auto; background: #fff; color: black; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; border: 2px solid #d5ebe1; border-radius: 10px; padding: 10px;\"><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;训练模型</span><br>model.fit(X_scaled,&nbsp;y,&nbsp;epochs=100,&nbsp;batch_size=10,&nbsp;verbose=0)<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">训练完成后，我们可以使用训练好的模型来进行表型预测。这一步骤对于验证模型的有效性和评估其泛化能力至关重要。</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px;\"><code class=\"hljs\" style=\"overflow-x: auto; background: #fff; color: black; display: -webkit-box; font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; font-size: 12px; -webkit-overflow-scrolling: touch; border: 2px solid #d5ebe1; border-radius: 10px; padding: 10px;\"><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;对新数据进行预测</span><br>new_data&nbsp;=&nbsp;[[1,&nbsp;0,&nbsp;1]]&nbsp;&nbsp;<span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">#&nbsp;新的基因型数据</span><br>new_data_scaled&nbsp;=&nbsp;scaler.transform(new_data)<br>prediction&nbsp;=&nbsp;model.predict(new_data_scaled)<br><br><span class=\"hljs-built_in\" style=\"color: #5c2699; line-height: 26px;\">print</span>(<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">\"Predicted&nbsp;Phenotype&nbsp;Value:\"</span>,&nbsp;prediction[0][0])<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; text-align: justify; padding: 0px; letter-spacing: 1px; margin-bottom: 20px;\">本文介绍了如何使用Python和神经网络技术对基因型和表型构建模型，并利用训练好的模型进行表型预测。神经网络的强大之处在于它们可以从复杂的非线性关系中学习到有用的特征，这对于基因组学研究尤为重要。</p>",
+                "title": "Python神经网络在基因组学中的应用",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 34933,
+                "userOutId": "694916097488",
+                "username": "生信分析笔记",
+                "avatar": "https://files.mdnice.com/pic/999f0227-630d-4ad3-9e0a-f53f7aa52212.jpg",
+                "description": "在基因组学研究中，神经网络作为一种强大的工具，被广泛应用于基因型和表型之间的关联分析。通过构建神经网络模型，我们可以更好地理解遗传变异是如何影响个体的性状表现。本文将详细介绍如何使用Python实现这",
+                "level": 2,
+                "publishTime": "2024/08/26",
+                "readingNum": 7,
+                "likeNum": 0,
+                "introduction": "欢迎关注公众号：生信分析笔记",
+                "followWords": "关注领取免费资料",
+                "followPic": "https://files.mdnice.com/pic/c5552ee9-95f5-48be-88a2-f0d94b53312e.png",
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "f0e6c76d84134b4b90f01ac4dad384b1",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 143,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "0e235265edb341128c842943cb4131e0"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
