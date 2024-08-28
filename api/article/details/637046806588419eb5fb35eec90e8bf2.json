@@ -23,7 +23,7 @@
                 "description": "dattri：基于PyTorch的数据归属算法开发、基准测试和部署的库。参考文献：[1]http://github.com/TRAIS-Lab/dattri[2]https://trais-lab.g",
                 "level": 2,
                 "publishTime": "2024/08/26",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1637,
+                    "writingNum": 1641,
                     "createTime": "2024-08-06 19:06"
                 }
             }

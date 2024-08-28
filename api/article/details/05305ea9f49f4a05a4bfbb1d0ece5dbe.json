@@ -23,7 +23,7 @@
                 "description": "zuul过滤器zuul有四种类型的过滤器pre请求被路由之前执行，可以进行限流、身份验证、鉴权、参数检验、请求转发，用于设置RequestContext中的数据，以供下游的过滤器使用route路由后，",
                 "level": 1,
                 "publishTime": "2024/08/26",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 82,
                     "createTime": "2024-08-06 19:04"
                 }
             }

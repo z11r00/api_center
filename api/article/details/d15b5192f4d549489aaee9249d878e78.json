@@ -23,7 +23,7 @@
                 "description": "交付（传递）语义交付语义是在分布式消息系统（如Kafka）中，用来描述消息从生产者到达消息系统并最终被消费者消费时的可靠性保证。它主要涉及到消息是否能正确地被投递，及在什么情况下可能会出现消息丢失或重",
                 "level": 1,
                 "publishTime": "2024/08/26",
-                "readingNum": 7,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

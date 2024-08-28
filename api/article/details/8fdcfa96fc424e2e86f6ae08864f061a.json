@@ -23,7 +23,7 @@
                 "description": "前言准备工作使能动态输出宏开关挂载debugfsdynamicdebug的使用pr_debugpr_devel总结前言动态输出是内核子系统最喜欢的输出手段之一。在系统运行时，可以由系统维护者动态打开和",
                 "level": 1,
                 "publishTime": "2024/08/26",
-                "readingNum": 7,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

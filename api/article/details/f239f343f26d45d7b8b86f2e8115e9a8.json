@@ -23,7 +23,7 @@
                 "description": "ComfyUI-Nexus这个插件可以让ComfyUI支持多人协作，而且协作人不需要安装任何东西，打开链接就行。如下所示：最多支持15个并发用户只能在云服务的ComfyUI上运行观察他人工作流程的旁观",
                 "level": 2,
                 "publishTime": "2024/08/26",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1637,
+                    "writingNum": 1641,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "前言日志级别四种控制日志级别的设置defconfigbootargs参数procfs节点dmesg实际使用总结前言讲几篇常用内核驱动调试的方法，先从我最常用的printk的使用方法开始讲起,print",
                 "level": 1,
                 "publishTime": "2024/08/26",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

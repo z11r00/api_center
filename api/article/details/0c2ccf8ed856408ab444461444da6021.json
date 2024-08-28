@@ -23,7 +23,7 @@
                 "description": "本文的目的是帮助您了解如何执行自动微分以进行神经网络优化和学习。参考文献：[1]https://vmartin.fr/understanding-automatic-differentiation-i",
                 "level": 2,
                 "publishTime": "2024/08/25",
-                "readingNum": 16,
+                "readingNum": 18,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1637,
+                    "writingNum": 1641,
                     "createTime": "2024-08-06 19:06"
                 }
             }
