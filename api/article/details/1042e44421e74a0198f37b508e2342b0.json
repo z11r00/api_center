@@ -23,7 +23,7 @@
                 "description": "概念责任链模式（ChainofResponsibilityPattern）是一种行为型设计模式，它允许将请求从链条的头部开始，沿着处理链进行传递，直到链中的某个对象决定处理这个请求为止。这种模式常用于",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 10,
+                    "writingNum": 11,
                     "createTime": "2024-08-19 09:50"
                 }
             }

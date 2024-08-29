@@ -23,7 +23,7 @@
                 "description": "Deforumbasedonflux-dev：由XLabs-AI开发的Deforum项目，一个基于flux-dev的版本，具有高度真实感的图像生成功能，支持CLI运行和JupyterNotebook交",
                 "level": 2,
                 "publishTime": "2024/08/27",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1641,
+                    "writingNum": 1645,
                     "createTime": "2024-08-06 19:06"
                 }
             }

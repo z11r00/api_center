@@ -23,7 +23,7 @@
                 "description": "前言在学习Java之前，我们首先要清楚这门语言从入门到进阶需要学习哪些内容，下面是结合学习经历和工作经验整理的Java技术栈思维导图。适用于：小白学习Java前，全面了解需要掌握的Java相关知识点中",
                 "level": 1,
                 "publishTime": "2024/08/27",
-                "readingNum": 6,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 10,
+                    "writingNum": 11,
                     "createTime": "2024-08-19 09:50"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "1.环境准备确保你已经安装了Redis服务器，并且可以在本地或者远程访问它。如果你还没有安装Redis，请先安装并启动Redis服务。2.创建SpringBoot项目使用SpringInitializ",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
