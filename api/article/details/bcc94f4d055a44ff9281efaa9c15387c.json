@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "bcc94f4d055a44ff9281efaa9c15387c"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82792,
+                "outId": "bcc94f4d055a44ff9281efaa9c15387c",
+                "articleOutId": "bcc94f4d055a44ff9281efaa9c15387c",
+                "html": "",
+                "title": "头条",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 74081,
+                "userOutId": "126296037821",
+                "username": "shihao",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/29",
+                "readingNum": 7,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "c2d7e8b6652842d6b33f40091835034b",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-29 18:51"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "bcc94f4d055a44ff9281efaa9c15387c"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
