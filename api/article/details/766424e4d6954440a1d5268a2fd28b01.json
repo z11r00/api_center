@@ -23,7 +23,7 @@
                 "description": "专家混合相关资源列表：深入探讨混合专家(MoE)模型的分类、发展及其在大型语言模型中的应用，为研究人员和开发者提供全面的技术参考和未来研究方向。参考文献：[1]http://github.com/wi",
                 "level": 2,
                 "publishTime": "2024/08/26",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1641,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "本文背景:hello大家好我是大象，直接接上文，这一篇我们讲AI的常用格式，这一节也是基础课中非常重要的一个内容，有了正确的格式不仅能输出我们想要的文章内容（按格式）让AI清楚的知道,哪些是要求,哪些",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 13,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

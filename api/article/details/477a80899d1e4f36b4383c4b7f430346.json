@@ -23,7 +23,7 @@
                 "description": "本文背景一篇文章，除了标题，开头最为重要。它给读者留下第一印象，决定读者是否继续读下去。可对于写作新手，写出好开头很难，因为前期需要很多积累。那能借助AI来写好开头吗？答案当然是能。AI后台有大量文本",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

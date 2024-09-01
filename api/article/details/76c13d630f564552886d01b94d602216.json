@@ -23,7 +23,7 @@
                 "description": "背景随着业务发展，数据库实例磁盘逐渐升高，告警频繁，且后续可能会对DDL产生影响（尤其是借助ghost等工具执行的DDL）。该实例有多个库，则需要迁移其中的一个或几个单库到其他实例，为什么不做分库分表",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "bty834.github.io",
                 "followWords": null,

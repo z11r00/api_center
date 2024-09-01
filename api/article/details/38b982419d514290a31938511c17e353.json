@@ -23,7 +23,7 @@
                 "description": "今天我们将从一个空目录开始，一步步地介绍如何将一个包发布到npm，发布一个完全生产可用的包。这将包括：使用Git进行版本控制使用TypeScript编写代码并保持类型安全使用Prettier格式化代码",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 2,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

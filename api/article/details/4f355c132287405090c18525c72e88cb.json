@@ -23,7 +23,7 @@
                 "description": "在构建RESTAPI过程中，了解及熟练运用各种HTTP方法至关重要。本篇文档将剖析HTTP方法的核心要素，并详述GET、POST、PUT、DELETE四大常用方法。深入理解此类方法后，你便能设计出高效",
                 "level": 1,
                 "publishTime": "2024/08/27",
-                "readingNum": 9,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": "国内最全的API平台",
                 "followWords": "幂简集成",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-06 19:02"
                 }
             }

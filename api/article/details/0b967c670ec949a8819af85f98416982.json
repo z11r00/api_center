@@ -23,7 +23,7 @@
                 "description": "GateWay简介由于zuul升级为zuul2时，netflix公司内部出现了分歧，所以springcloud自己研发了一套网关gateway，提供一种简单有效的方式来对API进行路由，以及提供一些强",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 9,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 83,
+                    "writingNum": 86,
                     "createTime": "2024-08-06 19:04"
                 }
             }

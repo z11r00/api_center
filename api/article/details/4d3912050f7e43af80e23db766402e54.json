@@ -23,7 +23,7 @@
                 "description": "1.WHILE语句基本介绍：WHILE语句的功能是根据条件判断的结果来循环执行一部分代码。只要条件成立，代码就会不断执行，直到条件不再成立。WHILE语句的格式为：WHILE&nbsp;条件LOOP&",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 90,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

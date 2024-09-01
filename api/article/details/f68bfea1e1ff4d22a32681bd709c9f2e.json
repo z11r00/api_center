@@ -23,7 +23,7 @@
                 "description": "1.PL/SQL中的流控制PL/SQL提供了丰富的流控制语句，用来对程序的执行流程进行控制。通过使用这些流控制语句，可以编写更复杂的PL/SQL块。流控制语句主要分为两类：条件判断语句和循环语句。2.",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 90,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

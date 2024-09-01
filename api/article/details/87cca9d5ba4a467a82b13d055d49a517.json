@@ -23,7 +23,7 @@
                 "description": "AI写作是怎么回事Ai实际上就是一个自然语言处理器，它是通过机器学习算法，然后从大量的文本数据中学习到了语言模式和写作风格，而且它能够根据文本的上下文，包括语法语义和情景可以生成合适的文本内容，正是因",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 7,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

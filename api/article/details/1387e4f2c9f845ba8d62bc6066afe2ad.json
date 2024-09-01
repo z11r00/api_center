@@ -23,7 +23,7 @@
                 "description": "1.PL/SQL如何访问数据库在PL/SQL块中的主要目的是对数据库进行访问。在PL/SQL块中，可以包含各种SQL语句，例如SELECT语句用于查询数据，DML（DataManipulationLa",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 90,
+                    "writingNum": 93,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "英伟达推出了一系列AI在线课程，有的完全免费，有的限时免费。这些课程涵盖了从基础知识到高级应用的多个方面，适合不同程度的学习者。以下是六门课程的介绍，可以根据你的需求进行选择性学习：1.AI基础这门课",
                 "level": 2,
                 "publishTime": "2024/08/29",
-                "readingNum": 10,
+                "readingNum": 15,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1649,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

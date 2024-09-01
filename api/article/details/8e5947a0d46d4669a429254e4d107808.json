@@ -23,7 +23,7 @@
                 "description": "前言《Java核心技术》两卷本(《Java核心技术卷I：开发基础》和《Java核心技术卷II:高级特性》)作为Java学习的经典书籍已经更新到第12版。本次我将分享如下版本电子书：第11版中文版卷I和",
                 "level": 1,
                 "publishTime": "2024/08/30",
-                "readingNum": 5,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 14,
+                    "writingNum": 4,
                     "createTime": "2024-08-19 09:50"
                 }
             }

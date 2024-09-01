@@ -23,7 +23,7 @@
                 "description": "前置知识wireshark下载地址：https://wireshark.org更改中文配置编辑--首选项--外观--列自行增加源端口和目标端口配置将pcap文件导入wireshark，使用筛选功能筛选",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 10,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 2,
+                    "writingNum": 3,
                     "createTime": "2024-08-28 16:48"
                 }
             }

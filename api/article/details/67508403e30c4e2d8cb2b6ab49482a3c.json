@@ -23,7 +23,7 @@
                 "description": "背景function&nbsp;demo()&nbsp;{&nbsp;&nbsp;const&nbsp;bigArrayBuffer&nbsp;=&nbsp;new&nbsp;ArrayBuffer(",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 5,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 23,
+                    "writingNum": 24,
                     "createTime": "2024-08-06 19:02"
                 }
             }

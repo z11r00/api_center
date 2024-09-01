@@ -23,7 +23,7 @@
                 "description": "1.注解\\cancel{5}\\bcancel{5}\\color{red}\\xcancel{\\color{black}AB}$abc\\sout{abc}%markdown不能正常显示，换成~~abc~~",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 9,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 29,
+                    "writingNum": 22,
                     "createTime": "2024-08-06 19:03"
                 }
             }

@@ -22,8 +22,8 @@
                 "avatar": "https://files.mdnice.com/user/73753/user-avatar/ec75c4f6-44b1-476a-a457-61decebd7ccd.png",
                 "description": "今天我们回归到字符串算法的学习中，今天介绍的算法是AC自动机。1.引入上一期我们介绍了KMP算法，主要是针对一个模式串的问题，通过一个next数组减少了不必要的匹配。但是，如果有多个模式串需要被匹配呢",
                 "level": 1,
-                "publishTime": "2024/08/28",
-                "readingNum": 21,
+                "publishTime": "2024/08/30",
+                "readingNum": 29,
                 "likeNum": 0,
                 "introduction": "一名IT文章作者",
                 "followWords": null,
@@ -36,10 +36,10 @@
                 "invisibleReason": null,
                 "writingColumn": {
                     "columnOutId": "08001ad7ee4f4e43a588d3d728c54583",
-                    "name": "默认专栏",
-                    "briefIntro": "这是一个默认专栏",
-                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1,
+                    "name": "算法学习",
+                    "briefIntro": "DSR会在这里发布介绍算法的文章",
+                    "cover": "https://files.mdnice.com/user/73753/column-cover/07746eac-aff7-40b8-a269-51f044171cd0.jpg",
+                    "writingNum": 2,
                     "createTime": "2024-08-26 09:12"
                 }
             }

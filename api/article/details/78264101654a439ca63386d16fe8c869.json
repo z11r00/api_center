@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "78264101654a439ca63386d16fe8c869"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82895,
+                "outId": "78264101654a439ca63386d16fe8c869",
+                "articleOutId": "78264101654a439ca63386d16fe8c869",
+                "html": "",
+                "title": "fagad",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 74199,
+                "userOutId": "359869896882",
+                "username": "keddy",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/31",
+                "readingNum": 3,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "064894e32f6947229b10fb8b90f69b9a",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-31 09:41"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "78264101654a439ca63386d16fe8c869"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

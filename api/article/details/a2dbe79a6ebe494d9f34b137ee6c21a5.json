@@ -23,7 +23,7 @@
                 "description": "GPUd：确保GPU效率和可靠性的监控工具，自动识别、诊断和修复GPU相关问题，最小化停机时间，维持高效运行。参考文献：[1]http://github.com/leptonai/gpudNLP工程化",
                 "level": 2,
                 "publishTime": "2024/08/27",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1645,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

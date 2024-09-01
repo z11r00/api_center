@@ -23,7 +23,7 @@
                 "description": "本文背景写文章，咱们都讲究“凤头、猪肚、豹尾”。前两期咱通过自己写或者让AI帮忙，把文章的标题和开头弄好了。这一期，咱们仔细聊聊文章的中间部分，也就是“猪肚”（正文）。不管是议论文、说明文，还是记叙文",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

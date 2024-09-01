@@ -23,7 +23,7 @@
                 "description": "在Java中，金额计算通常使用java.lang.Long或java.math.BigDecimal类型。在金额计算简单时，可以将金额单位设置为分，然后用Long表示多少多少分，这样的金额范围是[-9",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": "bty834.github.io",
                 "followWords": null,

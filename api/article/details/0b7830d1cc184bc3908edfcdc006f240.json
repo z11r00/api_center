@@ -23,7 +23,7 @@
                 "description": "作者Leonie是向量数据库公司Weaviate的开发者，在LLM、RAG和向量数据库等方向都有很高的造诣。这篇指南将带你深入理解RAG技术，从基础概念到高级应用，再到系统评估，全方位解析了RAG在构",
                 "level": 2,
                 "publishTime": "2024/08/28",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1645,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

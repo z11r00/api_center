@@ -23,7 +23,7 @@
                 "description": "引言最近在新加坡首届GPT-4提示工程大赛上，很多科学家、人工智能研究人员、技术开发者以及对LLM技术充满热情的专业人士都参加了参与。大神SheilaTeo在这次比赛中获得冠军，她展示了对AI技术深刻",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

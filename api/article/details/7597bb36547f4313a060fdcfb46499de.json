@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "7597bb36547f4313a060fdcfb46499de"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82877,
+                "outId": "7597bb36547f4313a060fdcfb46499de",
+                "articleOutId": "7597bb36547f4313a060fdcfb46499de",
+                "html": "",
+                "title": "1",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 74180,
+                "userOutId": "917056542786",
+                "username": "阳光海味",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/31",
+                "readingNum": 5,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "7c260e4d357140f5b21356230c1d57ed",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-30 22:14"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "7597bb36547f4313a060fdcfb46499de"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

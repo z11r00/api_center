@@ -23,7 +23,7 @@
                 "description": "GateWay断言断言PredicategateWay网关中提供了多种断言方式After断言LoadedRoutePredicateFactory[After]After匹配在当前日期时间之后发生的请",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 84,
+                    "writingNum": 86,
                     "createTime": "2024-08-06 19:04"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "操作系统环境：Centos7.9，处理器：x86_641.安装软件将软件包上传到root用户的目录下，执行以下命令校验安装包完整性，然后执行安装：md5sum&nbsp;-c&nbsp;hgdb-se",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

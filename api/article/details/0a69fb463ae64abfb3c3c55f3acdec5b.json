@@ -23,7 +23,7 @@
                 "description": "目前mhchem已经有好几个版本，我们现在所需要使用的是它的第四版，所以如果要在TeXstudio或overleaf中使用mhchem，就在导言区添加:\\usepackage[version=4]{m",
                 "level": 1,
                 "publishTime": "2024/08/28",
-                "readingNum": 6,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 22,
                     "createTime": "2024-08-06 19:03"
                 }
             }

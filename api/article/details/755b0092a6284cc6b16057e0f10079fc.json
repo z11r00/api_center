@@ -23,7 +23,7 @@
                 "description": "本文背景之前弄了个诗词转画面大师，就是你给个句子，它就能给你画面提示词，接着用AI绘图软件能生成很棒的画面，再把图片弄成视频，最后能出个不错的作品。最近看到那些漫剪大师的作品，配的歌好听，画面美，涨粉",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

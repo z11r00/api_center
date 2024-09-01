@@ -23,7 +23,7 @@
                 "description": "Hide：为AIAgent提供Headless集成开发环境（IDE）的工具，它通过容器化的开发环境和API接口，允许Agent与代码库进行交互。参考文献：[1]http://github.com/ar",
                 "level": 2,
                 "publishTime": "2024/08/26",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1641,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

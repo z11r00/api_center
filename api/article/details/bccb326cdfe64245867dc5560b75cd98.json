@@ -23,7 +23,7 @@
                 "description": "LlamaStack：定义和标准化生成性AI应用开发周期中所需构建块的API集合，支持从模型训练到生产部署的全流程，提供开源实现和与云服务提供商合作，以促进AI领域的创新加速。参考文献：[1]http",
                 "level": 2,
                 "publishTime": "2024/08/27",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1645,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

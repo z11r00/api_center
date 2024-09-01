@@ -23,7 +23,7 @@
                 "description": "在7月底发布的MogDB5.0.8版本中，引入了几个新特性，其中的预读功能又将全表扫描能力提升了至少20%+。什么是MogDB预读功能数据库中的数据是按照一个个页面进行组织管理的，CPU以页面为单位对",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

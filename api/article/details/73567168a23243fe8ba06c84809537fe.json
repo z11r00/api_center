@@ -23,7 +23,7 @@
                 "description": "优化版HFLLaMA训练类：专为大型语言模型（LLM）训练优化的类，集成了多种高效训练技术，如减少精度训练、高效缩放点积注意力（SDPA）、全分片数据并行（FSDP）或零冗余优化器（ZeRO）等，旨在",
                 "level": 2,
                 "publishTime": "2024/08/27",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1645,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

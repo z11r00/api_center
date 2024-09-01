@@ -23,7 +23,7 @@
                 "description": "在提示词课程的第三课中，我们主要分享：Prompt的结构化什么是结构化提示？其实，结构化这个概念在我们生活中随处可见。就像我们平时写文章、看的书，都会用到标题、小标题、段落、句子这些基本的格式。简单来",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

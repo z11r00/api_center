@@ -23,7 +23,7 @@
                 "description": "我们知道Oracle数据库中有自动block修复功能，在主备环境中，如果主库或者备库出现数据坏块，那么OracleADG能够进行自动修复。这实际上是Oracle11.2.0.3版本所引入的一个特性au",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

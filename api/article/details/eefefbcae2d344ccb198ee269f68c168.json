@@ -23,7 +23,7 @@
                 "description": "为什么要破解官方提示词研究AI这么久了，对新的AI功能都会研究好长时间，上次看到一位提示词大神通过反编译手段，得到了官方提示词的模板，后来想想其实也并不复杂，每个AI都有自己的庞大数据库，都是利用相同",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 7,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

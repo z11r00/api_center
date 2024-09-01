@@ -23,7 +23,7 @@
                 "description": "大部分关于数据挖掘的书籍都着重于讲解理论知识，难以理解，让人望而却步。不要误会，这些理论知识还是非常重要的。但如果你是一名程序员，想对数据挖掘做一些了解，一定会需要一本面向初学者的入门书籍。参考文献：",
                 "level": 2,
                 "publishTime": "2024/08/28",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1649,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

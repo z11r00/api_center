@@ -23,7 +23,7 @@
                 "description": "构建业务模型时，通常模型会设置扩展信息，存储上一般使用JSON格式存储到db中。JSON虽然有较好的扩展性，但并没有结构化存储的类型和非空等约束，且强依赖代码中写入/读取时进行序列化/反序列化操作，当",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "bty834.github.io",
                 "followWords": null,

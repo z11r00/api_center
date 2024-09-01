@@ -23,7 +23,7 @@
                 "description": "大家好，我是大象。最近在各个平台上的各个短剧可谓是层出不穷，而网文在各大平台上的受欢迎程度也一直居高不下。很多全职做网文小说的作者都能月入收过万。但是对于新人来说因为有写作门槛，想要在这个领域站稳脚跟",
                 "level": 1,
                 "publishTime": "2024/08/29",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 34,
                     "createTime": "2024-08-06 19:02"
                 }
             }

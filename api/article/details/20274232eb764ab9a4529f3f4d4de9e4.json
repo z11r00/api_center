@@ -23,7 +23,7 @@
                 "description": "fish-ai：提供了一个集成了大语言模型（LLMs）功能的Fish插件，旨在优化命令行体验，提供命令自动补全、错误修复建议以及将注释转换为命令等功能。参考文献：[1]http://github.co",
                 "level": 2,
                 "publishTime": "2024/08/26",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1641,
+                    "writingNum": 1657,
                     "createTime": "2024-08-06 19:06"
                 }
             }

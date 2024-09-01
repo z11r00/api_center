@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "5b2c92c8452e4dee85be2c2b0fb160a4"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82863,
+                "outId": "5b2c92c8452e4dee85be2c2b0fb160a4",
+                "articleOutId": "5b2c92c8452e4dee85be2c2b0fb160a4",
+                "html": "",
+                "title": "为什么要吃饭",
+                "categoryId": 4,
+                "categoryName": "移动端开发",
+                "tagId": 125,
+                "tagName": "小程序",
+                "userId": 74158,
+                "userOutId": "260444243674",
+                "username": "房卡积分",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/08/31",
+                "readingNum": 11,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "d3585e69736248c79f6991a95fe0a36e",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-30 17:44"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "5b2c92c8452e4dee85be2c2b0fb160a4"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
