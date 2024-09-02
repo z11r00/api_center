@@ -23,7 +23,7 @@
                 "description": "概念在软件开发中，经常需要处理具有层次结构的对象集合，比如文件系统的目录与文件、组织结构中的部门与员工等。这些场景要求我们既能以统一的方式处理单个对象也能处理对象的组合。Java中的组合模式（Comp",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "设计模式",
                     "briefIntro": "基于Java的设计模式讲解",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/2a661769-6b62-440c-9f7e-6619b1918e82.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-30 21:35"
                 }
             }

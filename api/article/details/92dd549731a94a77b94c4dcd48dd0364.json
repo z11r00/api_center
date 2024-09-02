@@ -23,7 +23,7 @@
                 "description": "分布式数据和nosql分布式一般是指分布式部署的数据库。比如Hbase基于HDFS分布式部署，所以他是一个分布式数据库。当然MySQL也可以分布式部署，比如按照不同业务部署，或者把单表内容拆成多个表乃",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 2,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 14,
+                    "writingNum": 16,
                     "createTime": "2024-08-06 19:02"
                 }
             }

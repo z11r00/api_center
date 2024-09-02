@@ -23,7 +23,7 @@
                 "description": "概念桥接模式（BridgePattern）是一种结构型设计模式，它旨在将抽象部分与它的实现部分分离，使它们都可以独立地变化。这种模式通过创建一个抽象层来分离接口与实现，从而允许它们独立地改变。桥接模式",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "设计模式",
                     "briefIntro": "基于Java的设计模式讲解",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/2a661769-6b62-440c-9f7e-6619b1918e82.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-30 21:35"
                 }
             }

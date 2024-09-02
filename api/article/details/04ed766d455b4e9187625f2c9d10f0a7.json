@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "04ed766d455b4e9187625f2c9d10f0a7"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82930,
+                "outId": "04ed766d455b4e9187625f2c9d10f0a7",
+                "articleOutId": "04ed766d455b4e9187625f2c9d10f0a7",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">在时光的悄然流转中，2024 年 8 月 26 日的今天，回首过去一周，那是一段充满惊喜与蜕变的旅程。 睡眠习惯调整 最近我调整了自己的睡眠习惯，从晚睡型调整为了早起型。这一周，我的睡眠时间相对较早。最早的时候，周五晚上 8 点多就进入了梦乡，大部分时候也能在 10 点左右入睡。要知道，在此之前，我基本上都是午夜 12 点，甚至凌晨 1、2 点才睡觉。对于这一周的睡眠调整成果，我真的非常满意。 调整原因 为什么要调整为早睡早起呢？这是因为受到了姗姗的影响。她每天 4 点多就起床，在八点钟之前就能完成全天的工作。这着实让我羡慕不已，我也渴望通过早起，在两三个小时内高效完成自己的任务。 “一日之计在于晨。” 早起能够让我们拥有更多的时间去规划和完成一天的任务。 早睡早起的好处 这一周的早睡早起给我带来了两大好处。 减轻心理负担和焦虑：很多传统文化和中医都认为晚睡会极大影响健康，虽然这种观念的正确性有待商榷，但晚睡的习惯确实让我内心焦虑。而如今，早睡早起让我成功减少了这种焦虑和压力。 满足争先习惯：我一直习惯于早早完成工作，这样剩下的时间就可以自由安排。早起后，我能够在早晨就完成当天应该做的事情，一整天都显得特别轻松且有意义。之后的时间，想怎么玩就怎么玩，多美呀。 早起后的规划 很多人不能早起，往往是因为不知道早起后要做什么。如果早起一两个小时却毫无规划，那确实没有意义。每天早起后，拿出半个小时来规划自己要做的事情和要成为什么样的人。 今天做一个有创意的人； 明天做一个幽默的人； 后天做一个挑战达人。 每天给自己一个新的身份，生活瞬间就变得特别有意思。把每一天当作一生，一天换一个角色，相当于过了好多辈子，是不是很赚。 [插图位置] 让我们一起规划好每一天，让生活缤纷多彩。早起让我充满动力，如果你也想尝试早起，那就和我一起相约吧，共同实现我们充实的人生。</p>",
+                "title": "过好一天，从早起开始",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 73784,
+                "userOutId": "354844235765",
+                "username": "liyelily",
+                "avatar": "",
+                "description": "在时光的悄然流转中，2024年8月26日的今天，回首过去一周，那是一段充满惊喜与蜕变的旅程。睡眠习惯调整最近我调整了自己的睡眠习惯，从晚睡型调整为了早起型。这一周，我的睡眠时间相对较早。最早的时候，周",
+                "level": 1,
+                "publishTime": "2024/09/01",
+                "readingNum": 8,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "ba2252e4a75241d88a5ff4d5e4c3388a",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 2,
+                    "createTime": "2024-08-26 15:21"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "04ed766d455b4e9187625f2c9d10f0a7"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

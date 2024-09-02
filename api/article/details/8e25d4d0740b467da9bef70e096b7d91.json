@@ -23,8 +23,8 @@
                 "description": "HELLO大家好，我是大象，这一期我们继续AI方法论的第五节课，几个也是我们平时用AI会遇到的问题。AI底层认知：用好AI的底层逻辑第一类：能力转嫁类先看两位小伙伴的案例，看完读后感案例，想把方法转嫁",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 4,
-                "likeNum": 0,
+                "readingNum": 9,
+                "likeNum": 1,
                 "introduction": null,
                 "followWords": null,
                 "followPic": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 34,
+                    "writingNum": 35,
                     "createTime": "2024-08-06 19:02"
                 }
             }

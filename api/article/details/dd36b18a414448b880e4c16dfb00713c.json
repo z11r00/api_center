@@ -23,7 +23,7 @@
                 "description": "Qwen2-VL：阿里巴巴云计算团队开发的多模态大型语言模型系列，具备处理各种分辨率和比例的图像、理解超过20分钟视频、操作移动设备和机器人、以及支持多语言文本理解等多项先进功能。参考文献：[1]ht",
                 "level": 2,
                 "publishTime": "2024/08/30",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1657,
+                    "writingNum": 1661,
                     "createTime": "2024-08-06 19:06"
                 }
             }

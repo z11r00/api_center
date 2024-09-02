@@ -23,7 +23,7 @@
                 "description": "文章简介本文研究了在青少年冰球运动员的视觉训练中，视觉硬件（如眼动控制等）与视觉软件（如信息处理技能等）的训练顺序对训练效果的影响。研究采用了两组对照实验设计，一组先进行眼动训练，再进行信息处理训练；",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 21,
+                    "writingNum": 23,
                     "createTime": "2024-08-11 14:54"
                 }
             }

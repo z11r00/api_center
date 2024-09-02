@@ -23,7 +23,7 @@
                 "description": "1.函数的定义与作用函数（Function）是PL/SQL中的另一种子程序类型，与过程（Procedure）类似，也可以传递参数并执行一系列操作。但与过程不同的是，函数必须返回一个值。函数的定义格式如",
                 "level": 1,
                 "publishTime": "2024/08/30",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

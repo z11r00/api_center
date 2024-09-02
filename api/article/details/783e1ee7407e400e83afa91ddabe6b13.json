@@ -23,7 +23,7 @@
                 "description": "(DDPM)denoisingdiffusionprobabilisticmodels理论学习本文价值本文是Diffusion这一类模型的开山之作，首次证明diffusion模型能够生成高质量的图片，",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1,
+                    "writingNum": 2,
                     "createTime": "2024-08-06 19:05"
                 }
             }

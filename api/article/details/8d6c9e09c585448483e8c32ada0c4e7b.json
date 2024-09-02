@@ -23,7 +23,7 @@
                 "description": "今天还是介绍有关字符串的算法。今天介绍的算法是：马拉车算法，一种有关于回文串的算法。1.预处理由于回文串分为了奇回文串和偶回文串，这样在遍历整个字符串的时候可能有一些麻烦，所以我们这里要先对整个字符串",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "一名IT文章作者",
                 "followWords": null,

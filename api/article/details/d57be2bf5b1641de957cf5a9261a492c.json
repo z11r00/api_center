@@ -23,7 +23,7 @@
                 "description": "Vue2的响应式系统通过对象劫持、依赖收集、和更新通知机制来实现数据驱动视图的更新。以下是具体实现的详细步骤：1.对象劫持（Object.defineProperty）1.1.定义响应式对象使用Obj",
                 "level": 1,
                 "publishTime": "2024/08/31",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号-前端历险记",
                 "followWords": "公众号-前端历险记",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 59,
+                    "writingNum": 60,
                     "createTime": "2024-08-06 19:03"
                 }
             }

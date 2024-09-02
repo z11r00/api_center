@@ -23,7 +23,7 @@
                 "description": "ClaudeSave：一款Chrome扩展程序，能够将与Claude的对话保存到GitHubGists或剪贴板。参考文献：[1]http://github.com/hamelsmu/claudesav",
                 "level": 2,
                 "publishTime": "2024/08/31",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1657,
+                    "writingNum": 1661,
                     "createTime": "2024-08-06 19:06"
                 }
             }

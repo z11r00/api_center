@@ -23,7 +23,7 @@
                 "description": "从零开始的深度学习：为深度学习爱好者提供从基础到进阶的实践教程，包括JupyterNotebook形式的代码，支持在云平台上执行，涵盖神经网络、变分自编码器等多个深度学习主题。参考文献：[1]http",
                 "level": 2,
                 "publishTime": "2024/08/31",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1657,
+                    "writingNum": 1661,
                     "createTime": "2024-08-06 19:06"
                 }
             }
