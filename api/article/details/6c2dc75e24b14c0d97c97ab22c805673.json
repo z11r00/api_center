@@ -23,7 +23,7 @@
                 "description": "PIZZA：面向大型语言模型（LLMs）的归因库，用于计算提示中每个标记对生成响应的贡献，支持API调用和本地模型，具有迭代扰动和层次扰动等特色功能。参考文献：[1]https://github.co",
                 "level": 2,
                 "publishTime": "2024/09/01",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1661,
+                    "writingNum": 1665,
                     "createTime": "2024-08-06 19:06"
                 }
             }

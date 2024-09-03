@@ -23,7 +23,7 @@
                 "description": "WilmerAI：一款复杂的中间件系统，旨在接收输入提示并对它们执行各种任务，然后才发送至大型语言模型（LLM）API，包括利用大型语言模型对提示进行分类、路由至适当的工作流或处理大量上下文以生成适合",
                 "level": 2,
                 "publishTime": "2024/09/01",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1661,
+                    "writingNum": 1665,
                     "createTime": "2024-08-06 19:06"
                 }
             }

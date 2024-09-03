@@ -23,7 +23,7 @@
                 "description": "Ribbon简介Ribbon是一种客户端的软件负载均衡算法，将Netflix的中间层服务连接在一起，提供了一系列完善的配置如连接超时、重试等，Ribbon会自动的帮助基于某种规则(如简单轮询、随机连接",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 87,
+                    "writingNum": 88,
                     "createTime": "2024-08-06 19:04"
                 }
             }

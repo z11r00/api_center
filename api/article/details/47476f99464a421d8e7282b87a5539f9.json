@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "47476f99464a421d8e7282b87a5539f9"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83031,
+                "outId": "47476f99464a421d8e7282b87a5539f9",
+                "articleOutId": "47476f99464a421d8e7282b87a5539f9",
+                "html": "<h1 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 24px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\">LaTeX 排版样例——数值分析习题集及解析</span><span class=\"suffix\"></span></h1> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">数值分析是一门研究利用数值方法解决数学问题的学科。它涉及到数值计算、数值逼近、数值解法和误差分析等内容。数值分析的目标是通过使用数值方法，以近似的方式求解无法用解析方法求解的数学问题。这些问题涉及求解方程、求解微分方程、插值和拟合数据、数值积分等。</p> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">不同的学校不同专业在本科都可能开设的课，有时称之为 <code style=\"font-size: 14px; word-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0 2px; background-color: rgba(27,31,35,.05); font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; word-break: break-all; color: rgb(239, 112, 96);\">科学计算方法</code>，<code style=\"font-size: 14px; word-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0 2px; background-color: rgba(27,31,35,.05); font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; word-break: break-all; color: rgb(239, 112, 96);\">数值计算原理</code>,<code style=\"font-size: 14px; word-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0 2px; background-color: rgba(27,31,35,.05); font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; word-break: break-all; color: rgb(239, 112, 96);\">数值计算方法</code>等。当然部分内容会涉及到矩阵论的部分知识点，《GTM-181》中紧密的联系起来了，如有时间可以参阅。</p> \n<hr data-tool=\"mdnice编辑器\" style=\"height: 1px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: none; border-top: 1px solid black;\"> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">先推荐几本教材：</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值分析》 孙志忠 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值分析试题解析》 曹婉容 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">东南大学出版社，较为全的资料，试题包括研究生考试试题以及考博的题目。</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值计算原理与实现》凌焕章 沈艳 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值计算方法原理学习指导》凌焕章 沈艳 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">哈尔滨工程大学的老师编写的教材，凌老师应该在网上很受欢迎，在某乎体会到了老师的幽默风趣。近几年才出版，电子书暂时缺少。</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值分析》李庆扬 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">清华大学出版社，经典教材，不多说哩。</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值计算方法》 马东升 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">强烈推荐的书，相见恨晚！！！已经有第三版。</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值分析》朱晓临 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">中国科学技术大学出版社，值得一读。</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    《数值计算方法》 朱健新 \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">暨南大学的老师编著的，目前已经到第四版，上学期学习数值分析课程使用的教材。</p> \n<hr data-tool=\"mdnice编辑器\" style=\"height: 1px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: none; border-top: 1px solid black;\"> \n<blockquote class=\"multiquote-2\" data-tool=\"mdnice编辑器\" style=\"border: none; box-shadow: 1px 1px 10px rgba(0,0,0,0.2); padding: 20px; margin-bottom: 20px; margin-top: 20px;\"> \n <blockquote style=\"border: none;\"> \n  <p style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">数值分析是本科中喜欢的一门科目，它结合了数学分析，高等代数，常微分方程等关联课程的知识点，运用已经掌握的知识去学习数值分析这一门课程算是非常容易的。教授我数值分析的老师今年也将退休，我也常想着该利用这一学期去做点什么，利用所学并参考资料制作了近两百页的<code style=\"font-size: 14px; word-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0 2px; background-color: rgba(27,31,35,.05); font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; word-break: break-all; color: rgb(239, 112, 96);\">习题+知识点概述+疑难补充</code>的文档。</p> \n </blockquote> \n</blockquote> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">鉴于参考书籍以及课程学习，将一学期的数值分析作业题和相关考题整理，用LaTeX排版出来。下面简单介绍该文档：</p> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">首先是习题部分，按照每一章节划分，习题分作业题以及补充习题，作业题为教师所提供，其所有解答基本为个人所写，仅供参考。补充习题部分为教师PPT的课后思考题，该部分的解答全部由个人解答，其余习题为参考书籍、资料的例题或习题，解析主要来自书籍附带。</p> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">然后是内容，第一部分是该章节总体知识点的概述或者可以说是总结，便于复习以及梳理整章的框架，第二部分是补充内容，对重点知识点的提要，主要是一些书本上缺少的证明。</p> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">文档最后是一些考试题，大部分人应该会比较感兴趣，解析完全为个人所写，仅供参考。</p> \n<hr data-tool=\"mdnice编辑器\" style=\"height: 1px; margin: 0; margin-top: 10px; margin-bottom: 10px; border: none; border-top: 1px solid black;\"> \n<p data-tool=\"mdnice编辑器\" style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;\">再简单说说<code style=\"font-size: 14px; word-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0 2px; background-color: rgba(27,31,35,.05); font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; word-break: break-all; color: rgb(239, 112, 96);\">LaTeX</code>,差不多使用了两年的排版工具，在本文档里主要使用了<code style=\"font-size: 14px; word-wrap: break-word; padding: 2px 4px; border-radius: 4px; margin: 0 2px; background-color: rgba(27,31,35,.05); font-family: Operator Mono, Consolas, Monaco, Menlo, monospace; word-break: break-all; color: rgb(239, 112, 96);\">tcolorboox</code>环境对每个题目进行框取，文本框形式多样，可自行选取。目前已经将该项目开源，欢迎大家使用！</p> \n<blockquote class=\"multiquote-1\" data-tool=\"mdnice编辑器\" style=\"border: none; display: block; font-size: 0.9em; overflow: auto; overflow-scrolling: touch; border-left: 3px solid rgba(0, 0, 0, 0.4); color: #6a737d; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; margin-bottom: 20px; margin-top: 20px; border-left-color: rgb(239, 112, 96); background: #fff9f9;\"> \n <p style=\"font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0px; color: black; line-height: 26px;\">LaTeX 源码已经上传在github，可自取。 https://github.com/xiaowen1124/Numerical-Analysis-.git</p> \n</blockquote>",
+                "title": "数值分析习题集 使用样例",
+                "categoryId": 5,
+                "categoryName": "数学",
+                "tagId": 132,
+                "tagName": "数学基础",
+                "userId": 37066,
+                "userOutId": "477666310355",
+                "username": "xiaowen",
+                "avatar": "",
+                "description": "LaTeX排版样例——数值分析习题集及解析数值分析是一门研究利用数值方法解决数学问题的学科。它涉及到数值计算、数值逼近、数值解法和误差分析等内容。数值分析的目标是通过使用数值方法，以近似的方式求解无法",
+                "level": 1,
+                "publishTime": "2024/09/03",
+                "readingNum": 2,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "76f3996b890c4e8faf776d9b4103ff1f",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 3,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "47476f99464a421d8e7282b87a5539f9"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

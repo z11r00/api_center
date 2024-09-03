@@ -23,7 +23,7 @@
                 "description": "文章介绍本文题为《格斗运动中的感知认知专业知识：叙事回顾和感知行动模型》，旨在探讨格斗运动中运动员的感知认知技能。选题聚焦于理解格斗运动员在比赛中如何通过感知与认知过程来预测对手的动作并作出快速反应。",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 5,
+                "readingNum": 12,
                 "likeNum": 1,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 23,
+                    "writingNum": 24,
                     "createTime": "2024-08-11 14:54"
                 }
             }

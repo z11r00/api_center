@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "e467913a49934883a973ea2c97bcaefb"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83007,
+                "outId": "e467913a49934883a973ea2c97bcaefb",
+                "articleOutId": "e467913a49934883a973ea2c97bcaefb",
+                "html": "",
+                "title": "Python小工具|合并多个工作表",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 103,
+                "tagName": "Python",
+                "userId": 74463,
+                "userOutId": "728271044030",
+                "username": "nono",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/09/02",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "92a90c1909ec4e43b403a95f49f5f197",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-09-02 21:36"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "e467913a49934883a973ea2c97bcaefb"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

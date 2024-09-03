@@ -23,7 +23,7 @@
                 "description": "★首发公众号：赵侠客引言在数据库表结构设计中，一对多（1:N）关系的处理是非常常见需求，如一个用户有多个分类或角色。传统关系型数据库表设计方式通常要包括三张表：用户表、分类表、以及用户与分类之间的关联",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 6,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": "一个独立思考的开发者",
                 "followWords": null,

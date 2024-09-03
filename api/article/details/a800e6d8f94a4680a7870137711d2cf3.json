@@ -23,7 +23,7 @@
                 "description": "概念享元模式（FlyweightPattern）是一种结构型设计模式，旨在通过共享大量细粒度对象来减少内存使用和提高系统性能。在享元模式中，对象被分为内部状态和外部状态。内部状态是可以在多个对象中共享",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "设计模式",
                     "briefIntro": "基于Java的设计模式讲解",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/2a661769-6b62-440c-9f7e-6619b1918e82.jpg",
-                    "writingNum": 17,
+                    "writingNum": 20,
                     "createTime": "2024-08-30 21:35"
                 }
             }

@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "7aef8364ae424377b735baeb19b4b7c9"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 82971,
+                "outId": "7aef8364ae424377b735baeb19b4b7c9",
+                "articleOutId": "7aef8364ae424377b735baeb19b4b7c9",
+                "html": "<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 20px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">内容概述</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">之前提到的值迭代方法和策略迭代方法都是 model-base reinforcement learning ，这一节讲的是 model-free 的方法。</p> \n<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 20px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">MC Basic</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">关键思想：基于策略迭代的方法，但是使用采样的方式来估计动作值：</p> $$q_{\\pi_{k}}(s,a)=\\mathbb{E}[G_t|S_t=s,A_t=a]\\approx\\frac{1}{N}\\sum_{i=1}^{N}g^{(i)}(s,a) $$ \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">算法流程：<br> 首先给出一个初始的$\\pi_0$<br> 当估计值没有收敛的时候，对于第 k 步,<br> &nbsp;&nbsp;&nbsp;&nbsp;对于每个状态 $s$ ,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于每个动作 $a$ ,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;收集从 $(s,a)$ 出发、遵循 $\\pi_k$ 的多个episodes， $q_{\\pi_k} = $ average return of all the episodes starting from $(s,a)$ 。<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;策略迭代：<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $a_k^*(s)=argmax_aq_{\\pi_k}(s,a)$<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\\pi_{k+1}(a|s)=1$ if $a=a_k^*$ else 0</p> \n<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 20px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">MC Exploring Starts</span><span class=\"suffix\" style=\"display: none;\"></span></h3> $$\\ce{s_1-&gt;[a_2]s_2 -&gt;[a_4] s_1-&gt;[a_2] s_2-&gt;[a_3] s_5-&gt;[a_1]...} $$ \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">MC-Basic有个缺点：每个episode只能拿到估计q值的一个数据，例如上面的这个eposide，只考虑 $(s_1,a_2)$ 。 如下图，可将一个episode拆分成多个subepisodes、这样就可以用来估计多个 $(s,a)$ 对。 <img src=\"https://files.mdnice.com/user/71967/f455e997-5d6b-4016-ac37-f30375e9a92b.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"> 此外，MC-Basic更新策略时需要等到所有episode都收集完成，MC Exploring Starts得到一个 episode 就改进策略。<br> 算法流程：<br> 首先给出一个初始的$\\pi_0$<br> 对于每个 eposide ，<br> &nbsp;&nbsp;&nbsp;&nbsp;随机采样 $(s_0,a_0)$ ，基于当前策略， 生成一个长度为 T 的 eposide ： $s_0$， $a_0$， $r_1$，...，$s_{T-1}$， $a_{T-1}$， $r_T$。<br> &nbsp;&nbsp;&nbsp;&nbsp;初始化：$\\ce{g&lt;-0}$<br> &nbsp;&nbsp;&nbsp;&nbsp;对于 episode 的每个 step ，$ t = T - 1, T - 2, ..., 0,（每个 (s_t,a_t) 的动作值都会得到更新）$<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\\ce{g&lt;-\\gamma g + r_{t+1}}$<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用 first_visited 方法：如果 $(s_t,a_t)$ 没有出现在 $(s_0,a_0,s_1,a_a,...,s_{t-1},a_{t-1})$ ，<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\\ce{Returns(s_t,a_t)&lt;-Returns(s_t,a_t) + g}$<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $q(s_t,a_t)=average(Returns(s_t,a_t))$<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\\pi(a|s_t)=1$ if $a=argmax_a q(s_t,a)$<br> exploring starts指的是从每一个 $(s,a)$ 出发，都要有episode，只有这样才能用后面生成的reward来估计return。如果从其他的 $(s,a)$ 出发，没办法确保一定经过当前的这个 $(s,a)$ ，这依赖于策略和环境。MC Basic 和 MC exploring starts 都需要这一假设。</p> \n<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 20px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">MC without exploring starts: MC ε-Greedy</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">MC ε-Greedy就是在MC exploring starts的基础上将贪心策略换成 ε-Greedy，这样就在策略改进过程中引入了随机性，提高了每个 $(s,a)$ 被访问的概率，不要求从每一个 $(s,a)$ 出发。<br> ε-Greedy 如下：</p> $$\\begin{equation} \\pi_{k+1}(a|s) = \\begin{cases} 1-\\frac{|A(s)-1|}{A|(s)|}\\epsilon &amp; \\text{if } a = a_k^{*}(s) \\\\ \\frac{1}{A|(s)|}\\epsilon &amp; \\text{if } a \\ne a_k^{*}(s) \\end{cases} \\end{equation} $$ \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">where $a_k^{*}(s) = argmax_a q_k(s,a)$</p>",
+                "title": "（五）蒙特卡洛方法",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 177,
+                "tagName": "AI算法",
+                "userId": 71967,
+                "userOutId": "409884201692",
+                "username": "lkll",
+                "avatar": "",
+                "description": "内容概述之前提到的值迭代方法和策略迭代方法都是model-basereinforcementlearning，这一节讲的是model-free的方法。MCBasic关键思想：基于策略迭代的方法，但是使",
+                "level": 1,
+                "publishTime": "2024/09/02",
+                "readingNum": 5,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "64d0f2cc864e4406abf62891540556ba",
+                    "name": "强化学习",
+                    "briefIntro": "与强化学习相关的基础知识",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 6,
+                    "createTime": "2024-08-06 19:02"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "7aef8364ae424377b735baeb19b4b7c9"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

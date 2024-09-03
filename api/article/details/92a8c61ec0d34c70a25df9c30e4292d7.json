@@ -23,7 +23,7 @@
                 "description": "Diffusion模型生成图片太慢了？用AE(AutoEncoder)和VAE(VariationalAutoEncoder)压缩图片加速一波！本文分为两个部分：理论学习和代码实践。先预览一下AE和V",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

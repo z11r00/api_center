@@ -23,7 +23,7 @@
                 "description": "NLPZerotoHero：自然语言处理（NLP）领域的入门到精通教程，包含从分词器到Transformer架构的全面内容，旨在帮助学习者掌握NLP的核心概念并理解其发展脉络。参考文献：[1]http",
                 "level": 2,
                 "publishTime": "2024/09/01",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1661,
+                    "writingNum": 1665,
                     "createTime": "2024-08-06 19:06"
                 }
             }

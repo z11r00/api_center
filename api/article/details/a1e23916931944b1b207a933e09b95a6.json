@@ -23,7 +23,7 @@
                 "description": "消息队列已经逐渐成为企业IT系统内部通信的核心手段。它具有低耦合、可靠投递、广播、流量控制、最终一致性等一系列功能，成为异步RPC的主要手段之一。当今市面上有很多主流的消息中间件，如老牌的Active",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-06 19:02"
                 }
             }

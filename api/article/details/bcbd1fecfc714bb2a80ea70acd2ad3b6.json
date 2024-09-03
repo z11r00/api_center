@@ -23,7 +23,7 @@
                 "description": "缓存更新的套路看到好些人在写更新缓存数据代码时，先删除缓存，然后再更新数据库，而后续的操作会把数据再装载的缓存中。然而，这个是逻辑是错误的。试想，两个并发操作，一个是更新操作，另一个是查询操作，更新操",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "你好，我是柳岸花开。在微服务架构的世界里，各种服务之间的接口调用犹如人类的神经系统，构成了整个系统的核心。然而，正是这些看似简单的接口路径，可能会引发一场惊天血案。今天，我们就来揭开一起因“重复路径”",
                 "level": 1,
                 "publishTime": "2024/09/01",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 41,
+                    "writingNum": 43,
                     "createTime": "2024-08-06 19:07"
                 }
             }
