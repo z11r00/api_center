@@ -23,7 +23,7 @@
                 "description": "回顾一下以前我们学习的网络通信基础，终端通过交换机可以相互进行通信，而如果是不同网段间的通信需要经过三层网关，网关进行路由寻址和转发，所以基本的网络结构就是终端--交换机--路由器网关--网络出口--",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 24,
+                    "writingNum": 26,
                     "createTime": "2024-08-06 19:03"
                 }
             }

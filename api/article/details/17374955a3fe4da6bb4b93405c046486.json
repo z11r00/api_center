@@ -23,7 +23,7 @@
                 "description": "概念状态模式（StatePattern）是一种行为型设计模式，用于在对象的内部状态发生变化时改变其行为。这种设计模式通过将状态封装成独立的类，使对象在不同状态下表现出不同的行为。状态模式让对象的行为与",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "设计模式",
                     "briefIntro": "基于Java的设计模式讲解",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/2a661769-6b62-440c-9f7e-6619b1918e82.jpg",
-                    "writingNum": 20,
+                    "writingNum": 24,
                     "createTime": "2024-08-30 21:35"
                 }
             }

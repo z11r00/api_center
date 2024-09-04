@@ -23,7 +23,7 @@
                 "description": "本文背景最近越来越多的小伙伴开始使用AI智能体了，AIAgent除了本身是一个很好的商业模式之外，更重要的是拉低了普通人学习AI的门槛，所有人都可以快速上手AI智能体，使用AI智能体实现需求，覆盖人群",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 8,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1,
+                    "writingNum": 2,
                     "createTime": "2024-08-06 19:02"
                 }
             }

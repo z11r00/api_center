@@ -23,7 +23,7 @@
                 "description": "GitHub上开源了一个提示词，用户只需将这些提示词输入LLM，就能解锁LLM的“思维发散”模式，让LLM提出更多新颖的想法，当你做需要做创作力的任务时，尤为好用。这就是RohanPaul花费好几个月",
                 "level": 2,
                 "publishTime": "2024/09/02",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1665,
+                    "writingNum": 1673,
                     "createTime": "2024-08-06 19:06"
                 }
             }

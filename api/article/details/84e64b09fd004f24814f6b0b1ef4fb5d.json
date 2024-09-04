@@ -23,7 +23,7 @@
                 "description": "概念解释器模式（InterpreterPattern）是一种行为型设计模式，用于定义语言的语法规则表示，并定义一个解释器，该解释器使用该表示来解释语言中的句子。这种模式属于编译原理中的语法制导翻译的范",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "设计模式",
                     "briefIntro": "基于Java的设计模式讲解",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/2a661769-6b62-440c-9f7e-6619b1918e82.jpg",
-                    "writingNum": 20,
+                    "writingNum": 24,
                     "createTime": "2024-08-30 21:35"
                 }
             }

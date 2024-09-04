@@ -23,7 +23,7 @@
                 "description": "书生大模型实战营，书生浦语大模型的配套教程。参考文献：[1]地址：https://github.com/InternLM/Tutorial/NLP工程化1.本公众号以对话系统为中心，专注于Python",
                 "level": 2,
                 "publishTime": "2024/09/02",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1665,
+                    "writingNum": 1673,
                     "createTime": "2024-08-06 19:06"
                 }
             }

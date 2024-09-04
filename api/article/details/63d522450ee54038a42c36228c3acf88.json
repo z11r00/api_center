@@ -23,7 +23,7 @@
                 "description": "推荐GitHub上一款可以让小爱音箱播放本地音乐的开源免费工具：xiaomusic。当通过语音控制播放的音乐不存在时，能自动使用yt-dlp搜索匹配的歌曲并下载到本地播放。具有如下特点：支持多种音乐格",
                 "level": 2,
                 "publishTime": "2024/09/02",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1665,
+                    "writingNum": 1673,
                     "createTime": "2024-08-06 19:06"
                 }
             }

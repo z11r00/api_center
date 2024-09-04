@@ -23,7 +23,7 @@
                 "description": "值迭代算法(valueiteration)这是上一节由收缩映射定理给出的一个算法。算法的矩阵向量形式如下：首先给出一个对的初始估计，然后：（1）策略更新（policyupdate）矩阵形式：元素形式：",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

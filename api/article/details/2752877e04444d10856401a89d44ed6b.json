@@ -23,7 +23,7 @@
                 "description": "JavaScript中的NavigatorAPI是一个强大的接口，它提供了访问广泛浏览器功能的能力。在这篇博客中，我们将探索每个JavaScript开发者都应该熟悉的NavigatorAPI的五个关键",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 25,
+                    "writingNum": 26,
                     "createTime": "2024-08-06 19:02"
                 }
             }

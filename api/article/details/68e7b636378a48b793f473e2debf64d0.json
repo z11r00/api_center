@@ -23,7 +23,7 @@
                 "description": "环境说明企业内网环境，使用docker-compose的方式安装Harbor服务，需要先安装docker、docker-compose两个服务，将以二进制的方式安装docker和docker-comp",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

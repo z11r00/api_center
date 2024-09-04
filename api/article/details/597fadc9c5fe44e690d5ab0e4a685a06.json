@@ -23,7 +23,7 @@
                 "description": "第一个开源的具有实时对话能力的多模态模型：Mini-Omni，支持端到端的语音输入、输出。Mini-Omni是清华大学启元实验室开源的项目，能听、能说也能实时思考，在实时语音交互上媲美GPT-4o。特",
                 "level": 2,
                 "publishTime": "2024/09/02",
-                "readingNum": 2,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1665,
+                    "writingNum": 1673,
                     "createTime": "2024-08-06 19:06"
                 }
             }

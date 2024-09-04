@@ -23,7 +23,7 @@
                 "description": "概念命令模式（CommandPattern）是一种行为型设计模式。它通过将请求封装为对象的方式，实现了请求发送者与接收者之间的解耦，同时也支持命令的撤销、重做等高级功能。在命令模式中，请求以命令的形式",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "设计模式",
                     "briefIntro": "基于Java的设计模式讲解",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/2a661769-6b62-440c-9f7e-6619b1918e82.jpg",
-                    "writingNum": 20,
+                    "writingNum": 24,
                     "createTime": "2024-08-30 21:35"
                 }
             }

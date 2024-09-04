@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "391c00a85fd044c7a303aa111c995d14"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83043,
+                "outId": "391c00a85fd044c7a303aa111c995d14",
+                "articleOutId": "391c00a85fd044c7a303aa111c995d14",
+                "html": "",
+                "title": "公众号",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 74490,
+                "userOutId": "152875136920",
+                "username": "兜里有糖",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/09/03",
+                "readingNum": 16,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "3d532398cd964284a87d83fdb87c604c",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-09-03 10:29"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "391c00a85fd044c7a303aa111c995d14"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

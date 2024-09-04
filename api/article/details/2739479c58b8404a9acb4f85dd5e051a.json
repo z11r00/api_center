@@ -23,7 +23,7 @@
                 "description": "前面我们大致学习了BFD基本原理，包括会话建立的过程、检测模式、检测时间以及检测流程。BFD检测本身不难，但是要看实际应用场景。一、BFD应用概述BFD可以实现的功能：BFD检测IP链路BFD单臂回声",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 24,
+                    "writingNum": 26,
                     "createTime": "2024-08-06 19:03"
                 }
             }

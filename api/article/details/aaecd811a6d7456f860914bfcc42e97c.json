@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "aaecd811a6d7456f860914bfcc42e97c"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83040,
+                "outId": "aaecd811a6d7456f860914bfcc42e97c",
+                "articleOutId": "aaecd811a6d7456f860914bfcc42e97c",
+                "html": "<span class=\"span-block-equation\" style=\"cursor:pointer\" data-tool=\"mdnice编辑器\"> \n <section class=\"block-equation\" data-formula=\"\\begin{equation*}\nuwehfiuhwe\n\n\\tag(4.1}\n\\end{equation*}\n\" style=\"text-align: center; overflow-x: auto; overflow-y: auto; display: block;\"> \n  <svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" focusable=\"false\" viewbox=\"0 -750 20255.8 950\" aria-hidden=\"true\" style=\"vertical-align: -0.452ex; width: 45.828ex; height: 2.149ex; max-width: 300% !important;\"> <g stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" transform=\"matrix(1 0 0 -1 0 0)\"> \n    <g data-mml-node=\"math\"> \n     <g data-mml-node=\"merror\" data-mjx-error=\"Extra close brace or missing open brace\"> \n      <rect data-background=\"true\" width=\"20255.8\" height=\"950\" y=\"-200\" /> \n      <g data-mml-node=\"mtext\"> \n       <text data-variant=\"-explicitFont\" transform=\"matrix(1 0 0 -1 0 0)\" font-size=\"819.2px\">\n         \\begin{equation*} uwehfiuhwe \\tag(4.1} \\end{equation*} \n       </text> \n      </g> \n     </g> \n    </g> \n   </g><g /> \n  </svg> \n </section></span>",
+                "title": "陈省身微积分讲义（五）",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 33189,
+                "userOutId": "995245286344",
+                "username": "心静自然凉",
+                "avatar": "",
+                "description": "\\begin{equation*}uwehfiuhwe\\tag(4.1}\\end{equation*}",
+                "level": 1,
+                "publishTime": "2024/09/03",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "60a5849a82f44327b941aa95aadd6343",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "aaecd811a6d7456f860914bfcc42e97c"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

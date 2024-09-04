@@ -23,7 +23,7 @@
                 "description": "随着互联网技术的不断发展，数据量的不断增加，业务逻辑日趋复杂，在这种背景下，传统的集中式系统已经无法满足我们的业务需求，分布式系统被应用在更多的场景，而在分布式系统中访问共享资源就需要一种互斥机制，来",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 17,
+                    "writingNum": 18,
                     "createTime": "2024-08-06 19:02"
                 }
             }

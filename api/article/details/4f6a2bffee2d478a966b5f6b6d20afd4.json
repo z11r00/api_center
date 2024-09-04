@@ -23,7 +23,7 @@
                 "description": "什么是hook函数？在深度学习和机器学习中，hook函数是一种用于在特定事件发生时执行自定义操作的机制。通俗一点讲，Hook钩子能在执行目标代码之前或之后，拦截数据或者执行逻辑，先执行自己插入的一段代",
                 "level": 1,
                 "publishTime": "2024/09/02",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

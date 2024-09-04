@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "36329c894f3f441ca2c50994a78f7e61"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83068,
+                "outId": "36329c894f3f441ca2c50994a78f7e61",
+                "articleOutId": "36329c894f3f441ca2c50994a78f7e61",
+                "html": "",
+                "title": "RPA文章",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 63391,
+                "userOutId": "605734475874",
+                "username": "龙龙无限创想",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/09/03",
+                "readingNum": 3,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "59adddfc802b4a4aa5edc75784439062",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-06 19:03"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "36329c894f3f441ca2c50994a78f7e61"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
