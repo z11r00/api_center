@@ -23,7 +23,7 @@
                 "description": "Hystrix简介多个微服务之间调用的时候，微服务A调用微服务B，微服务B调用微服务C，如果微服务C出现问题或者响应时间过长，就会导致微服务A占用越来越多的系统资源，进而导致系统崩溃，称为服务雪崩，其",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 89,
+                    "writingNum": 90,
                     "createTime": "2024-08-06 19:04"
                 }
             }

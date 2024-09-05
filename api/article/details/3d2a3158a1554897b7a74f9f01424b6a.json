@@ -23,7 +23,7 @@
                 "description": "一、VRRP工作原理前面我们大概了解了VRRP的一些基础概念，现在开始学习VRRP的技术原理。VRRP的选举及工作步骤：确定网关地址选举主备主设备发送VRRP报文通知Backup设备主设备响应终端AR",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

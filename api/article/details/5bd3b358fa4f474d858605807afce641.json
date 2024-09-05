@@ -23,7 +23,7 @@
                 "description": "在这篇文章中，咱们聊聊如何用async/await来简化那些让人头疼的回调和Promise代码。Node.js这货，它是个异步事件驱动的JavaScript运行环境，特别适合用来搭建那些需要高并发的网",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 26,
+                    "writingNum": 27,
                     "createTime": "2024-08-06 19:02"
                 }
             }

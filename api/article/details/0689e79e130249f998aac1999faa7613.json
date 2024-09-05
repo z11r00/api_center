@@ -23,7 +23,7 @@
                 "description": "聊聊不同版本kafkaproducer的分区策略1问题现象某微服务，使用log4jkafkaappender写日志到kafka中。业务同学反馈，微服务日志中有频繁出现类似如下的kafka连接断开的日志",
                 "level": 2,
                 "publishTime": "2024/09/03",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "解决方案架构师，大数据技术专家",
                 "followWords": null,

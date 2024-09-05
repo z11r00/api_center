@@ -23,7 +23,7 @@
                 "description": "概念迭代器模式（IteratorPattern）是一种行为型设计模式，它提供了一种方法顺序访问一个聚合对象中的各个元素，而又不暴露该对象的内部表示。迭代器模式让聚合（Collection）对象和它的迭",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

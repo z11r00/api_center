@@ -23,7 +23,7 @@
                 "description": "前面我们学习了VRRP选举机制，根据VRRP优先级与IP地址确定主设备与备份设备，这里继续进行主备切换与主备回切以及VRRP抢占模式的学习。一、VRRP主备切换主备选举时根据优先级选择主设备，状态切换",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

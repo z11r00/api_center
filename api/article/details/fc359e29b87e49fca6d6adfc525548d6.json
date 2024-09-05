@@ -23,7 +23,7 @@
                 "description": "  管理后台大都存在权限菜单用来限制用户的访问范围，权限控制通常有两种实现方式，一种是纯前端控制，由前端维护权限菜单，并通过权限菜单上的角色标识来限制用户的访问行为；另一种是后端根据用户的角色返回其对",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

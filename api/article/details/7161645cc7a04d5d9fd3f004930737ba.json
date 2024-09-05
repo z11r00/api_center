@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "7161645cc7a04d5d9fd3f004930737ba"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83121,
+                "outId": "7161645cc7a04d5d9fd3f004930737ba",
+                "articleOutId": "7161645cc7a04d5d9fd3f004930737ba",
+                "html": "<pre data-tool=\"mdnice编辑器\"><code>1. conda activate llm   #llm为虚拟环境名称\n2. pip install ipykernel\n3. python -m ipykernel install --user --name 虚拟环境名称 --display-name jupyter显示环境名称 #虚拟环境添加到jupyter，--display-name可省略\n4. jupyter notebook --ip=服务器ip\n    拷贝带ip的地址到浏览器\n</code></pre>",
+                "title": "服务器上使用jupyter notebook时，不显示虚拟环境",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 117,
+                "tagName": "深度学习",
+                "userId": 58280,
+                "userOutId": "618929765074",
+                "username": "空空静静最难求",
+                "avatar": "",
+                "description": "1.condaactivatellm#llm为虚拟环境名称2.pipinstallipykernel3.python-mipykernelinstall--user--name虚拟环境名称--disp",
+                "level": 1,
+                "publishTime": "2024/09/04",
+                "readingNum": 1,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "fdf42ed19cca49fc81d6b550a53a0c3c",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 4,
+                    "createTime": "2024-08-06 19:03"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "7161645cc7a04d5d9fd3f004930737ba"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

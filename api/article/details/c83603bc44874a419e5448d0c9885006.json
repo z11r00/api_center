@@ -23,7 +23,7 @@
                 "description": "微软新推出的开源Phi3.5视觉模型在OCR/文本提取方面非常出色—甚至包括手写。还能用来提取表格数据。提示词：\"OCR&nbsp;this&nbsp;image&nbsp;and&nbsp;prov",
                 "level": 2,
                 "publishTime": "2024/09/03",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1673,
+                    "writingNum": 1677,
                     "createTime": "2024-08-06 19:06"
                 }
             }

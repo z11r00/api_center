@@ -23,7 +23,7 @@
                 "description": "概念访问者模式（VisitorPattern）是一种行为型设计模式，它主要用于在不修改对象结构的前提下，为对象结构中的每个元素提供多种访问方式。该模式通过将操作封装在访问者对象中，实现了对对象结构中元",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

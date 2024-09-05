@@ -23,7 +23,7 @@
                 "description": "概念中介者模式（MediatorPattern）是一种行为型设计模式，它用于减少对象之间的直接依赖关系，降低系统的耦合度，增加系统的可维护性和可扩展性。中介者模式定义了一个中介对象来封装一系列对象之间",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

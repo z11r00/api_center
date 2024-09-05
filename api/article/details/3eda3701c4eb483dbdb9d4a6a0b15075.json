@@ -23,7 +23,7 @@
                 "description": "一款基于大模型的实时对话应用：ChatMLX。ChatMLX旨在提供智能、自然的对话体验，适合开发高效智能的对话系统。特点：实时对话：支持与用户进行实时对话，即时响应模型支持：可以集成各种LLM，Qw",
                 "level": 2,
                 "publishTime": "2024/09/03",
-                "readingNum": 3,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1673,
+                    "writingNum": 1677,
                     "createTime": "2024-08-06 19:06"
                 }
             }

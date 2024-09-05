@@ -23,7 +23,7 @@
                 "description": "目录ZAB协议ZAB协议是专门为zookeeper实现分布式协调功能而设计。zookeeper主要是根据ZAB协议是实现分布式系统数据一致性。zookeeper根据ZAB协议建立了主备模型完成zook",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

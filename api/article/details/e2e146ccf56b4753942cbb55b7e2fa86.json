@@ -23,7 +23,7 @@
                 "description": "一个从头开始实现机器学习算法的教学项目。只使用Python语言和numpy库来完成机器学习算法。主要内容分神经网络和Transformer两块。参考文献：[1]项目地址：https://github.",
                 "level": 2,
                 "publishTime": "2024/09/03",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1673,
+                    "writingNum": 1677,
                     "createTime": "2024-08-06 19:06"
                 }
             }

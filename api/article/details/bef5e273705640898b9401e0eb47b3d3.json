@@ -23,7 +23,7 @@
                 "description": "概念备忘录模式（MementoPattern）是一种行为型设计模式，它允许在不破坏封装的前提下，捕获并保存一个对象的内部状态，以便在将来需要的时候能够恢复到这个状态。备忘录模式的核心思想是将对象的状态",
                 "level": 1,
                 "publishTime": "2024/09/03",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

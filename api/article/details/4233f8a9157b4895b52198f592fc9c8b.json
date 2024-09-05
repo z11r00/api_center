@@ -23,7 +23,7 @@
                 "description": "可以爬取任何网站的内容并将其转换为Markdown或结构化数据，为大语言模型训练、检索增强生成（RAG）提供数据。另外，还提供了易于使用且统一的API，支持本地部署或在线使用，同时还支持与各种工具集成",
                 "level": 2,
                 "publishTime": "2024/09/03",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1673,
+                    "writingNum": 1677,
                     "createTime": "2024-08-06 19:06"
                 }
             }

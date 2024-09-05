@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "c6840da654fe48b8846c789247f8bcbc"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83127,
+                "outId": "c6840da654fe48b8846c789247f8bcbc",
+                "articleOutId": "c6840da654fe48b8846c789247f8bcbc",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">The Colors Now we're getting into the meat of things. Once we know the cards we want to fit in our deck, and the mana that allows (or doesn't) allow us to do so, we move on to the skeletons available to us.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">The bombs and mana should inform what we're looking for here. If I have a powerful black bomb, but zero black fixing (or if the bomb is double-pipped), I'm desperately hoping black has a strong enough skeleton to be a base color or another color has enough to almost build a full deck from.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">With this pool, I'm hoping we get to be base-green so that I can truly lean into the pool's mana superpower. Luckily, our green is quite solid, if ultimately only medium-powered:</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">I think it's very important to start to consider your curve when looking at color skeletons. Now we're getting into what will be the \"meat and potatoes\" of your deck, and it's really important that you cover your bases. In most formats, this will mean that at least one color will need to contribute multiple 1-2 drop that can affect the board early, so if the color that has your bombs or your best cards doesn't have a good curve, you're going to need to figure out how to support that. It's also almost equally important to avoid clashes at 3, 4, and 5 mana -- A deck with 8-10 3-drops can only be so powerful, because it becomes nearly impossible to double-spell during the development stage of the game.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">In this case, we're stocked up on 3s and 4s, and light on 2s, so we need to be careful of any color that is also 3-and-4-heavy.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">We're also in somewhat of a special case, given that our mana is SO good in this pool. Instead of picking a second base color, we do have the option to \"pick and choose\" between the \"best of the rest\", and simply be a base-green 5-color soup deck. However, if there is a second color that is a strong complement to our curve here (something with 3+ quality 2-drops), we should consider being a traditional base-2-color build with as many free splashes as our hearts desire.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">With this in mind, I'm going to be pulling together only the strongest parts of the other colors, knowing that we won't need to fill out playables in a secondary color, and can instead use the \"pick and choose\" method:</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Red is... underwhelming to say the least. Scalestorm Summoner might be really strong with our Beavers, but Prickly pair is merely a playable common, and a 3 at that, which we already have plenty of. Deadeye Duelist is also a mediocre common, but a strong enabler for crime payoffs if we have them,</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Black is a little stronger, but still pretty disappointing. The 2X Desert's Due are nice and definitely count as 2-drops, and Rictus Robber can be quite strong in the right context, but is overall just medium.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">I'm also including the Corrupted Convictions here, despite them being pretty weak cards. The reason for this is that I'm hunting for upside. Given that we're lacking high-end individually powerful cards, but have enough fixing to play almost anything available to us, I'm on the lookout for synergy packages that can give us a power boost. Conviction can be quite strong with things like Take For a Ride or Nezumi Linkbreaker, or as a sideboard card against removal-heavy decks. We'd probably need to be base-black to play it, but it's worth being aware of as a high-upside tool that our Black has access to.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Blue is also pretty shallow, though it does contain our most powerful card, the Sphinx. Blue excels at card advantage, that's its' mini-superpower. 2X Loan Shark and 2X Seize The Secrets mean that we'll rarely run out of cards if we include them in a deck. Essence Capture is a high-upside way to deal with opposing bombs, but tough to run unless we're base-blue.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">White has some solid playable creatures (not pictured), but is shallow on cards that provide a unique effect. The highlights are the two near-unconditional removal spells in Journey to Nowhere and Buried in the Garden (which I'm counting as a white card since we're so likely to be base-green). Outlaw Medic is in here because it's a 2-drop, but there are not many reasons to be base-white besides playable count, something we're not very worried about because of our abundant fixing.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">Finally, probably the most important \"color\" in this pool is gold! Unfortunately, not many of these cards are green, but they are all at least decently powerful. Reckless Lawbringer is maybe the best card of the bunch, but without any recursion or cheap creatures to sacrifice, it's underwhelming here. Malcolm and Tai Wakeen are both quality card, but mainly are strong when cast on curve, and both are red, a color we don't expect to be playing many sources of.</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">I did save the best for last, though. Rakdos Joins Up and Back for More are undoubtedly the most promising cards in this scan. Not only are they pretty splashable (being single-pipped cards that are best when cast lategame), they also have some convenient synergies with our Patient Naturalists! Back for More requires some beef, and we've got that covered with our Beavers + Cactarantula (and maybe the loan sharks?).</p>",
+                "title": "Ryan3",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 56870,
+                "userOutId": "704721855690",
+                "username": "TopDeckMTG",
+                "avatar": "",
+                "description": "TheColorsNowwe'regettingintothemeatofthings.Onceweknowthecardswewanttofitinourdeck,andthemanathatall",
+                "level": 1,
+                "publishTime": "2024/09/04",
+                "readingNum": 4,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "32c6b1006569461a8b8f2ec6c5186534",
+                    "name": "MTG Limited",
+                    "briefIntro": "万智牌限制赛",
+                    "cover": "https://files.mdnice.com/user/56870/column-cover/cd2949b2-fb90-46e2-8b1e-68421ba2ea65.jpg",
+                    "writingNum": 14,
+                    "createTime": "2024-08-12 20:44"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "c6840da654fe48b8846c789247f8bcbc"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

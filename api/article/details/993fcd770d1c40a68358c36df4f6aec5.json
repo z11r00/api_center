@@ -23,7 +23,7 @@
                 "description": "OpenTenBase是由开放原子开源基金会孵化及运营的开源项目，是一款企业级的分布式HTAP数据库，具备高扩展性、商业数据库语法兼容、分布式HTAP引擎、多级容灾和多维度资源隔离等能力，目前已经成功",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 60,
+                    "writingNum": 61,
                     "createTime": "2024-08-06 19:03"
                 }
             }
