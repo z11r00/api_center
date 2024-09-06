@@ -23,7 +23,7 @@
                 "description": "前言“在上一篇《Tomcat源码分析（二）》中，我们对Tomcat的Pipeline和Valve组件进行了初步的探讨，并绘制了其整体架构图。本篇将深入源码，对这些组件进行更加细致的剖析。”image.",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 3,
+                    "writingNum": 4,
                     "createTime": "2024-08-25 23:35"
                 }
             }

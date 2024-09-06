@@ -23,7 +23,7 @@
                 "description": "讲师为奥努尔·穆特鲁，内容包括课件和阅读材料及教学视频（Youtube）。课程内容涵盖了从基础介绍到高级主题，如内存系统、处理近内存技术、内存安全、新兴内存技术、闪存和固态硬盘、并行性和异构性、多处理",
                 "level": 2,
                 "publishTime": "2024/09/04",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1677,
+                    "writingNum": 1685,
                     "createTime": "2024-08-06 19:06"
                 }
             }

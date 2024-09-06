@@ -23,7 +23,7 @@
                 "description": "内容概述之前所有的方法都被称为value-based，这次以及下节内容介绍的方法都是policy-based。value-based就是以value为核心，比如我估计一个策略的actionvalue，",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "强化学习",
                     "briefIntro": "与强化学习相关的基础知识",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 8,
+                    "writingNum": 9,
                     "createTime": "2024-08-06 19:02"
                 }
             }

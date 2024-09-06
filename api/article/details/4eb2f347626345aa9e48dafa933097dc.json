@@ -23,7 +23,7 @@
                 "description": "1.使用环境变量环境变量是在容器运行环境中设定的一个变量，它为应用程序提供了极大的灵活性。通过环境变量，可以在不修改应用程序代码的前提下动态调整其行为，容器在运行时会读取这些环境变量的值。使用环境变量",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 79,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

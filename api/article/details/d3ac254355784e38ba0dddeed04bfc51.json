@@ -23,7 +23,7 @@
                 "description": "MinIOMinIO是一个广泛使用的对象存储服务，它的特点是开源、高性能、高可用、支持S3协议等。已经应用到多个云厂商的产品中，如果你接触过云计算关于对象存储的服务，那么你一定会听说过MinIO。它是",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 8,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 13,
+                    "writingNum": 16,
                     "createTime": "2024-08-06 19:03"
                 }
             }

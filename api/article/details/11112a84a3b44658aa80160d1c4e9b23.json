@@ -23,7 +23,7 @@
                 "description": "什么是编译宏Vue3编译宏是在代码编译阶段处理的特殊指令或函数。Vue3的编译宏主要是为&lt;scriptsetup&gt;语法设计的。编译宏不需要导入就可以直接使用，且会随着&lt;scripts",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 6,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

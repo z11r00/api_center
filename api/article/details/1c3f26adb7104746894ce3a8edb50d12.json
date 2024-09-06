@@ -23,7 +23,7 @@
                 "description": "pod详解1.Pod的定义和功能：Pod是Kubernetes中的最小部署单元，可以封装一个或多个容器（container）、存储资源（volume）以及网络配置和管理选项。每个Pod都有独立的网络I",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 79,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:02"
                 }
             }

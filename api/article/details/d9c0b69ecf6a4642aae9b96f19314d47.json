@@ -23,7 +23,7 @@
                 "description": "涵盖了近4年具有代表性的RAG相关研究论文，以及与RAG相关的讲座、研讨会、工具、教程和其他相关集合等资源。参考文献：[1]GitHub：https://github.com/coree/awesom",
                 "level": 2,
                 "publishTime": "2024/09/04",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1677,
+                    "writingNum": 1685,
                     "createTime": "2024-08-06 19:06"
                 }
             }

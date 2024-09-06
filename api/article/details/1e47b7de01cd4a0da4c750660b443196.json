@@ -23,7 +23,7 @@
                 "description": "借助AI技术，能够一键生成和批量混剪各类短视频，并自动发布到各个视频平台，全自动化完成，助力大家变现。主要特点：支持语音模型有ChatTTS、FasterWhisper、GPTSoVITS等；支持视频",
                 "level": 2,
                 "publishTime": "2024/09/04",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1677,
+                    "writingNum": 1685,
                     "createTime": "2024-08-06 19:06"
                 }
             }

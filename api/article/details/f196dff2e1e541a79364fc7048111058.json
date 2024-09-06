@@ -23,7 +23,7 @@
                 "description": "1.简介抽象工厂模式（AbstractFactoryPattern）是一种创建型设计模式，它提供了一个接口，用于创建一系列相关或相互依赖的对象，而无需指定它们的具体类。抽象工厂模式通过为对象创建提供一",
                 "level": 1,
                 "publishTime": "2024/09/04",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 3,
+                    "writingNum": 6,
                     "createTime": "2024-09-02 11:56"
                 }
             }
