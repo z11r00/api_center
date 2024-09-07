@@ -23,7 +23,7 @@
                 "description": "一款一键AI换衣的Chrome浏览器插件：visual-try-on。基于快手Kolors图像模型开发，可在任何电商网站上，上传一张自己照片，即可一键让自己试穿喜欢的衣服。参考文献：[1]GitHub",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 7,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

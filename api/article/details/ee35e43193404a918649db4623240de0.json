@@ -23,7 +23,7 @@
                 "description": "科罗拉多大学博尔德分校的TomYeh教授分享了自注意力(SelfAttention)机制的在线演示表格。你可以输入自己的数字并逐步查看计算结果。自注意力是大型语言模型（LLMs）理解上下文的关键能力。",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

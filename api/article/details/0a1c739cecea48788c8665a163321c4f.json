@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "0a1c739cecea48788c8665a163321c4f"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 83248,
+                "outId": "0a1c739cecea48788c8665a163321c4f",
+                "articleOutId": "0a1c739cecea48788c8665a163321c4f",
+                "html": "",
+                "title": "9-6",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 74801,
+                "userOutId": "424017785748",
+                "username": "kedre",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/09/06",
+                "readingNum": 7,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "e96283e1d55943028abcc1d18aafd645",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-09-06 17:15"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "0a1c739cecea48788c8665a163321c4f"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

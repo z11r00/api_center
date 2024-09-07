@@ -23,7 +23,7 @@
                 "description": "1.容器启动命令：容器启动命令指在容器启动时需要执行的命令。通过设置ENTRYPOINT或CMD，可以自定义容器启动时执行的进程。使用了一个简单的Dockerfile来设置ENTRYPOINT命令：F",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 0,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 83,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "承接上文，本篇我们深入源码层面，看下Spring是如何实现AOP的。一、示例代码先从一段简单的示例代码入手。如下public&nbsp;class&nbsp;TestBean&nbsp;{&nbsp;",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

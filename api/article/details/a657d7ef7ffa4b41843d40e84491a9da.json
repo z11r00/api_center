@@ -23,7 +23,7 @@
                 "description": "Graphiti：构建和查询动态、时间感知的知识图谱，代表实体间复杂、随时间演变的关系。参考文献：[1]https://github.com/getzep/graphiti[2]https://hel",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 0,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

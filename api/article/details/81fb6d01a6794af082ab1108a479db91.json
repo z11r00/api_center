@@ -23,7 +23,7 @@
                 "description": "之前研究OpenAI平替的时候,总是会看到DeepSeek这个词,好像新闻上并不怎么提到,但是每当看到一些技术文章分享的时候,总是会提到让用DeepSeek替换OpenAI,我也注册了他们的平台,确实",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 17,
                     "createTime": "2024-08-06 19:03"
                 }
             }

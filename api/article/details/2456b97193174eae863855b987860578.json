@@ -23,7 +23,7 @@
                 "description": "Kubernetes中LivenessProbe的工作机制及其不同配置方式。LivenessProbe是用于检测容器健康状况的关键工具，可以在容器出现问题时进行自动恢复操作，如重启容器，确保系统的稳定",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 81,
+                    "writingNum": 83,
                     "createTime": "2024-08-06 19:02"
                 }
             }

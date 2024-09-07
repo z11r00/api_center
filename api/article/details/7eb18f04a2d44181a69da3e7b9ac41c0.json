@@ -23,7 +23,7 @@
                 "description": "Laminar：开源的AIAgent/RAG应用的监控和分析工具，快速、可靠且具有洞察力，用Rust编写。参考文献：[1]http://github.com/lmnr-ai/lmnr[2]https:",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "GuideLLM：用于评估和优化大型语言模型（LLM）部署的实用工具，通过模拟真实世界推理工作负载，帮助用户评估性能、资源需求和成本影响，确保高效、可扩展且成本效益高的LLM推理服务。参考文献：[1]",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

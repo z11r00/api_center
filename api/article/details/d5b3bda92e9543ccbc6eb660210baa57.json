@@ -23,7 +23,7 @@
                 "description": "第一款完全开源的MoE大模型：OLMoE。基于5Ttoken预训练实现7B总参数、1B活跃参数的MOE专家模型。最大特点：第一个权重、训练数据、代码和日志都是开源的，为构建moe训练模型提供了POC参",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 0,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

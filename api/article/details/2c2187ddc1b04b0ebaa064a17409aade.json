@@ -23,7 +23,7 @@
                 "description": "HF-LLM.rs：一个命令行工具，用于访问HuggingFace托管的大型语言模型(LLM)，支持模型选择、输入提示、实时输出流和聊天模式。参考文献：[1]http://github.com/Vai",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "内容概述Actor-Critic方法把基于value的方法，特别是valuefunctionapproximation引入到policygradient当中这里的Actor指的是策略更新，Critic",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 0,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

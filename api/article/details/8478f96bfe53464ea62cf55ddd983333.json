@@ -23,7 +23,7 @@
                 "description": "AlphaNLHoldem：一款基于TensorFlow和Ray实现的自弈德州扑克AI，提供清晰的代码基础，用于在德州扑克类游戏中应用无模型自对弈强化学习方法，旨在复现AlphaHoldem的结果。参",
                 "level": 2,
                 "publishTime": "2024/09/05",
-                "readingNum": 0,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1685,
+                    "writingNum": 1689,
                     "createTime": "2024-08-06 19:06"
                 }
             }
