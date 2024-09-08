@@ -23,7 +23,7 @@
                 "description": "1.开发与生产环境隔离在企业应用中，经常需要区分开发环境（development）和生产环境（production）。通过创建两个不同的Namespace，可以轻松将两者隔离，确保开发环境的变动不会影",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

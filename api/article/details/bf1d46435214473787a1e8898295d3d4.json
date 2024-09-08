@@ -23,7 +23,7 @@
                 "description": "从去年订阅了GithubCopilot以来，我一直在使用它。基本上写代码已经离不开了,但是它的应用范围非常有限,对于单个函数的代码片段生成还是很方便的,但是对于整个项目的代码生成,它的效果就不是很好了",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 6,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 18,
                     "createTime": "2024-08-06 19:03"
                 }
             }

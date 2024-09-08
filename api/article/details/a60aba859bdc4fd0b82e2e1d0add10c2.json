@@ -23,7 +23,7 @@
                 "description": "模块化、跨平台管道可在设备上运行类似GPT4o的体验，现在可以在对话中无缝切换语言，并且延迟几乎只有100毫秒。参考文献：[1]https://github.com/huggingface/speec",
                 "level": 2,
                 "publishTime": "2024/09/06",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1689,
+                    "writingNum": 1693,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "PyTorch版SAC-Auto强化学习算法与应用示例零.SAC-Auto算法:自定义程度高的SAC-Auto算法，支持部署策略模型、备份训练过程、多源观测融合、PER等功能论文：《SoftActor",
                 "level": 1,
                 "publishTime": "2024/09/05",
-                "readingNum": 6,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 16,
+                    "writingNum": 18,
                     "createTime": "2024-08-06 19:03"
                 }
             }

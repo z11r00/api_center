@@ -23,7 +23,7 @@
                 "description": "简介代理模式（ProxyPattern）是一种结构型设计模式，允许我们提供一个代理对象来控制对另一个对象的访问。代理对象通常负责控制访问权限、延迟初始化或提供额外功能，而不直接暴露实际对象的细节。代理",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

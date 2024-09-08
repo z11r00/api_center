@@ -23,7 +23,7 @@
                 "description": "简介外观模式（FacadePattern）是一种结构型设计模式，它为复杂的子系统提供一个简单的统一接口，从而让客户端能够更容易地与子系统进行交互。外观模式通过引入一个外观类（Facade），隐藏了子系",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

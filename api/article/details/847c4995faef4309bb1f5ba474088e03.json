@@ -23,7 +23,7 @@
                 "description": "《编程不难》是一本为所有想要通过编程改变世界的人准备的书。豆瓣评分9.9。这本书将带你从零基础开始，一步步走进Python的世界，并最终掌握数据分析和机器学习的技能。本书通俗易懂，尽量避免复杂的数学公",
                 "level": 2,
                 "publishTime": "2024/09/06",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1689,
+                    "writingNum": 1693,
                     "createTime": "2024-08-06 19:06"
                 }
             }

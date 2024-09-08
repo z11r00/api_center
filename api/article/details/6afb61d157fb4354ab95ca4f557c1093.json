@@ -23,7 +23,7 @@
                 "description": "看到一个很无聊的话题，就是为啥Blazor的组件都很丑？讨论仿佛击中了我，何止是Blazor的组件丑，打我从业以来，使用微软的技术框架有没有不丑的？大部分时间都在怀疑自己的审美观，难道只有我一个人觉得",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 17,
+                    "writingNum": 18,
                     "createTime": "2024-08-06 19:03"
                 }
             }

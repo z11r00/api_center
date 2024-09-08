@@ -22,8 +22,8 @@
                 "avatar": "",
                 "description": "近期，国内大模型行业的发展态势引发了广泛关注。从初创企业到科技巨头，各方参与者都在这个被视为AI未来的赛道上竞相角逐。然而，随着时间推移，行业发展似乎进入了一个瓶颈期，不少企业面临着转型与调整的压力。",
                 "level": 1,
-                "publishTime": "2024/09/05",
-                "readingNum": 6,
+                "publishTime": "2024/09/07",
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -35,12 +35,12 @@
                 "isVisible": true,
                 "invisibleReason": null,
                 "writingColumn": {
-                    "columnOutId": "27f033039c7343618d1be06a4c457113",
-                    "name": "默认专栏",
-                    "briefIntro": "这是一个默认专栏",
-                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 2,
-                    "createTime": "2024-08-06 19:02"
+                    "columnOutId": "621560002d1f4befbe9c5011e18b0074",
+                    "name": "蔡荔谈AI",
+                    "briefIntro": "关于AI科普，AI培训，超级个体，海外商业落地",
+                    "cover": "https://files.mdnice.com/user/64152/column-cover/36bacb65-afd3-44fe-8a2e-7e15e0cd4b8e.jpg",
+                    "writingNum": 4,
+                    "createTime": "2024-09-07 20:27"
                 }
             }
         },

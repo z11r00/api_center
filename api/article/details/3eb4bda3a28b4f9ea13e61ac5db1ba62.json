@@ -23,7 +23,7 @@
                 "description": "vue2实例创建过程详解在JavaScript中，new关键字用于创建一个构造函数的实例。Vue实例的创建之所以使用new关键字，是因为Vue本身是一个构造函数（或者说是类，在ES6中可以用class",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

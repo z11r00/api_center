@@ -23,7 +23,7 @@
                 "description": "1.为什么需要Label：当资源变得复杂且数量众多时，分类管理变得尤为重要。Kubernetes提供了Label（标签）这一机制来对资源进行分类管理。Label是以键值对的形式存在的，可以在资源创建时",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

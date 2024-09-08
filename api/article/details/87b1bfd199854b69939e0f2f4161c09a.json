@@ -23,7 +23,7 @@
                 "description": "MiniTorch：旨在帮助机器学习工程师学习深度学习系统内部概念的自制教学库，它是一个用纯Python重写的TorchAPI，旨在简单、易于阅读、经过测试且逐步增量。参考文献：[1]https://",
                 "level": 2,
                 "publishTime": "2024/09/06",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1689,
+                    "writingNum": 1693,
                     "createTime": "2024-08-06 19:06"
                 }
             }
