@@ -23,7 +23,7 @@
                 "description": "该项目“svd_keyframe_interpolation”实现了一个基于稳定视频扩散（StableVideoDiffusion）的关键帧插值工具，可以生成从两帧关键帧之间过渡的视频帧。这一工具通过",
                 "level": 2,
                 "publishTime": "2024/09/07",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1693,
+                    "writingNum": 1701,
                     "createTime": "2024-08-06 19:06"
                 }
             }

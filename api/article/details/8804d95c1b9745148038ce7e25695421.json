@@ -23,7 +23,7 @@
                 "description": "VPNv4和VPNv6overSRv6TEPolicy组网案例组网介绍如图，NE1~NE6l路由器共同构建SRv6骨干网络，属于同一自治系统AS65500。其中NE1，NE2，NE5，NE6路由器作为",
                 "level": 1,
                 "publishTime": "2024/09/07",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "",
                 "followWords": "让我再卷一分钟",

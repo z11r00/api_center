@@ -23,7 +23,7 @@
                 "description": "我的Intellij插件主页：BaoTingyu背景在给Java局部变量的实体赋值时，往往有很多setter，一个一个写很麻烦，也会漏掉，因此开发一款插件，可以自动生成局部变量实体的所有setter。",
                 "level": 1,
                 "publishTime": "2024/09/07",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "bty834.github.io",
                 "followWords": null,

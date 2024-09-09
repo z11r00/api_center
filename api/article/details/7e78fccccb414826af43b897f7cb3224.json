@@ -23,7 +23,7 @@
                 "description": "《矩阵力量》是一本为开发者量身打造的线性代数指南开源书籍，豆瓣评分9.6。书中详细讲解了向量、矩阵、向量空间等基础概念，并深入探讨了矩阵分解、微积分等高级主题。通过丰富的实例和代码演示，帮助读者将理论",
                 "level": 2,
                 "publishTime": "2024/09/07",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1693,
+                    "writingNum": 1701,
                     "createTime": "2024-08-06 19:06"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "体能训练简介1.体能训练是什么？体能训练:是一个系统而科学的过程，旨在通过有针对性的训练方法，全面提升个体的身体素质。它不仅仅局限于传统的力量和耐力训练，还包括速度、协调性、灵敏性、柔韧性和平衡能力等",
                 "level": 1,
                 "publishTime": "2024/09/08",
-                "readingNum": 3,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 31,
+                    "writingNum": 34,
                     "createTime": "2024-08-11 14:54"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "简介适配器模式（AdapterPattern）是一种结构型设计模式，适用于将一个类的接口转换为客户端希望的另一种接口。适配器模式让原本接口不兼容的类可以合作无间。适配器模式的核心思想是通过引入一个适配",
                 "level": 1,
                 "publishTime": "2024/09/06",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
