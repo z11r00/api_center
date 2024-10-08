@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "38fdb7ef788040b1ad2437bd4444f73f"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84612,
+                "outId": "38fdb7ef788040b1ad2437bd4444f73f",
+                "articleOutId": "38fdb7ef788040b1ad2437bd4444f73f",
+                "html": "<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; background: #fff; color: black; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\"><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;定义输入信号</span><br>N&nbsp;=&nbsp;<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">31</span>;&nbsp;<span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;0≤n≤30</span><br>n&nbsp;=&nbsp;<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">0</span>:N<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">-1</span>;<br>x1&nbsp;=&nbsp;(n&nbsp;==&nbsp;<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">0</span>);&nbsp;<span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;单位脉冲信号</span><br>x2&nbsp;=&nbsp;<span class=\"hljs-built_in\" style=\"color: #5c2699; line-height: 26px;\">ones</span>(<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">1</span>,&nbsp;N+<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">1</span>);&nbsp;<span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;单位阶跃信号</span><br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;计算响应</span><br>a&nbsp;=&nbsp;<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">1</span>;<br>yn1&nbsp;=&nbsp;<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">0</span>;&nbsp;<span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;y[-1]</span><br>y1&nbsp;=&nbsp;diffeqn(a,&nbsp;x1,&nbsp;yn1);<br>y2&nbsp;=&nbsp;diffeqn(a,&nbsp;x2,&nbsp;yn1);<br><br><span class=\"hljs-comment\" style=\"color: #007400; line-height: 26px;\">%&nbsp;绘制响应</span><br><span class=\"hljs-built_in\" style=\"color: #5c2699; line-height: 26px;\">figure</span>;<br>subplot(<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">2</span>,<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">1</span>,<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">1</span>);<br>stem(<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">0</span>:N<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">-1</span>,&nbsp;y1);<br>title(<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'Response&nbsp;to&nbsp;x1[n]&nbsp;=&nbsp;δ[n]'</span>);<br>subplot(<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">2</span>,<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">1</span>,<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">2</span>);<br>stem(<span class=\"hljs-number\" style=\"color: #1c00cf; line-height: 26px;\">0</span>:N,&nbsp;y2);<br>title(<span class=\"hljs-string\" style=\"color: #c41a16; line-height: 26px;\">'Response&nbsp;to&nbsp;x2[n]&nbsp;=&nbsp;u[n]'</span>);<br></code></pre>",
+                "title": "LAB",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 76956,
+                "userOutId": "575192924117",
+                "username": "chopin",
+                "avatar": "",
+                "description": "%&nbsp;定义输入信号N&nbsp;=&nbsp;31;&nbsp;%&nbsp;0≤n≤30n&nbsp;=&nbsp;0:N-1;x1&nbsp;=&nbsp;(n&nbsp;==&nbsp;",
+                "level": 1,
+                "publishTime": "2024/10/07",
+                "readingNum": 5,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "8a2f208af345444daea0d87a6d1ac16d",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-07 19:26"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "38fdb7ef788040b1ad2437bd4444f73f"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
