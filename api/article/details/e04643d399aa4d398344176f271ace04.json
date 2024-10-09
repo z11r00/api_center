@@ -23,7 +23,7 @@
                 "description": "这是一本面向大学一年级微积分学生的统计学与概率论入门教材。不同于传统的入门数学/统计教科书，本书以现代风格为课程增添色彩，结合计算机并提供一种综合的推断方法，包括频率方法和贝叶斯推断。从一开始就将模拟",
                 "level": 3,
                 "publishTime": "2024/10/07",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1862,
+                    "writingNum": 1863,
                     "createTime": "2024-08-06 19:06"
                 }
             }

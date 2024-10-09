@@ -23,7 +23,7 @@
                 "description": "1.什么是textRNNtextRNN指的是利用RNN循环神经网络解决文本分类问题，文本分类是自然语言处理的一个基本任务，试图推断出给定文本(句子、文档等)的标签或标签集合。文本分类的应用非常广泛，如",
                 "level": 1,
                 "publishTime": "2024/10/07",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 25,
+                    "writingNum": 27,
                     "createTime": "2024-08-06 19:02"
                 }
             }

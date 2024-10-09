@@ -23,7 +23,7 @@
                 "description": "梯度下降法（gradientdescent或者其改进算法）是机器学习的基础算法之一。在了解梯度下降算法的过程中，会经常看到一句话：“梯度是函数在某一点变化率最大的方向”。本文从较为严格数学证明的角度说",
                 "level": 1,
                 "publishTime": "2024/10/07",
-                "readingNum": 7,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

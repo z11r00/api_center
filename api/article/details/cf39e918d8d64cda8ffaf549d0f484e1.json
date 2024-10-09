@@ -23,7 +23,7 @@
                 "description": "00-淘天提前批面试在牛客上看到了淘天提前批的面试题目，这里分析一下淘天面试的问了有哪些内容，面试的重点是偏向哪些方面项目相关1、秒杀架构如何设计？问了秒杀的架构如何设计，对于秒杀的设计，秒杀符合写多",
                 "level": 1,
                 "publishTime": "2024/10/07",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 25,
+                    "writingNum": 27,
                     "createTime": "2024-08-06 19:02"
                 }
             }

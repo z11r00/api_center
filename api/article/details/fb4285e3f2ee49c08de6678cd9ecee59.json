@@ -23,7 +23,7 @@
                 "description": "项目致力于创建一个开源模型，不仅能够匹配，而且在代码生成、数学问题解决和有效工具使用等方面超越专有o1模型。参考文献：[1]https://github.com/OpenSource-O1/Open-",
                 "level": 3,
                 "publishTime": "2024/10/07",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1862,
+                    "writingNum": 1863,
                     "createTime": "2024-08-06 19:06"
                 }
             }

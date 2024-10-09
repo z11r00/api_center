@@ -23,7 +23,7 @@
                 "description": "1.说说GloVe正如GloVe论文的标题而言，GloVe的全称叫GlobalVectorsforWordRepresentation，它是一个基于全局词频统计（count-based&amp;ove",
                 "level": 1,
                 "publishTime": "2024/10/07",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 25,
+                    "writingNum": 27,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "线程池Executor框架Executor框架是在Java5中引入的，通过该框架来控制线程的启动，执行，关闭，简化并发编程。Executor基于生产者-消费者模式，提交任务的线程相当于生产者，执行任务",
                 "level": 1,
                 "publishTime": "2024/10/07",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 25,
+                    "writingNum": 27,
                     "createTime": "2024-08-06 19:02"
                 }
             }
