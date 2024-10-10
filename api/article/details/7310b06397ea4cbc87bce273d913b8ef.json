@@ -23,7 +23,7 @@
                 "description": "VPTQ（VectorPost-TrainingQuantization）是由微软开发的一个灵活且极端低比特量化算法，为大型语言模型提供了高效的量化方法。该算法能够在不重新训练的情况下，将模型压缩到1",
                 "level": 3,
                 "publishTime": "2024/10/07",
-                "readingNum": 8,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",

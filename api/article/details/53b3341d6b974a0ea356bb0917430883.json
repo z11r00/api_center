@@ -23,7 +23,7 @@
                 "description": "教学讲解：理解除法的两种情况：能整除：被除数可以被除数整除，没有余数。不能整除：被除数不能被除数整除，会产生余数。基本数量关系：被除数=除数×商+余数除数=(被除数-余数)÷商商=(被除数-余数)÷除",
                 "level": 1,
                 "publishTime": "2024/10/08",
-                "readingNum": 7,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": "intumu.com",
                 "followWords": "考点",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 3,
+                    "writingNum": 4,
                     "createTime": "2024-09-29 12:30"
                 }
             }

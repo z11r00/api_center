@@ -23,7 +23,7 @@
                 "description": "Algorithm本周的算法题为1822.数组元素积的符号已知函数signFunc(x)将会根据x的正负返回特定值：如果x是正数，返回1。如果x是负数，返回-1。如果x是等于0，返回0。给你一个整数数",
                 "level": 1,
                 "publishTime": "2024/10/08",
-                "readingNum": 1,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "https://dstweihao.cn",
                 "followWords": "",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 66,
+                    "writingNum": 67,
                     "createTime": "2024-08-06 19:03"
                 }
             }

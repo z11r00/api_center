@@ -23,7 +23,7 @@
                 "description": "在Vue3中，watch是一个强大的工具，适合监视响应式数据的变化并处理副作用逻辑。最近在做CodeReview的时候，发现了一些对watch使用上不太合理的地方，整理了一个类似的例子。案例分析先来看",
                 "level": 1,
                 "publishTime": "2024/10/08",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

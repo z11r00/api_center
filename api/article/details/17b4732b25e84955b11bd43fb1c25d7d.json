@@ -23,7 +23,7 @@
                 "description": "1.什么是反射反射可以认为是程序在运行时的一种能力，反射可以在程序运行时访问、检测和修改它本身状态，比如在程序运行时可以检查变量的类型和值，调用它们的方法，甚至修改它们的值。使用反射可以增加程序的灵活",
                 "level": 1,
                 "publishTime": "2024/10/06",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "闲话互联网二三事",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "Go语言由浅入深系列",
                     "briefIntro": "一起来聊聊go语言的那些事儿",
                     "cover": "https://files.mdnice.com/user/75626/column-cover/55b77a6c-9f88-4f14-9a28-d94a3781c601.png",
-                    "writingNum": 11,
+                    "writingNum": 12,
                     "createTime": "2024-09-17 21:15"
                 }
             }

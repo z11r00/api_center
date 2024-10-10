@@ -22,8 +22,8 @@
                 "avatar": "https://files.mdnice.com/user/73296/user-avatar/a8c36315-aff9-4b0d-8e77-cdb737d0de84.jpg",
                 "description": "在Java编程语言中，final、finally和finalize是三个容易混淆但用途截然不同的关键字和方法。了解它们的区别和使用场景对于编写健壮、高效的Java代码至关重要。final定义：fina",
                 "level": 1,
-                "publishTime": "2024/10/06",
-                "readingNum": 5,
+                "publishTime": "2024/10/09",
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 26,
+                    "writingNum": 27,
                     "createTime": "2024-08-19 09:50"
                 }
             }

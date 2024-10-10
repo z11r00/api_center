@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "64412acf8efd4dc0ac10004f0e92232b"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84542,
+                "outId": "64412acf8efd4dc0ac10004f0e92232b",
+                "articleOutId": "64412acf8efd4dc0ac10004f0e92232b",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(43, 43, 43); font-size: 16px; line-height: 1.8em; letter-spacing: 0.02em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\"><strong style=\"color: rgb(57, 144, 3); font-weight: bold; background-attachment: scroll; background-clip: border-box; background-color: rgba(0, 0, 0, 0); background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: no-repeat; background-size: auto; width: auto; height: auto; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;\">标题：《荷兰光刻机出售背后的风云变幻》</strong></p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(43, 43, 43); font-size: 16px; line-height: 1.8em; letter-spacing: 0.02em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">荷兰突然宣布向中国出售 60 台光刻机，价值高达 1000 亿元。这一消息传出，既让人感到震惊，又不免心生担忧。此前在美国的制裁之下，荷兰曾与美国沆瀣一气，在光刻机领域对中国进行限制，完全听从美国的“指挥”，禁止向中国出售。可如今，荷兰的态度来了个一百八十度大转弯，但其目的究竟为何，实在让人难以捉摸，也不清楚它是否又与美国达成了什么新的协议。 ! 中国在光刻机领域可不是毫无建树，已经取得了一定的成就。荷兰在对待中国的态度上一直摇摆不定，甚至曾经为之前“针对”中国的行为而后悔。此次荷兰与中国合作，也许存在着一些不可告人的目的，比如停止维修服务，或者试图阻止中国在光刻机方面的研发。</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(43, 43, 43); font-size: 16px; line-height: 1.8em; letter-spacing: 0.02em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">不过，中国科技一直在持续进步，在光刻机领域的成绩也是有目共睹。庞大的中国市场让荷兰心动，它既担心中国在该领域站稳脚跟，又想从中国市场分一杯羹。中国的发展是必然的，在光刻机领域必须掌握关键技术，绝不能再被他人牵制。中国在部分领域已经超越了西方，未来还会不断努力，研发出更多先进的技术。不管荷兰怀着怎样的心思，中国已经实现了技术的创新升级，有足够的能力去攻克各种难关。</p>",
+                "title": "文章",
+                "categoryId": 7,
+                "categoryName": "文学",
+                "tagId": 145,
+                "tagName": "写作",
+                "userId": 76852,
+                "userOutId": "156053439572",
+                "username": "15589730856",
+                "avatar": "",
+                "description": "标题：《荷兰光刻机出售背后的风云变幻》荷兰突然宣布向中国出售60台光刻机，价值高达1000亿元。这一消息传出，既让人感到震惊，又不免心生担忧。此前在美国的制裁之下，荷兰曾与美国沆瀣一气，在光刻机领域对",
+                "level": 1,
+                "publishTime": "2024/10/06",
+                "readingNum": 11,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "6744c196c6954c18a49fade44f2ec94b",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-06 08:28"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "64412acf8efd4dc0ac10004f0e92232b"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
