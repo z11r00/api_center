@@ -23,7 +23,7 @@
                 "description": "Go应用程序的初始化是在单一的goroutine中执行的。对于包这一级别的初始化来说，在一个包里会先进行包级别变量的初始化，再进行init函数的初始化。一个包下可以有多个init函数，每个文件也可以有",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "闲话互联网二三事",
                 "followWords": null,

@@ -23,7 +23,7 @@
                 "description": "日前，腾讯AILab和中科大联合发布了100多页的类SORA模型研究报告，非常全面，很有学习和研究价值，今天和大家分享下，内容较多，可后台回复【类SORA报告】获取100多页pdf。开源地址：http",
                 "level": 1,
                 "publishTime": "2024/10/10",
-                "readingNum": 0,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "欢迎关注公众号：AI生成未来",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 26,
+                    "writingNum": 28,
                     "createTime": "2024-08-06 19:04"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "文章链接：https://arxiv.org/pdf/2409.18938亮点直击追踪并总结从图像理解到长视频理解的MM-LLMs的进展;回顾了各种视觉理解任务之间的差异，并强调了长视频理解中的挑战，",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "欢迎关注公众号：AI生成未来",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 26,
+                    "writingNum": 28,
                     "createTime": "2024-08-06 19:04"
                 }
             }

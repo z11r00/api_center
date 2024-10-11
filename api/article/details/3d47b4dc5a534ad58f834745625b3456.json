@@ -23,7 +23,7 @@
                 "description": "文章链接：https://arxiv.org/pdf/2409.08260Github链接：https://github.com/Nnn-s/CATdiffusion总结速览解决的问题:单一U-Net",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "欢迎关注公众号：AI生成未来",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 26,
+                    "writingNum": 28,
                     "createTime": "2024-08-06 19:04"
                 }
             }

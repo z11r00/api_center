@@ -23,7 +23,7 @@
                 "description": "索引下推(IndexConditionPushdown)ICP是Mysql5.6之后新增的功能，主要的核心点就在于把数据筛选的过程放在了存储引擎层去处理，而不是像之前一样放到Server层去做过滤。虽",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 9,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

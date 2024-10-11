@@ -23,7 +23,7 @@
                 "description": "Rev开源了最新自动语音识别模型：ReverbASR，在长语音识别上，超过了Whisperlarge-v3、NVIDIACanary-1B。基于20万小时人工转录英语数据上训练，词错误率（WER）极低",
                 "level": 3,
                 "publishTime": "2024/10/08",
-                "readingNum": 12,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": "公众号：NLP工程化",
                 "followWords": "NLP工程化",

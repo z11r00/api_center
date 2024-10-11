@@ -23,7 +23,7 @@
                 "description": "springCloudStream简介由于市面上的消息中间件有很多，导致学习成本很大，而springCloudStream则将消息中间件进行再次封装，屏蔽了具体中间件的细节，应用程序通过inputs或",
                 "level": 1,
                 "publishTime": "2024/10/08",
-                "readingNum": 9,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 85,
+                    "writingNum": 61,
                     "createTime": "2024-08-06 19:04"
                 }
             }

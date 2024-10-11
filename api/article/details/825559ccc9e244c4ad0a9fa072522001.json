@@ -23,7 +23,7 @@
                 "description": "本小册主要是针对AI初学者的小白用户，那么第一篇肯定就是给大家科普一下，到底什么是AI呢？AI是“人工智能”的缩写，它听起来好像很复杂，但其实它就像一个超级聪明的机器人朋友，可以帮助我们做很多事情哦！",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 7,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 4,
+                    "writingNum": 6,
                     "createTime": "2024-09-21 11:30"
                 }
             }
