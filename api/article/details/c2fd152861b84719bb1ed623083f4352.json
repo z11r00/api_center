@@ -23,7 +23,7 @@
                 "description": "springCloudSleuth简介链路追踪？什么是链路追踪？就是将一次分布式请求还原成调用链路，将一次分布式请求的调用情况集中展示，如各个服务节点的耗时、具体请求的服务器、各节点的请求状态等，主要",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 6,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 61,
+                    "writingNum": 62,
                     "createTime": "2024-08-06 19:04"
                 }
             }

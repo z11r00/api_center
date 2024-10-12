@@ -23,7 +23,7 @@
                 "description": "Claude提示词精选:助力文字创作,提升写作效率Claude作为一款先进的AI语言模型,不仅能协助完成写作任务,更能激发创意,优化写作流程。本指南汇集了使用Claude进行写作的精华技巧,旨在帮助各",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 10,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 28,
+                    "writingNum": 29,
                     "createTime": "2024-08-06 19:02"
                 }
             }
