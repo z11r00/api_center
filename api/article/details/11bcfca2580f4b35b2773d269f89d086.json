@@ -23,7 +23,7 @@
                 "description": "FLUX.1模型的发布迅速走红全球，生成的图像质量超越了现有的开源模型，且支持通过简单操作进行微调，无需编程知识。Replicate上已有数百个公开的Flux微调，还有数千个私有微调。Flux的一大亮",
                 "level": 1,
                 "publishTime": "2024/10/11",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": "扫码关注公众号",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 65,
+                    "writingNum": 66,
                     "createTime": "2024-08-06 19:07"
                 }
             }

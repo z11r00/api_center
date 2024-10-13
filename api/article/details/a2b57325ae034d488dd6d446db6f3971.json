@@ -23,7 +23,7 @@
                 "description": "核心点：如何观察网络性能？哪些指标可以用来衡量Linux的网络性能呢？性能指标实际上，我们通常用带宽、吞吐量、延时、PPS（PacketPerSecond）等指标衡量网络的性能。带宽：最大传输速率，单",
                 "level": 1,
                 "publishTime": "2024/10/11",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

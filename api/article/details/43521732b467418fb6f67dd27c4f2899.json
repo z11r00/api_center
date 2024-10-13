@@ -23,7 +23,7 @@
                 "description": "什么是依赖注入依赖注入是一种用于在开发过程中实现控制反转（IoC）的技术。在IoC中，对程序流的控制是颠倒的：依赖项不是控制其依赖项的创建和管理的组件，而是从外部源提供给组件。在传统的编程模式中，一个",
                 "level": 1,
                 "publishTime": "2024/10/11",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

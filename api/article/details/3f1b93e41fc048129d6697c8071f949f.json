@@ -23,7 +23,7 @@
                 "description": "新的NotionAI集成了搜索、生成内容、分析数据和智能聊天等功能，所有操作都可以在Notion内完成。依托于GPT-4和Claude等先进的AI模型，用户可以与AI聊天并获取针对各种话题的答案。随时",
                 "level": 1,
                 "publishTime": "2024/10/11",
-                "readingNum": 8,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": "扫码关注公众号",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 65,
+                    "writingNum": 66,
                     "createTime": "2024-08-06 19:07"
                 }
             }

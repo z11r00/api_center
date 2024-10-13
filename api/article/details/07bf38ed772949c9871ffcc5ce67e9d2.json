@@ -23,7 +23,7 @@
                 "description": "ggalign热图-布局控制heatmap_layout()/ggheatmap函数用来初始化热图布局输入数据数据输入可以是数值或字符向量、数据框，以及任何可以转换为矩阵的数据。set.seed(12",
                 "level": 1,
                 "publishTime": "2024/10/11",
-                "readingNum": 8,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

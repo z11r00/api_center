@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "dc17c82300514a0189cefd1cce95ade7"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84891,
+                "outId": "dc17c82300514a0189cefd1cce95ade7",
+                "articleOutId": "dc17c82300514a0189cefd1cce95ade7",
+                "html": "<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/65600/0b4a1242-70bb-47d9-9c4c-fc9185f8504d.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure>",
+                "title": "Python的logging模块中的logger介绍(全局的)",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 103,
+                "tagName": "Python",
+                "userId": 65600,
+                "userOutId": "386048158015",
+                "username": "IIISXn",
+                "avatar": "https://files.mdnice.com/pic/c6fb6059-f24a-45b5-a0ac-42333fbb2634.jpeg",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/10/13",
+                "readingNum": 5,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "5a16b81719c348918f6e6b758bb2c0d1",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 15,
+                    "createTime": "2024-08-06 19:02"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "dc17c82300514a0189cefd1cce95ade7"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
