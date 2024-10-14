@@ -23,7 +23,7 @@
                 "description": "1.聚类算法都是无监督学习吗?什么是聚类算法？聚类是一种机器学习技术，它涉及到数据点的分组。给定一组数据点，我们可以使用聚类算法将每个数据点划分为一个特定的组。理论上，同一组中的数据点应该具有相似的属",
                 "level": 1,
                 "publishTime": "2024/10/10",
-                "readingNum": 8,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 29,
+                    "writingNum": 32,
                     "createTime": "2024-08-06 19:02"
                 }
             }

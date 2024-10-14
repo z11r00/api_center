@@ -23,7 +23,7 @@
                 "description": "做市的基本概念在一些活跃标的资产的交易活动中，普通的散户类投资者可以轻松地通过提交市价单、直接买卖目标标的资产或者标的资产的衍生品及其相关资产来直接参与市场交易。这样的市场中因为存在较多的投资者，所以",
                 "level": 1,
                 "publishTime": "2024/10/12",
-                "readingNum": 9,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1,
+                    "writingNum": 2,
                     "createTime": "2024-10-11 14:21"
                 }
             }

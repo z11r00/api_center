@@ -23,7 +23,7 @@
                 "description": "1.什么是词嵌入(WordEmbedding)⾃然语⾔是⼀套⽤来表达含义的复杂系统。在这套系统中，词是表义的基本单元。顾名思义，词向量是⽤来表⽰词的向量，也可被认为是词的特征向量或表征。把词映射为实数",
                 "level": 1,
                 "publishTime": "2024/10/09",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 29,
+                    "writingNum": 32,
                     "createTime": "2024-08-06 19:02"
                 }
             }

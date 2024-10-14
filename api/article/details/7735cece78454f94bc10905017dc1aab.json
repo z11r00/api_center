@@ -23,7 +23,7 @@
                 "description": "Problem:217.存在重复元素思路要查找是否有重复的元素，有四种方法：暴力法，通过一一对比，查找是否有重复元素。排序法，如果元素是有序的，只需要一轮循环，将后一个元素与前一个元素对比即可。哈希表",
                 "level": 1,
                 "publishTime": "2024/10/12",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "前端工程师",
                 "followWords": null,

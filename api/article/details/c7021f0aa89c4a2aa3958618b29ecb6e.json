@@ -23,7 +23,7 @@
                 "description": "论文链接：https://arxiv.org/pdf/2405.09589亮点直击在大规模基础模型的背景下建立了幻觉的精确定义和结构化分类。识别出导致不同模态中幻觉出现的关键因素和机制。提出了在多模态",
                 "level": 1,
                 "publishTime": "2024/10/11",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "欢迎关注公众号：AI生成未来",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 29,
+                    "writingNum": 32,
                     "createTime": "2024-08-06 19:04"
                 }
             }

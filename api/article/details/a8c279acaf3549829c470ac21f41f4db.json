@@ -23,7 +23,7 @@
                 "description": "Problem:242.有效的字母异位词思路所谓有效字母异位词，就是要看看两个字符串里面的字符出现次数是不是一样的，如果一样，就是有效的字母异位词，否则，就是无效的。简化一下问题，就是统计每个字符串里",
                 "level": 1,
                 "publishTime": "2024/10/12",
-                "readingNum": 6,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": "前端工程师",
                 "followWords": null,

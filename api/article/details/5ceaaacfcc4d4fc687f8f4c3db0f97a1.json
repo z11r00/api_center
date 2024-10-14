@@ -23,7 +23,7 @@
                 "description": "Java序列化是指将Java对象的状态转换为字节序列的过程，而反序列化则是将字节序列恢复为Java对象的过程。这两个过程在对象存储、网络传输以及分布式计算中扮演着至关重要的角色。一、序列化的基本概念序",
                 "level": 1,
                 "publishTime": "2024/10/12",
-                "readingNum": 3,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

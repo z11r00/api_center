@@ -23,7 +23,7 @@
                 "description": "谈下你对Zookeeper的认识？ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务。它是一个为分布式应用提供一致性服务的软件，提供的功能包括：配置维护、域名服务、分布式同步、组服务等",
                 "level": 1,
                 "publishTime": "2024/10/10",
-                "readingNum": 11,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 82,
+                    "writingNum": 83,
                     "createTime": "2024-08-06 19:04"
                 }
             }

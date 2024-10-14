@@ -23,7 +23,7 @@
                 "description": "在数字化时代，数据就像是一座座宝藏，而数据库则是存放这些宝藏的宝库。为了确保这些宝藏的安全与准确，数据库事务扮演了至关重要的角色。想象一下，你是一位宝藏守护者，每一次对宝藏的操作（比如增加、删除、修改",
                 "level": 1,
                 "publishTime": "2024/10/10",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 29,
+                    "writingNum": 32,
                     "createTime": "2024-08-19 09:50"
                 }
             }

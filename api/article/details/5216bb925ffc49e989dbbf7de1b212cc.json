@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "5216bb925ffc49e989dbbf7de1b212cc"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84899,
+                "outId": "5216bb925ffc49e989dbbf7de1b212cc",
+                "articleOutId": "5216bb925ffc49e989dbbf7de1b212cc",
+                "html": "<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 22px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">源自微信公众号“一页寄相思”</span><span class=\"suffix\" style=\"display: none;\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">欧拉梁正则模态分析需要的关键字</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px; text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><span style=\"display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #282c34; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;\"></span><sider-code-explain id=\"sider-code-explain\" data-gpts-theme=\"light\"></sider-code-explain><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; color: #abb2bf; padding-top: 15px; background: #282c34; border-radius: 5px; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\">SOL&nbsp;103<br>CEND<br>$&nbsp;Direct&nbsp;Text&nbsp;Input&nbsp;<span class=\"hljs-keyword\" style=\"color: #c678dd; line-height: 26px;\">for</span>&nbsp;Global&nbsp;Case&nbsp;Control&nbsp;Data<br>TITLE&nbsp;=&nbsp;MSC.Nastran&nbsp;job&nbsp;created&nbsp;on&nbsp;<br>ECHO&nbsp;=&nbsp;NONE<br>$&nbsp;Using&nbsp;Nastran&nbsp;default&nbsp;values&nbsp;<span class=\"hljs-keyword\" style=\"color: #c678dd; line-height: 26px;\">for</span>&nbsp;RESVEC<br>SUBCASE&nbsp;1<br>$&nbsp;Subcase&nbsp;name&nbsp;:&nbsp;Default<br>&nbsp;&nbsp;&nbsp;SUBTITLE=Default<br>&nbsp;&nbsp;&nbsp;METHOD&nbsp;=&nbsp;1<br>&nbsp;&nbsp;&nbsp;SPC&nbsp;=&nbsp;2<br>&nbsp;&nbsp;&nbsp;VECTOR(SORT1,REAL)=ALL<br>&nbsp;&nbsp;&nbsp;SPCFORCES(SORT1,REAL)=ALL<br>BEGIN&nbsp;BULK<br>$&nbsp;Direct&nbsp;Text&nbsp;Input&nbsp;<span class=\"hljs-keyword\" style=\"color: #c678dd; line-height: 26px;\">for</span>&nbsp;Bulk&nbsp;Data<br>MDLPRM&nbsp;&nbsp;&nbsp;HDF5&nbsp;&nbsp;&nbsp;&nbsp;0<br>PARAM&nbsp;&nbsp;&nbsp;&nbsp;POST&nbsp;&nbsp;&nbsp;&nbsp;1<br>PARAM&nbsp;&nbsp;&nbsp;PRTMAXIM&nbsp;YES<br>EIGRL&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0<br>$&nbsp;Elements&nbsp;and&nbsp;Element&nbsp;Properties&nbsp;<span class=\"hljs-keyword\" style=\"color: #c678dd; line-height: 26px;\">for</span>&nbsp;region&nbsp;:&nbsp;beam<br>PBARL&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BAR<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.01<br>$&nbsp;Pset:&nbsp;<span class=\"hljs-string\" style=\"color: #98c379; line-height: 26px;\">\"beam\"</span>&nbsp;will&nbsp;be&nbsp;imported&nbsp;as:&nbsp;<span class=\"hljs-string\" style=\"color: #98c379; line-height: 26px;\">\"pbarl.1\"</span><br>CBAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.<br>...<br>CBAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.<br>$&nbsp;Referenced&nbsp;Material&nbsp;Records<br>$&nbsp;Material&nbsp;Record&nbsp;:&nbsp;mat<br>$&nbsp;Description&nbsp;of&nbsp;Material&nbsp;:&nbsp;<br>MAT1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.+11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7850.<br>$&nbsp;Nodes&nbsp;of&nbsp;the&nbsp;Entire&nbsp;Model<br>GRID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.<br>...<br>GRID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.<br>$&nbsp;Loads&nbsp;<span class=\"hljs-keyword\" style=\"color: #c678dd; line-height: 26px;\">for</span>&nbsp;Load&nbsp;Case&nbsp;:&nbsp;Default<br>SPCADD&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>$&nbsp;Displacement&nbsp;Constraints&nbsp;of&nbsp;Load&nbsp;Set&nbsp;:&nbsp;fixed<br>SPC1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;123456&nbsp;&nbsp;1<br>$&nbsp;Referenced&nbsp;Coordinate&nbsp;Frames<br>ENDDATA&nbsp;39588cd4<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">文件地址：<br> 链接：https://pan.baidu.com/s/1lpN_h5XiGC9oskOipwIGGw?pwd=ivpl<br> 提取码：ivpl</p>",
+                "title": "完结-欧拉梁正则模态分析",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 47296,
+                "userOutId": "570714300339",
+                "username": "一页寄相思",
+                "avatar": "https://files.mdnice.com/pic/df65fda9-a474-4b48-9ad0-2f53aff5e7ce.jpg",
+                "description": "源自微信公众号“一页寄相思”欧拉梁正则模态分析需要的关键字SOL&nbsp;103CEND$&nbsp;Direct&nbsp;Text&nbsp;Input&nbsp;for&nbsp;Global",
+                "level": 1,
+                "publishTime": "2024/10/13",
+                "readingNum": 2,
+                "likeNum": 0,
+                "introduction": "欢迎关注微信公众号“一页寄相思”",
+                "followWords": null,
+                "followPic": "https://files.mdnice.com/pic/b0320aad-17c3-4570-a758-f07fae2bc284.jpg",
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "440d27ff728b48e6bb3c2ca8c89715ba",
+                    "name": "有限元分析",
+                    "briefIntro": "记录有限元相关的学习路程",
+                    "cover": "https://files.mdnice.com/user/47296/column-cover/00ab7166-7793-4e85-a701-7f53d9a17151.png",
+                    "writingNum": 8,
+                    "createTime": "2024-10-13 10:07"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "5216bb925ffc49e989dbbf7de1b212cc"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

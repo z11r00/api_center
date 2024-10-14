@@ -23,7 +23,7 @@
                 "description": "前言❝使用Vue、React等框架的过程中，经常会听到一个词“组件化”，在构建项目过程中，很多时候都是在写组件，不管是官方提供的还是自己写的，都可以算作是自定义组件。像vue-leaflet即是使用V",
                 "level": 1,
                 "publishTime": "2024/10/12",
-                "readingNum": 6,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": "专注于GIS知识分享",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 2,
+                    "writingNum": 3,
                     "createTime": "2024-08-06 19:04"
                 }
             }

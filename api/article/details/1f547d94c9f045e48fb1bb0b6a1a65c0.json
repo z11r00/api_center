@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "1f547d94c9f045e48fb1bb0b6a1a65c0"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84896,
+                "outId": "1f547d94c9f045e48fb1bb0b6a1a65c0",
+                "articleOutId": "1f547d94c9f045e48fb1bb0b6a1a65c0",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">危险点</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/47296/7a774f04-501f-46e9-89b5-5d3ae4c7b31d.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">卡扣插入&amp;拔出过程仿真及应力随时间变化关系 <img src=\"https://files.mdnice.com/user/47296/da4c85e0-7438-4bdc-aa2a-df94af0f3505.gif\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"></p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">文件位置：</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">链接：https://pan.baidu.com/s/15ETMQSBI61IpyiQ0vPQaPg?pwd=dc1l 提取码：dc1l</p>",
+                "title": "卡扣插入拔出",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 47296,
+                "userOutId": "570714300339",
+                "username": "一页寄相思",
+                "avatar": "https://files.mdnice.com/pic/df65fda9-a474-4b48-9ad0-2f53aff5e7ce.jpg",
+                "description": "危险点卡扣插入&amp;拔出过程仿真及应力随时间变化关系文件位置：链接：https://pan.baidu.com/s/15ETMQSBI61IpyiQ0vPQaPg?pwd=dc1l提取码：dc1l",
+                "level": 1,
+                "publishTime": "2024/10/13",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": "欢迎关注微信公众号“一页寄相思”",
+                "followWords": null,
+                "followPic": "https://files.mdnice.com/pic/b0320aad-17c3-4570-a758-f07fae2bc284.jpg",
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "440d27ff728b48e6bb3c2ca8c89715ba",
+                    "name": "有限元分析",
+                    "briefIntro": "记录有限元相关的学习路程",
+                    "cover": "https://files.mdnice.com/user/47296/column-cover/00ab7166-7793-4e85-a701-7f53d9a17151.png",
+                    "writingNum": 8,
+                    "createTime": "2024-10-13 10:07"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "1f547d94c9f045e48fb1bb0b6a1a65c0"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

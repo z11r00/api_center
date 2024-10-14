@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "2d93b3e521504fd398b34bc1c828f296"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84911,
+                "outId": "2d93b3e521504fd398b34bc1c828f296",
+                "articleOutId": "2d93b3e521504fd398b34bc1c828f296",
+                "html": "<p _msttexthash=\"52460057\" _msthash=\"130\" data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">室内设计专业毕业设计报告</p>",
+                "title": "室内设计专业毕业设计报告",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 115,
+                "tagName": "人工智能",
+                "userId": 77468,
+                "userOutId": "921272603825",
+                "username": "纳税人",
+                "avatar": "",
+                "description": "室内设计专业毕业设计报告",
+                "level": 1,
+                "publishTime": "2024/10/13",
+                "readingNum": 9,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "03c79f1577344dc5a76d2ee79aa118d9",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-13 13:44"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "2d93b3e521504fd398b34bc1c828f296"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
