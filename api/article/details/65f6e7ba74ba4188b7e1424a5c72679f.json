@@ -23,7 +23,7 @@
                 "description": "Python3.13性能和规模的新突破Python3.13引入了实验性的自由线程模式和JIT编译器，为提高性能和多核利用率铺平了道路，同时增强了交互体验。⭐️https://thenewstack.i",
                 "level": 1,
                 "publishTime": "2024/10/13",
-                "readingNum": 9,
+                "readingNum": 14,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 38,
+                    "writingNum": 39,
                     "createTime": "2024-08-06 19:02"
                 }
             }

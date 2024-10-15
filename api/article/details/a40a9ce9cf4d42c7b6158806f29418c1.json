@@ -23,7 +23,7 @@
                 "description": "关于EGGegg框架的第一个版本还是2017-03-21，距今已有7年了。虽然最近几年没有什么更新，但它在国内的使用还是挺多的，mvc的分层模式也很受大家喜欢。虽然声称是面向企业级、中大型项目场景的框",
                 "level": 1,
                 "publishTime": "2024/10/13",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 48,
+                    "writingNum": 49,
                     "createTime": "2024-08-06 19:02"
                 }
             }

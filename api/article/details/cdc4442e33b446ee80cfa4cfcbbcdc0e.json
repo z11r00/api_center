@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "cdc4442e33b446ee80cfa4cfcbbcdc0e"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 84956,
+                "outId": "cdc4442e33b446ee80cfa4cfcbbcdc0e",
+                "articleOutId": "cdc4442e33b446ee80cfa4cfcbbcdc0e",
+                "html": "<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 22px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">hexo使用next主题渲染流程图</span><span class=\"suffix\" style=\"display: none;\"></span></h2> \n<blockquote class=\"multiquote-1\" data-tool=\"mdnice编辑器\" style=\"margin-top: 20px; margin-bottom: 20px; margin-left: 0px; margin-right: 0px; padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 10px; border-top-style: none; border-bottom-style: none; border-left-style: solid; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; background-attachment: scroll; background-clip: border-box; background-color: rgba(0, 0, 0, 0.05); background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: no-repeat; background-size: auto; width: auto; height: auto; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px; display: block; overflow-x: auto; overflow-y: auto;\"> <span style=\"display: none; color: rgb(0, 0, 0); font-size: 16px; line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: normal;\"></span> \n <p style=\"text-indent: 0em; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px; color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;\">hexo版本5.0.2 npm版本6.14.7 next版本7.8.0</p> \n</blockquote> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">next主题的配置文件中搜索找到mermaid，把enable配置改为true</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px; text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><span style=\"display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #282c34; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;\"></span><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; color: #abb2bf; padding-top: 15px; background: #282c34; border-radius: 5px; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\"><span class=\"hljs-attr\" style=\"color: #d19a66; line-height: 26px;\">mermaid:</span><br>&nbsp;&nbsp;<span class=\"hljs-attr\" style=\"color: #d19a66; line-height: 26px;\">enable:</span>&nbsp;<span class=\"hljs-literal\" style=\"color: #56b6c2; line-height: 26px;\">true</span><br>&nbsp;&nbsp;<span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#&nbsp;Available&nbsp;themes:&nbsp;default&nbsp;|&nbsp;dark&nbsp;|&nbsp;forest&nbsp;|&nbsp;neutral</span><br>&nbsp;&nbsp;<span class=\"hljs-attr\" style=\"color: #d19a66; line-height: 26px;\">theme:</span>&nbsp;<span class=\"hljs-string\" style=\"color: #98c379; line-height: 26px;\">default</span><br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">然后在博客下安装<code style=\"color: rgb(30, 107, 184); font-size: 14px; line-height: 1.8em; letter-spacing: 0em; background-attachment: scroll; background-clip: border-box; background-color: rgba(27, 31, 35, 0.05); background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: no-repeat; background-size: auto; width: auto; height: auto; margin-top: 0px; margin-bottom: 0px; margin-left: 2px; margin-right: 2px; padding-top: 2px; padding-bottom: 2px; padding-left: 4px; padding-right: 4px; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgb(0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; overflow-wrap: break-word; font-family: Consolas, Monaco, Menlo, monospace; word-break: break-all;\">hexo-filter-mermaid-diagrams</code></p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px; text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><span style=\"display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #282c34; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;\"></span><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; color: #abb2bf; padding-top: 15px; background: #282c34; border-radius: 5px; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\">npm&nbsp;install&nbsp;hexo-filter-mermaid-diagrams&nbsp;--save<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">之后正常编译构建流程图就可以渲染出来了</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px; text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><span style=\"display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #282c34; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;\"></span><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; color: #abb2bf; padding-top: 15px; background: #282c34; border-radius: 5px; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\">hexo&nbsp;cl&nbsp;&amp;&amp;&nbsp;hexo&nbsp;g&nbsp;&amp;&amp;&nbsp;hexo&nbsp;s<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">参考文献</p> \n<ul data-tool=\"mdnice编辑器\" style=\"list-style-type: disc; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\"> <a href=\"https://zhhll.icu/2023/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%97%AE%E9%A2%98/2.hexo%E4%BD%BF%E7%94%A8next%E4%B8%BB%E9%A2%98%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B%E5%9B%BE/\" style=\"color: rgb(30, 107, 184); font-weight: bold; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word;\">hexo使用next主题渲染流程图</a> \n  </section></li> \n</ul>",
+                "title": "博客搭建之路：hexo使用next主题渲染流程图",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 101,
+                "tagName": "Java",
+                "userId": 42289,
+                "userOutId": "643529755269",
+                "username": "拾光师",
+                "avatar": "",
+                "description": "hexo使用next主题渲染流程图hexo版本5.0.2npm版本6.14.7next版本7.8.0next主题的配置文件中搜索找到mermaid，把enable配置改为truemermaid:&nb",
+                "level": 1,
+                "publishTime": "2024/10/14",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "e060fcda2883448cb51a481ba0f3d57a",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 63,
+                    "createTime": "2024-08-06 19:04"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "cdc4442e33b446ee80cfa4cfcbbcdc0e"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

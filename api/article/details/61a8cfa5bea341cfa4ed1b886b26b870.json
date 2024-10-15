@@ -23,7 +23,7 @@
                 "description": "前提netstat查看tcp网络信息的时候需要结合tcp的一些状态来查看，记忆力好的就不需要了O(∩_∩)O。tcp简单介绍三次握手连接image.png四次挥手关闭image.pngnetstat常",
                 "level": 1,
                 "publishTime": "2024/10/13",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "掘金、公众号 | 冒泡的肥皂",
                 "followWords": null,

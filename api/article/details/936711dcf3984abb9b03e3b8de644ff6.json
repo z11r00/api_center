@@ -23,7 +23,7 @@
                 "description": "前言❝在WebGIS开发中，由于计算机性能、网速等因素的影响，图层资源通常是以地图切片的形式进行加载。即水平分片，垂直分层，与金字塔结构相似。这些切片以图片的形式存储在互联网上，是可以进行下载的。本篇",
                 "level": 1,
                 "publishTime": "2024/10/13",
-                "readingNum": 8,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": "专注于GIS知识分享",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 3,
+                    "writingNum": 4,
                     "createTime": "2024-08-06 19:04"
                 }
             }

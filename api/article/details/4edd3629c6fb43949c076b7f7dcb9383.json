@@ -23,7 +23,7 @@
                 "description": "1.LDA模型是什么LDA可以分为以下5个步骤：一个函数：gamma函数。四个分布：二项分布、多项分布、beta分布、Dirichlet分布。一个概念和一个理念：共轭先验和贝叶斯框架。两个模型：pLS",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 1,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 32,
+                    "writingNum": 33,
                     "createTime": "2024-08-06 19:02"
                 }
             }

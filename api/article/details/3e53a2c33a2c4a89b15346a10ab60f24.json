@@ -23,7 +23,7 @@
                 "description": "1.马尔可夫网络、马尔可夫模型、马尔可夫过程、贝叶斯网络的区别相信大家都看过上一节我讲得贝叶斯网络，都明白了概率图模型是怎样构造的，如果现在还没明白，请看我上一节的总结：贝叶斯网络这一节我们重点来讲一",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 0,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 32,
+                    "writingNum": 33,
                     "createTime": "2024-08-06 19:02"
                 }
             }
