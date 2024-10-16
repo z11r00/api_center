@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "b672c2dc87124866bbd2ddcdfb3d3a48"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85045,
+                "outId": "b672c2dc87124866bbd2ddcdfb3d3a48",
+                "articleOutId": "b672c2dc87124866bbd2ddcdfb3d3a48",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\"><span class=\"span-inline-equation\" style=\"cursor:pointer\" data-formula=\"\\int\"><span class=\"inline-equation\" data-formula=\"\\int\"> \n   <svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" focusable=\"false\" viewbox=\"0 -805.5 610 1111\" aria-hidden=\"true\" style=\"vertical-align: -0.691ex; width: 1.38ex; height: 2.514ex;\"> <g stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" transform=\"matrix(1 0 0 -1 0 0)\"> \n     <g data-mml-node=\"math\"> \n      <g data-mml-node=\"mo\"> \n       <path data-c=\"222B\" d=\"M113 -244Q113 -246 119 -251T139 -263T167 -269Q186 -269 199 -260Q220 -247 232 -218T251 -133T262 -15T276 155T297 367Q300 390 305 438T314 512T325 580T340 647T361 703T390 751T428 784T479 804Q481 804 488 804T501 805Q552 802 581 769T610 695Q610 669 594 657T561 645Q542 645 527 658T512 694Q512 705 516 714T526 729T538 737T548 742L552 743Q552 745 545 751T525 762T498 768Q475 768 460 756T434 716T418 652T407 559T398 444T387 300T369 133Q349 -38 337 -102T303 -207Q256 -306 169 -306Q119 -306 87 -272T55 -196Q55 -170 71 -158T104 -146Q123 -146 138 -159T153 -195Q153 -206 149 -215T139 -230T127 -238T117 -242L113 -244Z\" /> \n      </g> \n     </g> \n    </g><g /> \n   </svg></span></span></p>",
+                "title": "三千多篇推文展示",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 2379,
+                "userOutId": "885272634552",
+                "username": "张祖锦",
+                "avatar": "https://files.mdnice.com/pic/2b060b1a-27e9-471e-94b7-d7e5ee0d8a99.jpg",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/10/15",
+                "readingNum": 12,
+                "likeNum": 0,
+                "introduction": "www.zhangzujin.cn",
+                "followWords": "扫码获取更多",
+                "followPic": "https://files.mdnice.com/pic/c745b143-5519-4e80-8509-527c2d4642f3.jpg",
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "7df03ce0dbf748ff8b45973bba4f5d4c",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 53,
+                    "createTime": "2024-08-06 19:08"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "b672c2dc87124866bbd2ddcdfb3d3a48"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
