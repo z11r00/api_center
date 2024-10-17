@@ -23,7 +23,7 @@
                 "description": "前面我们大致学习了VRRP的概念和基本原理，但是网络这块就是要多敲命令多用才能印象深刻，今天开始进行一些实验配置，结合日常工作的场景分析VRRP在实际工作中的应用。一、典型VRRP虚拟网关拓扑相比于传",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 28,
+                    "writingNum": 30,
                     "createTime": "2024-08-06 19:03"
                 }
             }

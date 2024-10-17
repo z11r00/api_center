@@ -23,7 +23,7 @@
                 "description": "FLUX.1-dev-LoRA-One-Click-Creative-Template是由ShakkerLabs提供的一个文本生成图像（Text-to-Image）模型模板，专为创造性照片生成而设计。",
                 "level": 1,
                 "publishTime": "2024/10/15",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": "扫码关注公众号",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 69,
+                    "writingNum": 70,
                     "createTime": "2024-08-06 19:07"
                 }
             }

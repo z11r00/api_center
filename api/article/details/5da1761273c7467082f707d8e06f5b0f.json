@@ -23,7 +23,7 @@
                 "description": "轻量级数据库的利器：Python及其内置SQLite简介SQLite是一个轻量级的关系型数据库管理系统，Python自带了对SQLite的支持，用户可以通过sqlite3模块方便地进行数据库操作。以下",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 12,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 4,
+                    "writingNum": 5,
                     "createTime": "2024-08-06 19:03"
                 }
             }

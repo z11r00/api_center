@@ -23,7 +23,7 @@
                 "description": "正则表达式的常用示例正则表达式（RegularExpression，简称regex）是一种用于匹配字符串中字符组合的工具。它在文本处理、数据验证、信息提取等方面具有广泛的应用。本文将介绍一些常用的正则",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 10,
+                "readingNum": 11,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 4,
+                    "writingNum": 5,
                     "createTime": "2024-08-06 19:03"
                 }
             }

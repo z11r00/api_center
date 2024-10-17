@@ -23,7 +23,7 @@
                 "description": "本文背景用AI辅助写作时，不少人都有个难题：怎么让AI写的东西更像自己呢？尤其是有写作经验的人，他们都有独特的表达和语气。要是AI写的文章风格不像你，读者一眼就能看出来，文章就不自然了。那怎么让AI写",
                 "level": 1,
                 "publishTime": "2024/10/15",
-                "readingNum": 8,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 6,
+                    "writingNum": 7,
                     "createTime": "2024-08-06 19:02"
                 }
             }

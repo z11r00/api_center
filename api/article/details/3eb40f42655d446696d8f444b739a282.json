@@ -23,7 +23,7 @@
                 "description": "从Atomic到CAS❝CAS知道吗，如何实现？讲一讲AtomicInteger，为什么要用CAS而不是synchronized？CAS底层原理，谈谈你对UnSafe的理解？AtomicInteger",
                 "level": 1,
                 "publishTime": "2024/10/15",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 84,
+                    "writingNum": 86,
                     "createTime": "2024-08-06 19:04"
                 }
             }

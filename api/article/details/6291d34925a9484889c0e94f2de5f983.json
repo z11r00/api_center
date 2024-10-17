@@ -23,7 +23,7 @@
                 "description": "前言❝nvm-windows作为node版本管理工具，可以快速切换node版本、提升开发效率。nvm具有安装便捷、使用简单的特点，是多项目开发中node版本管理的不二之选。1.卸载nodejs在安装n",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "专注于GIS知识分享",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 4,
+                    "writingNum": 5,
                     "createTime": "2024-08-06 19:04"
                 }
             }

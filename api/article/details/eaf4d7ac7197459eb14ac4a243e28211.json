@@ -23,7 +23,7 @@
                 "description": "容器应用管理仪表板用于管理容器的WebUI、简单的设置、动态更新的仪表板和多用户权限系统。⭐️https://www.dweebui.com⭐️https://github.com/lllllllil",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 39,
+                    "writingNum": 41,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "书接上回，上回我们已经解决了做市商策略出发点的问题，接下来我们来构建限价单。构建限价单为了解决最优报价决策问题，模型进一步研究了可以通过限价单交易参与市场投资的做市商行为。1）限价单报价及执行数量做市",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 2,
+                    "writingNum": 3,
                     "createTime": "2024-10-11 14:21"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "队列同步器AQS以及Reentrantlock应用Java中的大部分同步类都是基于AbstractQueuedSynchronizer（简称为AQS）实现的。ReentrantLock、Reentra",
                 "level": 1,
                 "publishTime": "2024/10/13",
-                "readingNum": 11,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 83,
+                    "writingNum": 86,
                     "createTime": "2024-08-06 19:04"
                 }
             }

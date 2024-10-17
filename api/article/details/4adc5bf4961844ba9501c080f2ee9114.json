@@ -23,7 +23,7 @@
                 "description": "我说：我想写一篇文章，标题是“分享我在Linux下使用的中文输入方案”，目前我在使用GarudaLinux作为我的日常工作使用的系统，使用i3wm作为平铺窗口管理器，ibus+rime+oh-my-r",
                 "level": 1,
                 "publishTime": "2024/10/15",
-                "readingNum": 9,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": "独立开发者，瞎折腾软硬件，全栈开发",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 2,
+                    "writingNum": 4,
                     "createTime": "2024-08-06 19:03"
                 }
             }

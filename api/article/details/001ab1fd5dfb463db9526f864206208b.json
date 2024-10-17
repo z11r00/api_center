@@ -23,7 +23,7 @@
                 "description": "Java泛型（Generics）是JavaSE5引入的一项强大特性，旨在提高代码的复用性和类型安全性。通过引入泛型，你可以编写更加通用、灵活且易于维护的代码。本文将详细介绍Java泛型的基本概念、使用",
                 "level": 1,
                 "publishTime": "2024/10/12",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 32,
+                    "writingNum": 37,
                     "createTime": "2024-08-19 09:50"
                 }
             }

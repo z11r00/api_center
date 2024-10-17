@@ -23,7 +23,7 @@
                 "description": "使用NumPy进行数组操作的示例NumPy是Python中一个强大的数值计算库，它提供了高效的数组操作和数学运算。本文将通过一个具体示例，演示如何使用NumPy创建数组、进行基本统计分析、执行元素级运",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 9,
+                "readingNum": 14,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 4,
+                    "writingNum": 5,
                     "createTime": "2024-08-06 19:03"
                 }
             }

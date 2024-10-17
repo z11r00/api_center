@@ -23,7 +23,7 @@
                 "description": "JavaWeb开发起源于静态页面，随后通过原生Servlet技术引入动态内容生成。Servlet是JavaEE的核心组件，允许开发者编写Java代码处理HTTP请求。随着需求增长，Spring框架（特",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 33,
+                    "writingNum": 37,
                     "createTime": "2024-08-19 09:50"
                 }
             }

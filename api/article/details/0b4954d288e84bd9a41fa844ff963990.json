@@ -23,7 +23,7 @@
                 "description": "一、STP概念复习在之前的学习中我们已经学习了STP的概念与作用。参考文章：计算机网络-生成树基础STP（SpanningTreeProtocol，生成树协议）是一种用于在局域网中消除数据链路层物理环",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 7,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 28,
+                    "writingNum": 30,
                     "createTime": "2024-08-06 19:03"
                 }
             }

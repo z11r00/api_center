@@ -23,7 +23,7 @@
                 "description": "动态加载组件可以显著提高应用的性能，优化用户体验，尤其是在大型应用中，合理的组件加载策略尤为重要。本文将探讨几种在Vue中实现组件动态加载的具体方案。1.异步组件Vue允许将组件定义为异步组件，从而在",
                 "level": 1,
                 "publishTime": "2024/10/14",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "公众号-前端历险记",
                 "followWords": "公众号-前端历险记",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 65,
+                    "writingNum": 66,
                     "createTime": "2024-08-06 19:03"
                 }
             }

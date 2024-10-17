@@ -23,7 +23,7 @@
                 "description": "Paxos算法是由LeslieLamport在1990年代提出的一种基于消息传递共识算法。在讨论分布式算法时，Paxos几乎是一个绕不开的话题。在过去的几十年中，它已经成为分布式共识的象征，许多流行的",
                 "level": 1,
                 "publishTime": "2024/10/15",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "闲话互联网二三事",
                 "followWords": null,
