@@ -23,7 +23,7 @@
                 "description": "安装插件npm&nbsp;install&nbsp;@vueuse/core@10.11.0编辑src/views/Main.vue，template段header-right下最前面添加如下代码。&",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

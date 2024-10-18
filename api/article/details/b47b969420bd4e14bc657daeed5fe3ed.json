@@ -23,7 +23,7 @@
                 "description": "路径别名是为了方便模块文件引入，比如有src/util/time_util.ts这样一个模块。如果没有路径别名，可能有的是importtime_utilfrom'./time_util'，有的是imp",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

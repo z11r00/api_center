@@ -23,7 +23,7 @@
                 "description": "获取菜单宽度菜单展开通过调试工具得知菜单展开时宽度为300px编辑src/views/Main.vue，设置菜单折叠。&lt;el-menurouter:default-active=\"route.p",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

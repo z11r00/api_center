@@ -23,7 +23,7 @@
                 "description": "编辑src/style.css，添加如下样式，自定义一个主颜色，在亮色和暗黑模式下都使用这个主颜色。:root&nbsp;{&nbsp;&nbsp;--el-color-primary:&nbsp;g",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 4,
+                "readingNum": 13,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

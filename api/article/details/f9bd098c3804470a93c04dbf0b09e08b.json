@@ -23,7 +23,7 @@
                 "description": "设置编辑src/main.ts，引入暗黑模式样式文件。import&nbsp;'element-plus/dist/index.css'import&nbsp;'element-plus/theme-",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

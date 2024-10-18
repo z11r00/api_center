@@ -23,7 +23,7 @@
                 "description": "现在当我们把菜单折叠然后再刷新浏览器，菜单又回到默认的展开状态了。我们要把展开折叠状态持久化，让它在下次进入时为关闭前的状态。为了实现这个目标，我们要引入pinia这个依赖以及它的持久化插件pinia",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

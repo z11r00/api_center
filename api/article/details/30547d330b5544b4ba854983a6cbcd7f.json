@@ -23,7 +23,7 @@
                 "description": "视图新建src/views/Home.vue，内容如下。&lt;template&gt;首页&lt;/template&gt;新建src/views/sys/AdmUserPassword.vue，内",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

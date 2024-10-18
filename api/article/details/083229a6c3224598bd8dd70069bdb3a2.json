@@ -23,7 +23,7 @@
                 "description": "JavaLambda表达式是Java8引入的一个新特性，它模拟了函数式编程的语法糖，旨在简化编码。Lambda表达式以函数式接口为基础，因此，在深入探讨Lambda编程之前，我们需要先理解函数式接口的",
                 "level": 1,
                 "publishTime": "2024/10/16",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 37,
+                    "writingNum": 38,
                     "createTime": "2024-08-19 09:50"
                 }
             }

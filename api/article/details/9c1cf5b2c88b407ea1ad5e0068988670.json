@@ -23,7 +23,7 @@
                 "description": "因为权限的问题，角色不同显示的菜单也不一样，所以需要动态生成。图标组件安装npm&nbsp;install&nbsp;@element-plus/icons-vue@2.3.1编辑src/main.t",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

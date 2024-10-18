@@ -23,7 +23,7 @@
                 "description": "为了保证Redis的高可用，主要需要以下几个方面：数据持久化主从复制自动故障恢复集群化我们简单理一下这几个方案的特点，以及它们之间的联系。数据持久化本质上是为了做数据备份，有了数据持久化，当Redis",
                 "level": 1,
                 "publishTime": "2024/10/16",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 86,
+                    "writingNum": 88,
                     "createTime": "2024-08-06 19:04"
                 }
             }

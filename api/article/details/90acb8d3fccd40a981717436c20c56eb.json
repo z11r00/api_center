@@ -23,7 +23,7 @@
                 "description": "hexo使用next主题博客侧边栏标题点击不跳转hexo版本5.0.2npm版本6.14.7next版本7.8.0本着我肯定不是第一个出这个问题的人，去github上找了找，果然我不是第一个标题点击不",
                 "level": 1,
                 "publishTime": "2024/10/16",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 64,
+                    "writingNum": 65,
                     "createTime": "2024-08-06 19:04"
                 }
             }

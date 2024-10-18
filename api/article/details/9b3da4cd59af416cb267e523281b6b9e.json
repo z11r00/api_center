@@ -23,7 +23,7 @@
                 "description": "Bean大家应该都了解，鉴于前面的文章介绍的细节过于纵向，因此我们单独开一篇文章介绍SpringBean的全生命周期。从横向的视角，来看看在Bean初始化、填充属性、实例化的各个环节，我们都可以做哪些",
                 "level": 1,
                 "publishTime": "2024/10/16",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

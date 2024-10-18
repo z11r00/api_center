@@ -23,7 +23,7 @@
                 "description": "布局参考文档，整体使用上、左、右的布局。布局参考编辑src/views/Main.vue，内容如下。&lt;template&gt;&lt;el-container&gt;&lt;el-header&",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }

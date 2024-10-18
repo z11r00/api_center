@@ -23,7 +23,7 @@
                 "description": "在编程的世界里，“语法糖”（SyntacticSugar）是一个有趣且实用的概念。它指的是编程语言中为了增加可读性或简化代码而提供的一些便捷写法，这些写法在功能上并不提供新的特性，但在使用时能够极大地",
                 "level": 1,
                 "publishTime": "2024/10/16",
-                "readingNum": 8,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 37,
+                    "writingNum": 38,
                     "createTime": "2024-08-19 09:50"
                 }
             }

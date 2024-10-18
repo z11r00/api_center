@@ -23,7 +23,7 @@
                 "description": "顶部整体使用左、中、右的布局。左侧宽度跟菜单宽度一样，如果菜单未折叠就显示后台logo和后台名称，如果折叠了就只显示后台logo。右侧内容自适应，主要是显示系统工具按钮和用户信息。中间使用剩余空间，主",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 19,
                     "createTime": "2024-08-06 19:03"
                 }
             }
