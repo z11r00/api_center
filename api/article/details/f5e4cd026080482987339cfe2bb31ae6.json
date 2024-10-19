@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "f5e4cd026080482987339cfe2bb31ae6"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85266,
+                "outId": "f5e4cd026080482987339cfe2bb31ae6",
+                "articleOutId": "f5e4cd026080482987339cfe2bb31ae6",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">在 QGIS 软件为例，从中下载 Google 卫星图像。以下是具体操作步骤：</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">QuickMapServices 插件</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">首先，打开 QGIS 软件，并依次选择菜单栏中的 <strong style=\"font-weight: bold; color: black;\">Plugins &gt; Manage and Install Plugins</strong> 以进入插件管理窗口。在搜索框中输入 <strong style=\"font-weight: bold; color: black;\">QuickMapServices</strong>，找到该插件后点击 <strong style=\"font-weight: bold; color: black;\">Install</strong> 按钮进行安装。这个插件将允许您轻松访问多个在线地图服务，包括谷歌卫星影像。</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/40204/59518fb7-50f4-49f5-9a76-c5400d90bd3a.png\" alt style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">插件安装完成后，您需要配置以获取更多的影像源。在主界面中选择 <strong style=\"font-weight: bold; color: black;\">Web &gt; QuickMapServices &gt; Settings</strong>，进入设置窗口后，切换到 <strong style=\"font-weight: bold; color: black;\">More Services</strong> 选项卡，点击 <strong style=\"font-weight: bold; color: black;\">Get contributed pack</strong> 按钮。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">这将加载额外的地图服务选项，扩展您可以使用的在线地图源，包括高分辨率的谷歌影像。</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">选择谷歌影像</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">配置完成后，您可以在 <strong style=\"font-weight: bold; color: black;\">Web &gt; QuickMapServices</strong> 菜单下看到已加载的谷歌影像服务。选择 <strong style=\"font-weight: bold; color: black;\">Google Satellite</strong> 作为数据源，这时，地图视图将自动切换到谷歌卫星图像模式，显示高分辨率的卫星图像。</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/40204/870f60a9-c22e-4d2e-af96-d581e9a17a8b.jpg\" alt style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n</figure> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">导出影像</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">在地图视图中，使用缩放工具和滚动鼠标滚轮调整到所需的影像范围。当确定了感兴趣的区域后，选择 <strong style=\"font-weight: bold; color: black;\">Processing &gt; Toolbox</strong>，在工具箱中找到 <strong style=\"font-weight: bold; color: black;\">Convert Map to Raster</strong> 工具。双击该工具打开设置窗口，您可以在此指定导出的栅格数据的详细设置。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">设置选项包括：</p> \n<ul data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> <strong style=\"font-weight: bold; color: black;\">输出范围</strong>：选择 \"当前页面范围\" 或者自定义绘制的区域。 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> <strong style=\"font-weight: bold; color: black;\">输出分辨率</strong>：根据您的需求调整分辨率，比如 100m 或更高的分辨率（如 10m）以获取更详细的影像。 \n  </section></li> \n</ul> \n<figure data-tool=\"mdnice编辑器\" style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/40204/ae2a3052-01ad-4892-9e63-00dc39f863d0.png\" alt style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">完成所有设置后，点击 <strong style=\"font-weight: bold; color: black;\">Run</strong> 按钮，QGIS 将开始导出影像数据。导出过程可能需要几分钟，具体时间取决于所选择的区域大小和分辨率。导出完成后，影像文件将保存到指定路径中。这样就下载好了</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">检查和使用下载的影像</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">下载完成后，您可以将导出的影像文件加载回 QGIS 进行查看和进一步分析。使用量测工具检查影像的坐标和分辨率，确保影像符合预期的地理范围和质量标准。您还可以调整影像的亮度、对比度等参数，以改善视觉效果。</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/40204/53c80616-4c31-4a9a-8cd1-1e1e7fa1f464.jpg\" alt style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">通过上述步骤，您已成功从 QGIS 下载了高分辨率的谷歌卫星影像。这些影像数据可用于多种应用场景，如环境监测、土地利用规划、城市发展研究等。</p>",
+                "title": "这个工具可以一键下载全球任意地区高分辨率Google影像",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 116,
+                "tagName": "机器学习",
+                "userId": 40204,
+                "userOutId": "706880289656",
+                "username": "LonghaoWang",
+                "avatar": "https://files.mdnice.com/pic/20a54d83-6259-4b66-8689-c8ce6b9e8616.jpg",
+                "description": "在QGIS软件为例，从中下载Google卫星图像。以下是具体操作步骤：QuickMapServices插件首先，打开QGIS软件，并依次选择菜单栏中的Plugins&gt;ManageandInsta",
+                "level": 2,
+                "publishTime": "2024/10/18",
+                "readingNum": 2,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "ffe00cb8fcef4def81f23ac36ce58752",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 54,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "f5e4cd026080482987339cfe2bb31ae6"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

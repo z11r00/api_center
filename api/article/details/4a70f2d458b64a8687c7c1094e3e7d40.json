@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "4a70f2d458b64a8687c7c1094e3e7d40"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85259,
+                "outId": "4a70f2d458b64a8687c7c1094e3e7d40",
+                "articleOutId": "4a70f2d458b64a8687c7c1094e3e7d40",
+                "html": "<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">遥感结合深度学习还有哪些创新点</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">会举一些预印本的案例（未发表），速度学习，手慢无</p> \n<ol data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: decimal;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> \n   <p style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">Transformer 在遥感影像中的应用</strong>：</p> \n   <ul style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       Transformer（如 ViT 和 Swin Transformer）在处理大规模高分辨率遥感影像时，能够有效捕捉全局依赖关系，这对于地形分类、目标检测和变化检测等任务具有潜力。 \n     </section></li> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       Transformer在大规模数据集上，效果应当比CNN好 \n     </section></li> \n   </ul> \n   <figure style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n    <img src=\"C:%5CUsers%5CDELL%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20240924224726615.png\" alt=\"arXiv：2310.13876\" style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n    <figcaption style=\"margin-top: 5px; text-align: center; color: #888; font-size: 14px;\"> <a href=\"https://files.mdnice.com/user/40204/fb36b3c3-96fe-4452-8b7b-bd73c85d959a.png\" style=\"text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8; border: none; display: flex; justify-content: center; align-items: center;\">arXiv：2310.13876</a> \n    </figcaption> \n   </figure> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> \n   <p style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">Attention 与 CNN 的结合</strong>：</p> \n   <ul style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       Attention 机制能动态关注遥感图像中的关键信息，如云层遮挡区域或高反射率区域。CNN 加 Attention 模型可以结合多源遥感数据（例如 SAR、光学图像）提高分类和检测精度。可以研究将基于视觉的注意力机制与地物分类的具体需求相结合，适应不同分辨率和光照条件的图像。 \n     </section></li> \n   </ul> \n   <figure style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n    <img src=\"https://files.mdnice.com/user/40204/85ba8e0d-b77f-4c46-9c56-134ebcaf96de.png\" alt=\"概念示意图\" style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n    <figcaption style=\"margin-top: 5px; text-align: center; color: #888; font-size: 14px;\">\n      概念示意图 \n    </figcaption> \n   </figure> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> \n   <p style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">自适应网络解决复杂场景</strong>：</p> \n   <ul style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       自适应网络和 GAN 的结合可以用来解决夜晚、低光照或恶劣天气条件下的遥感影像复原任务。例如，GAN 可以降低光照对影像的影响，生成增强的影像，帮助在极端条件下获得清晰的数据。对不同条件下的遥感图像进行自适应处理，可提升数据的稳定性和可靠性。 \n     </section></li> \n   </ul> \n   <figure style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n    <img src=\"C:%5CUsers%5CDELL%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20240924232937099.png\" alt=\"2108.12611 (arxiv.org)\" style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n    <figcaption style=\"margin-top: 5px; text-align: center; color: #888; font-size: 14px;\"> <a href=\"https://files.mdnice.com/user/40204/0de7ab0d-560e-482d-a0ec-38d7ba6084b2.png\" style=\"text-decoration: none; color: #1e6bb8; word-wrap: break-word; font-weight: bold; border-bottom: 1px solid #1e6bb8; border: none; display: flex; justify-content: center; align-items: center;\">2108.12611 (arxiv.org)</a> \n    </figcaption> \n   </figure> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> \n   <p style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">传统图像处理与 CNN 的结合</strong>：</p> \n   <ul style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       引入 DCT（离散余弦变换）等传统图像处理方法，能够增强遥感图像的纹理特征。通过在 CNN 中添加可微滤波器，实现自动调节和增强图像质量的能力。DCT 还可以有效压缩数据量，帮助在处理高分辨率图像时提高计算效率。 \n     </section></li> \n   </ul> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> \n   <p style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">NLP 模块迁移到 CV 中</strong>：</p> \n   <ul style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       借鉴 NLP 领域的成功经验，如 BERT 中的双向自注意力机制，可以用于遥感影像的区域分割、变化检测等任务。多头注意力机制和 Transformer 的结构可以帮助捕捉不同空间尺度上的地物特征，特别是当图像具有复杂的时间序列信息时。 \n     </section></li> \n   </ul> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\"> \n   <p style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">区域细化特征的子网络</strong>：</p> \n   <ul style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: disc;\"> \n    <li> \n     <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n       针对遥感影像中具有高空间异质性的数据，设计专门的区域细化特征子网络，能够对不同尺度下的局部细节进行增强。将局部特征提取与全局特征结合，有助于提高遥感影像分类的精度，特别是在植被覆盖、土地利用变化等细节敏感的任务中。 \n     </section></li> \n   </ul> \n  </section></li> \n</ol> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">这些方向将能够充分发挥 Transformer 和 Attention 的优势，同时结合传统图像处理和新思想，在地学遥感任务具有创新性。</p>",
+                "title": "【AI+遥感】Transformer遥感能发SCI的创新点！",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 117,
+                "tagName": "深度学习",
+                "userId": 40204,
+                "userOutId": "706880289656",
+                "username": "LonghaoWang",
+                "avatar": "https://files.mdnice.com/pic/20a54d83-6259-4b66-8689-c8ce6b9e8616.jpg",
+                "description": "遥感结合深度学习还有哪些创新点会举一些预印本的案例（未发表），速度学习，手慢无Transformer在遥感影像中的应用：Transformer（如ViT和SwinTransformer）在处理大规模高",
+                "level": 2,
+                "publishTime": "2024/10/18",
+                "readingNum": 1,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "ffe00cb8fcef4def81f23ac36ce58752",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 54,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "4a70f2d458b64a8687c7c1094e3e7d40"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
