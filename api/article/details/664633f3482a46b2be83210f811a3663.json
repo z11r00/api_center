@@ -23,7 +23,7 @@
                 "description": "火焰图性能调优火焰图（FlameGraph）是一种用于可视化CPU性能数据的工具，帮助开发人员和系统管理员分析应用的CPU使用情况，找出性能瓶颈。要生成火焰图，通常需要结合perf和BrendanGr",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

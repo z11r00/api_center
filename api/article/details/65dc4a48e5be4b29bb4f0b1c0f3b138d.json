@@ -23,7 +23,7 @@
                 "description": "JVM（Java虚拟机）的参数配置对于优化Java应用程序的性能至关重要。本文将介绍一些常见的JVM参数配置。一、标准参数-client和-server：设置JVM使用client模式或server模",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

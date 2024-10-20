@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "edb71ca3175b44c0bf402c3a3bdc4cb7"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85223,
+                "outId": "edb71ca3175b44c0bf402c3a3bdc4cb7",
+                "articleOutId": "edb71ca3175b44c0bf402c3a3bdc4cb7",
+                "html": "<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 20px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">1. 怎么知道自己负责什么功能？</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<ul data-tool=\"mdnice编辑器\" style=\"list-style-type: disc; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    请按群公告申请权限，熟悉项目需求，把代码在本地跑通 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    根据蓝湖项目需求，选择自己感兴趣的功能模块 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    联系地鼠哥认领任务，有工作经验的朋友建议申请组长，会给你带团队的机会 \n  </section></li> \n</ul>",
+                "title": "加入Go校园版闪送后 有问必答",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 36414,
+                "userOutId": "989015353828",
+                "username": "王中阳Go",
+                "avatar": "https://files.mdnice.com/pic/8ca5e287-3057-4c47-9c90-1a0656146177.png",
+                "description": "1.怎么知道自己负责什么功能？请按群公告申请权限，熟悉项目需求，把代码在本地跑通根据蓝湖项目需求，选择自己感兴趣的功能模块联系地鼠哥认领任务，有工作经验的朋友建议申请组长，会给你带团队的机会",
+                "level": 1,
+                "publishTime": "2024/10/18",
+                "readingNum": 14,
+                "likeNum": 0,
+                "introduction": "专注Go语言的学习经验分享和简历优化",
+                "followWords": "进技术交流群",
+                "followPic": "https://files.mdnice.com/pic/41364e0b-5de6-447f-b4b7-e89af896c16d.jpg",
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "6a070aaf02d248f88becc0b5851a5832",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 2,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "edb71ca3175b44c0bf402c3a3bdc4cb7"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

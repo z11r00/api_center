@@ -23,7 +23,7 @@
                 "description": "1.讲讲SVM1.1一个关于SVM的童话故事支持向量机（SupportVectorMachine，SVM）是众多监督学习方法中十分出色的一种，几乎所有讲述经典机器学习方法的教材都会介绍。关于SVM，流",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 1,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 34,
+                    "writingNum": 36,
                     "createTime": "2024-08-06 19:02"
                 }
             }

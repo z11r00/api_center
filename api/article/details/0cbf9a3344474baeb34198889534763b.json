@@ -23,7 +23,7 @@
                 "description": "之前的主颜色是静态设置的，这里通过颜色选择器选择颜色动态设置。删除静态设置主颜色编辑src/style.css，删除如下静态主颜色样式。:root&nbsp;{&nbsp;&nbsp;--el-col",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

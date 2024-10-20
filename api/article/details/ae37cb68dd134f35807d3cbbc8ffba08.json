@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "ae37cb68dd134f35807d3cbbc8ffba08"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85306,
+                "outId": "ae37cb68dd134f35807d3cbbc8ffba08",
+                "articleOutId": "ae37cb68dd134f35807d3cbbc8ffba08",
+                "html": "<h1 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 24px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\">中国地图中的坐标系偏移</span><span class=\"suffix\"></span></h1> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">在中国地图中，存在偏移，这意味着你导航中的地图有偏移问题。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">官方要求中国所有的地图使用GCJ-02坐标系（被广泛称为火星坐标），而从其他坐标系到GCJ-02坐标系的转换算法是保密的。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">把卫星地图和官方的GCJ-02地图进行重合可以发现，两者的偏差是非线性的。这就导致我们平时使用的地图（如高德）往往和真实地图有些许偏差。</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">街景图与卫星图差异</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">把卫星地图和官方的GCJ-02地图进行重合</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/40204/462716cb-a7b4-4dcc-b660-1b59ff86a42b.jpg\" alt style=\"display: block; margin: 0 auto; max-width: 100%; border-radius: 10px; border: 3px solid #F7D3CC;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">我们可以看到，龙潭公园与它应该在的位置相差甚远（篮框是龙潭公园真实地点）</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">但请注意，天坛的位置大致正确</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">因此，这个坐标系偏移是一种非线性的关系</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">这是怎么回事？这个映射系统有可预测性吗？</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">要回答这个问题，我们必须退一步，谈谈地球是如何绘制的。一般采用<strong style=\"font-weight: bold; color: black;\">大地测量参考系，</strong>该系统使用全球各地的各种基点来固定位置测量值。GPS 使用世界大地测量标准 1984（或 WGS-84）作为参考标准。美国国家地理空间情报局 (NGA) 维护 WGS-84。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">有几个国家已经建立了自己的测地线数据，包括俄罗斯和中国。中国的测地线被称为 GCJ-02，意为“地形图非线性保密算法”（“GCJ”来自中文“国家<em style=\"font-style: italic; color: black;\">测量”</em>）。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">有趣的是，GCJ-02 基于 WGS-84，但采用了一种<strong style=\"font-weight: bold; color: black;\">故意混淆的算法</strong>。这种算法的效果是，经度和纬度都会被随机添加偏移，<strong style=\"font-weight: bold; color: black;\">范围从 50 米到 500 米不等</strong>。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">回到我们的地图示例，这解释了为什么有时街景和卫星视图看起来对齐，而有时它们完全不同；为什么有时偏移看起来像是应用在西北方向，有时是南方，有时是东南方等等。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">现在我们知道地图发生了什么——这是因为混淆算法应用了随机偏移（随机方向和随机量）。这回答了“发生了什么”的问题，但接下来我们要回答的是中国为什么采取这种方法。</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">测绘法</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">2002 年，中国政府颁布了《测绘法》。该法的制定目的如下：</p> \n<ol data-tool=\"mdnice编辑器\" style=\"margin-top: 8px; margin-bottom: 8px; padding-left: 25px; color: black; list-style-type: decimal;\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    推动测绘事业发展，服务<strong style=\"font-weight: bold; color: black;\">国民经济建设。</strong> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    推进<strong style=\"font-weight: bold; color: black;\">国防建设测绘工作。</strong> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500;\">\n    推动地图绘制以促进<strong style=\"font-weight: bold; color: black;\">社会发展</strong>。 \n  </section></li> \n</ol> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">有趣的是，该法的进一步条款规定，<strong style=\"font-weight: bold; color: black;\">只有经中国政府批准的授权实体才允许从事测绘活动，</strong>截止目前只有十几家公司具有这样的资质。</p> \n<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 22px;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"background-color: #F7D3CC; color: #FFF; padding: 5px 15px; border-radius: 1px;\">坐标系转换</span><span class=\"suffix\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\">简而言之，中国以外的公司<strong style=\"font-weight: bold; color: black;\">需要有中国地图合作伙伴</strong>才能提供有关中国位置的数据。实际情况是，高德地图将把 GCJ-02 信息提供给谷歌用于地图绘制，但某些敏感信息将被遮挡或保留。</p> \n<p data-tool=\"mdnice编辑器\" style=\"padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black; font-size: 17px; word-spacing: 3px; letter-spacing: 1px;\"><strong style=\"font-weight: bold; color: black;\">在中国，将 GCJ-02（模糊坐标）转换为 WGS-84 是违法的</strong>。一些中国地图提供商（如百度）为开发人员提供将 WGS-84 转换<em style=\"font-style: italic; color: black;\">为</em>GCJ-02 的 API，但没有提供反向转换的 API。</p>",
+                "title": "为什么你导航中的地图都是错的？谈谈坐标系偏移",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 116,
+                "tagName": "机器学习",
+                "userId": 40204,
+                "userOutId": "706880289656",
+                "username": "LonghaoWang",
+                "avatar": "https://files.mdnice.com/pic/20a54d83-6259-4b66-8689-c8ce6b9e8616.jpg",
+                "description": "中国地图中的坐标系偏移在中国地图中，存在偏移，这意味着你导航中的地图有偏移问题。官方要求中国所有的地图使用GCJ-02坐标系（被广泛称为火星坐标），而从其他坐标系到GCJ-02坐标系的转换算法是保密的",
+                "level": 2,
+                "publishTime": "2024/10/19",
+                "readingNum": 4,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "ffe00cb8fcef4def81f23ac36ce58752",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 63,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "ae37cb68dd134f35807d3cbbc8ffba08"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

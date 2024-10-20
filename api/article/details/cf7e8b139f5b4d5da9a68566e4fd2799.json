@@ -23,7 +23,7 @@
                 "description": "用Folium绘制地理空间矢量场地学和许多应用领域中，数据的视觉化非常重要。尤其是一些表示方向和速度的矢量数据，例如风速、海流、车速等，使用矢量图进行绘制能够更加直观地表达这些数据的特性。示例数据集选",
                 "level": 2,
                 "publishTime": "2024/10/18",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 54,
+                    "writingNum": 63,
                     "createTime": "2024-08-06 19:05"
                 }
             }

@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "6952847f95c74836a684464dfd3c7da0"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85288,
+                "outId": "6952847f95c74836a684464dfd3c7da0",
+                "articleOutId": "6952847f95c74836a684464dfd3c7da0",
+                "html": "<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 16px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; font-weight: bold; display: block;\">1.首先需要准备</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">一台外网服务器 一台内网服务器</p> \n<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 16px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; font-weight: bold; display: block;\">2.下载frp服务端和客户端</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\"><a href=\"https://github.com/fatedier/frp/releases\" style=\"color: rgb(248, 57, 41); font-weight: bold; border-top-style: none; border-bottom-style: solid; border-left-style: none; border-right-style: none; border-top-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 1px; border-top-color: rgb(30, 107, 184); border-bottom-color: rgb(248, 57, 41); border-left-color: rgb(30, 107, 184); border-right-color: rgb(30, 107, 184); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word;\">frp下载地址</a></p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">frp的服务端和客户端的版本尽量保持一致，不然可能会穿透不成功</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">frp服务端主要使用 Frps和frps.ini frp客户端主要使用 Frpc和frpc.ini</p> \n<h3 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 16px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; font-weight: bold; display: block;\">3.配置frp服务端和客户端</span><span class=\"suffix\" style=\"display: none;\"></span></h3> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">服务端配置，进入frp文件目录下 修改frps.ini文件</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px; text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><span style=\"display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #282c34; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;\"></span><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; color: #abb2bf; padding-top: 15px; background: #282c34; border-radius: 5px; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\">&nbsp;[common]<br>&nbsp;<span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#服务器监听地址&nbsp;也可以配置具体外网ip</span><br>&nbsp;server_addr=0.0.0.0<br>&nbsp;<span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#监听端口</span><br>&nbsp;&nbsp;server_port=7001<br>&nbsp;&nbsp;<span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#token凭证&nbsp;&nbsp;可不配置</span><br>&nbsp;&nbsp;auth_token=123456<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">然后启动服务端 frps -c frps.ini</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">客户端配置 修改frpc.ini文件</p> \n<pre class=\"custom\" data-tool=\"mdnice编辑器\" style=\"border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.55) 0px 2px 10px; text-align: left; margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;\"><span style=\"display: block; background: url(https://files.mdnice.com/user/3441/876cad08-0422-409d-bb5a-08afec5da8ee.svg); height: 30px; width: 100%; background-size: 40px; background-repeat: no-repeat; background-color: #282c34; margin-bottom: -7px; border-radius: 5px; background-position: 10px 10px;\"></span><code class=\"hljs\" style=\"overflow-x: auto; padding: 16px; color: #abb2bf; padding-top: 15px; background: #282c34; border-radius: 5px; display: -webkit-box; font-family: Consolas, Monaco, Menlo, monospace; font-size: 12px;\">[common]<br><span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#外网-服务器端ip</span><br>server_addr&nbsp;=&nbsp;117.x.x.x<br><span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#外网-服务器端监听的端口(必须与Frps.ini中的配置一致)</span><br>server_port&nbsp;=&nbsp;7001<br><br>[ssh]<br><span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#配置类型为http协议</span><br><span class=\"hljs-built_in\" style=\"color: #e6c07b; line-height: 26px;\">type</span>&nbsp;=&nbsp;tcp<br><span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#内网机器的IP</span><br>local_ip&nbsp;=&nbsp;127.0.0.1<br><span class=\"hljs-comment\" style=\"color: #5c6370; font-style: italic; line-height: 26px;\">#内网需要监听的端口（win10所启服务端口）</span><br>local_port&nbsp;=&nbsp;9999<br>remote_port&nbsp;=&nbsp;9999<br></code></pre> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">然后启动客户端 即可</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">frpc -c frpc.ini</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(53, 53, 53); font-size: 16px; line-height: 1.8em; letter-spacing: 0.04em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">尝试调用 http://117.x.x.x:9999</p>",
+                "title": "frp内网穿透搭建",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 176,
+                "tagName": "计算机网络",
+                "userId": 77813,
+                "userOutId": "555330699251",
+                "username": "luckyyou",
+                "avatar": "",
+                "description": "1.首先需要准备一台外网服务器一台内网服务器2.下载frp服务端和客户端frp下载地址frp的服务端和客户端的版本尽量保持一致，不然可能会穿透不成功frp服务端主要使用Frps和frps.inifrp",
+                "level": 1,
+                "publishTime": "2024/10/19",
+                "readingNum": 6,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "e0ae1353f1144818be0566c89481a178",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-17 10:25"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "6952847f95c74836a684464dfd3c7da0"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

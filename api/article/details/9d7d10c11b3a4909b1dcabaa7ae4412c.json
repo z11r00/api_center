@@ -23,7 +23,7 @@
                 "description": "使用Pydeck可视化3D空间数据在本文中，我将向您介绍Python包PyDeck，这是一个在Python中创建3D地图的工具。作为示例，我将使用城市3D建筑模型数据库。建筑数据数据来源于公开的布达佩",
                 "level": 2,
                 "publishTime": "2024/10/18",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 54,
+                    "writingNum": 63,
                     "createTime": "2024-08-06 19:05"
                 }
             }

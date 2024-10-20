@@ -23,7 +23,7 @@
                 "description": "引言这个项目[1]的启动是一位同事搞混了概念，误以为Python中的异步（async）自动等同于多线程。Python的异步事件循环是否能够与多线程协作。随着Python3.13版本允许禁用全局解释器锁",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": "欢迎关注同名公众号“数据科学工厂”",
                 "followWords": "扫码关注",

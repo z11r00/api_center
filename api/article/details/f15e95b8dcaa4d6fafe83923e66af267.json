@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "f15e95b8dcaa4d6fafe83923e66af267"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85316,
+                "outId": "f15e95b8dcaa4d6fafe83923e66af267",
+                "articleOutId": "f15e95b8dcaa4d6fafe83923e66af267",
+                "html": "",
+                "title": "呼呼呼讲机",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 77393,
+                "userOutId": "242741073051",
+                "username": "心存信仰",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/10/19",
+                "readingNum": 7,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "adbd6e0d2eeb44b9b00e70c49a9a081d",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-12 15:58"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "f15e95b8dcaa4d6fafe83923e66af267"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

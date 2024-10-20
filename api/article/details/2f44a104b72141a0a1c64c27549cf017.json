@@ -23,7 +23,7 @@
                 "description": "TransformerExplainer：一种可视化工具，帮助新手快速了解TransformerChatGPT是一个使用Transformers和强化学习的AI工具。Transformer是一种可以将",
                 "level": 2,
                 "publishTime": "2024/10/18",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 54,
+                    "writingNum": 63,
                     "createTime": "2024-08-06 19:05"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "Sklearn数据处理技巧探索10个您可能未见过的Sklearn功能，它们可以优雅地替代手动执行的常见操作。查看Sklearn的API参考（https://scikit-learn.org/stabl",
                 "level": 2,
                 "publishTime": "2024/10/18",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 54,
+                    "writingNum": 63,
                     "createTime": "2024-08-06 19:05"
                 }
             }

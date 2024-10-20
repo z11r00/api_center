@@ -23,7 +23,7 @@
                 "description": "多元时间序列预测的动态模式分解动态模式分解(DMD)是一种数据驱动的降维算法，由PeterSchmid于2008年开发类似于矩阵分解和主成分分析(PCA)算法。给定一个多变量时间序列数据集，DMD计算",
                 "level": 2,
                 "publishTime": "2024/10/18",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 54,
+                    "writingNum": 63,
                     "createTime": "2024-08-06 19:05"
                 }
             }
