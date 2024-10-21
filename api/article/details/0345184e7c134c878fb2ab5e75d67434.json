@@ -23,7 +23,7 @@
                 "description": "1.Slice是什么Slice即切片，Go语言中Slice可以理解为动态数组，区别于数组，其长度不是固定的，在使用时，我们不必担心其容量大小不够。当需要往切片追加元素时，如果切片容量大小不足，会自动扩",
                 "level": 1,
                 "publishTime": "2024/10/19",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "闲话互联网二三事",
                 "followWords": null,

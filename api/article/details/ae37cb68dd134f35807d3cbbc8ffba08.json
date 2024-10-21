@@ -23,7 +23,7 @@
                 "description": "中国地图中的坐标系偏移在中国地图中，存在偏移，这意味着你导航中的地图有偏移问题。官方要求中国所有的地图使用GCJ-02坐标系（被广泛称为火星坐标），而从其他坐标系到GCJ-02坐标系的转换算法是保密的",
                 "level": 2,
                 "publishTime": "2024/10/19",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

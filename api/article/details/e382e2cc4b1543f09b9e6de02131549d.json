@@ -23,7 +23,7 @@
                 "description": "做自媒体，写热点文章很重要。热点自带流量，能很快吸引不少读者。可很多自媒体新手很犯愁。干货文还能勉强写出来，碰到热点文就不知咋办了。为啥写热点文章这么难呢？关键是得找个新颖角度切入。要是只在网上反复复",
                 "level": 1,
                 "publishTime": "2024/10/19",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 10,
+                    "writingNum": 11,
                     "createTime": "2024-08-06 19:02"
                 }
             }
