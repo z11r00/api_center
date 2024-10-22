@@ -23,7 +23,7 @@
                 "description": "浅谈消息队列及常见的消息中间件前言消息队列已经逐渐成为企业应用系统内部通信的核心手段。它具有低耦合、可靠投递、广播、流量控制、最终一致性等一系列功能。当前使用较多的消息队列有RabbitMQ、Rock",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 89,
+                    "writingNum": 91,
                     "createTime": "2024-08-06 19:04"
                 }
             }

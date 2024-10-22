@@ -23,7 +23,7 @@
                 "description": "1.Kafka概述1.1定义Kafka是由Apache软件基金会开发的一个开源流处理平台。Kafka是一个分布式的基于发布/订阅模式的消息队列（MessageQueue），主要应用于大数据实时处理领域",
                 "level": 1,
                 "publishTime": "2024/10/20",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 90,
+                    "writingNum": 91,
                     "createTime": "2024-08-06 19:04"
                 }
             }

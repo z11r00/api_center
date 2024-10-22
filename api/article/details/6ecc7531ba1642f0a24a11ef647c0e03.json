@@ -23,7 +23,7 @@
                 "description": "技术分析是交易者和投资者用来评估金融市场趋势的重要工具。这里我将介绍6种常用的技术分析方法,并使用Python实现这些方法。这里使用pandas和ta库来计算各种技术指标。以贵州茅台(股票代码:600",
                 "level": 1,
                 "publishTime": "2024/10/19",
-                "readingNum": 11,
+                "readingNum": 15,
                 "likeNum": 0,
                 "introduction": "程序员，分享AI、JAVA、Python",
                 "followWords": "扫码添加好友",

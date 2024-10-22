@@ -23,7 +23,7 @@
                 "description": "在Java应用程序的运行过程中，垃圾回收（GarbageCollection，GC）是一个至关重要的环节。其中，MinorGC（也称为YoungGC）特指发生在年轻代（YoungGeneration）",
                 "level": 1,
                 "publishTime": "2024/10/20",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

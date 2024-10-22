@@ -23,7 +23,7 @@
                 "description": "多页签添加移除方法编辑src/store/fastnav.ts，添加removeData方法。removeData(path:&nbsp;string):&nbsp;string&nbsp;{&nbs",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 24,
+                    "writingNum": 29,
                     "createTime": "2024-08-06 19:03"
                 }
             }

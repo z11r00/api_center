@@ -23,7 +23,7 @@
                 "description": "频繁FullGC（垃圾收集）会导致应用程序性能下降、响应时间变长，甚至可能导致应用程序停滞。针对这一问题，本文将给出原因分析和解决方案。原因分析内存泄漏：程序中的某些对象在不再使用时没有被垃圾回收，导",
                 "level": 1,
                 "publishTime": "2024/10/20",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

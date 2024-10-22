@@ -23,7 +23,7 @@
                 "description": "1.首先需要准备一台外网服务器一台内网服务器2.下载frp服务端和客户端frp下载地址frp的服务端和客户端的版本尽量保持一致，不然可能会穿透不成功frp服务端主要使用Frps和frps.inifrp",
                 "level": 1,
                 "publishTime": "2024/10/19",
-                "readingNum": 6,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

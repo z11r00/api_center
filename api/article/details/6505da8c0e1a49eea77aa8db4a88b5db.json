@@ -23,7 +23,7 @@
                 "description": "SpaceX这几天科技圈的最大震撼，是SpaceX的第五次试飞，以及首次验证\"筷子夹火箭\"技术。这是人类在太空探索技术领域的重要里程碑。标记着人类对航天领域中的「模块化」以及「火箭复用」技术达到了空前",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 10,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 85,
+                    "writingNum": 87,
                     "createTime": "2024-08-06 19:07"
                 }
             }

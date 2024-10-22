@@ -23,7 +23,7 @@
                 "description": "用户退出只需要清除用户相关的数据再跳转到登录页就行编辑src/store/fastnav.ts，actions添加logout方法。isLast(path:&nbsp;string):&nbsp;bo",
                 "level": 1,
                 "publishTime": "2024/10/21",
-                "readingNum": 0,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

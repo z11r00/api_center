@@ -23,7 +23,7 @@
                 "description": "前端使用固定账号做登录测试，admin管理员权限，guest游客权限。用户数据结构编辑src/types/index.d.ts，添加IUser接口。interface&nbsp;IUser&nbsp;",
                 "level": 1,
                 "publishTime": "2024/10/21",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

@@ -23,7 +23,7 @@
                 "description": "在Python中检测时间序列趋势并去趋势在选择任何时间序列预测模型之前，检测数据中的趋势、季节性或周期非常重要。在建立模型时，地学人往往要进行Detrend操作，即去趋势。什么是趋势？趋势是数据的长期",
                 "level": 2,
                 "publishTime": "2024/10/19",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

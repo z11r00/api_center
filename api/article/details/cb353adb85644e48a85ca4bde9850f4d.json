@@ -23,7 +23,7 @@
                 "description": "Java作为一种广泛使用的编程语言，其面向对象编程（OOP）的特性是其核心优势之一。OOP通过封装、继承和多态这三大特性，提供了一种更加模块化和灵活的方式来构建软件系统。下面将详细介绍Java面向对象",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 38,
+                    "writingNum": 39,
                     "createTime": "2024-08-19 09:50"
                 }
             }

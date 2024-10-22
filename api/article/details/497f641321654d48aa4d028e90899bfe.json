@@ -23,7 +23,7 @@
                 "description": "本文背景越来越多的人开始关注用AI写作了，其中也有很多小伙伴想通过Ai写出自己的小说，虽然从来没有写过，但夜巡是一种情怀，想把自己天马星空的想法搬出台面，那作为新人小白，应该怎么样用AI高效写出小说呢",
                 "level": 1,
                 "publishTime": "2024/10/18",
-                "readingNum": 15,
+                "readingNum": 19,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 10,
+                    "writingNum": 12,
                     "createTime": "2024-08-06 19:02"
                 }
             }

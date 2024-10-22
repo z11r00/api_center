@@ -23,7 +23,7 @@
                 "description": "linuxperf工具使用指导perf是Linux内核自带的性能分析工具，主要用于分析系统性能瓶颈和程序的性能问题。通过合理使用perf工具，可以有效地分析和优化系统性能。安装perf在大多数Linu",
                 "level": 1,
                 "publishTime": "2024/10/17",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
