@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "9ed7ba552ee24f82a3c369d0cb6cc785"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85501,
+                "outId": "9ed7ba552ee24f82a3c369d0cb6cc785",
+                "articleOutId": "9ed7ba552ee24f82a3c369d0cb6cc785",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">云鸽是一款跨平台文件传输助手，它可以让用户在不同设备之间快速、便捷、安全地共享文件。只需在所有设备上打开云鸽（yunge.in），它们将连接到同一网络。然后，您可以从一个设备上选择要发送的文件，并将其发送给其他设备。接收方将收到文件传输请求，并可以选择接受或拒绝。</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">使用方法</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">1.在需要传输的设备上分别打开网址：https://yunge.in</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">2.如果待连接设备处于同一局域网，则会自动连接，否则分别点击底部文件夹图标，输入同一房间号，即可连接，连接成功后可以看到对方的设备图标</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">3.点击对方设备图标，即可向对方传输文件，如果是文字内容，可以右键点击图标发送文字（手机端长按图标发送文字）</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">提示：若连接中断，请刷新页面或重新输入暗号</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/78384/a795e623-7e62-43e5-b1aa-43d2aebd062d.jpg\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">云鸽的特点</p> \n<ol data-tool=\"mdnice编辑器\" style=\"list-style-type: decimal; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\"> \n   <p style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">用户友好：云鸽的界面简洁直观，无需注册或登录即可使用。只需打开云鸽网页，所有连接到同一网络的设备都可以自动检测到彼此。</p> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\"> \n   <p style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">多平台支持：云鸽可以在任何支持浏览器的设备上使用，包括Windows、Mac、Linux、iOS和Android系统。这意味着无论您使用的是电脑、手机还是平板电脑，都可以使用云鸽进行文件传输。</p> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\"> \n   <p style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">实时传输：云鸽采用点对点技术，文件传输是实时的，无需等待。您可以立即将文件发送给其他设备，并且接收方可以立即下载和保存文件。</p> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\"> \n   <p style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">安全性：云鸽使用端到端加密技术，确保您的文件在传输过程中得到保护。传输的文件将在发送和接收设备之间进行直接传输，而不会通过第三方服务器。</p> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\"> \n   <p style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">无文件大小限制：云鸽没有对文件大小的限制，您可以传输任何大小的文件，从照片和文档到音频和视频文件。</p> \n  </section></li> \n</ol>",
+                "title": "云鸽：轻便的文件传输助手",
+                "categoryId": 9,
+                "categoryName": "工具介绍",
+                "tagId": 157,
+                "tagName": "工具介绍",
+                "userId": 78384,
+                "userOutId": "850313528995",
+                "username": "sderw",
+                "avatar": "",
+                "description": "云鸽是一款跨平台文件传输助手，它可以让用户在不同设备之间快速、便捷、安全地共享文件。只需在所有设备上打开云鸽（yunge.in），它们将连接到同一网络。然后，您可以从一个设备上选择要发送的文件，并将其",
+                "level": 1,
+                "publishTime": "2024/10/23",
+                "readingNum": 22,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "1acd1408c32e471ca9faa3bff31c70d2",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-23 20:57"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "9ed7ba552ee24f82a3c369d0cb6cc785"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

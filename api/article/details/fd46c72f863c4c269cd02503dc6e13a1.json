@@ -23,7 +23,7 @@
                 "description": "ERA5下载加速引言众所周知，ERA5小时尺度以及日尺度数据下载比较困难，一方面是由于数据中心在欧洲，传输速度慢。另一方面也是由于数据量庞大。目前批量下载的代码有很多，但是存在以下问题：速度慢，几十到",
                 "level": 2,
                 "publishTime": "2024/10/18",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

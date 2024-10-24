@@ -23,7 +23,7 @@
                 "description": "右键菜单演示当鼠标右键点击页签时，我们要显示这样一个菜单。菜单布局编辑src/views/Main.vue，el-tag添加@contextmenu.native.prevent属性，el-scrol",
                 "level": 1,
                 "publishTime": "2024/10/21",
-                "readingNum": 2,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

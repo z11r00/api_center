@@ -23,7 +23,7 @@
                 "description": "要计算各行政区划中的河流长度，需要用到GIS矢量分析，对于这类计算，QGIS丰富的工具库可以轻松实现。数据准备及工具图层：水系图层：包含河流的线图层，属性表包括流域、河流等级等。行政区划图层：包含行政",
                 "level": 1,
                 "publishTime": "2024/10/22",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "喜欢计算机的环保工作者。",
                 "followWords": "欢迎扫码关注。",

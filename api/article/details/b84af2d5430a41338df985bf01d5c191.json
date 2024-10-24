@@ -23,7 +23,7 @@
                 "description": "使用Pytorch训练Kolmogorov-Arnold实现MNIST数字分类**Kolmogorov-Arnold网络(KAN)**，它是目前占主导地位的多层感知器(MLP)架构的有前途的替代方案。",
                 "level": 2,
                 "publishTime": "2024/10/19",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

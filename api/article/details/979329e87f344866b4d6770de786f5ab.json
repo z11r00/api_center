@@ -23,7 +23,7 @@
                 "description": "1.Channel是什么顾名思义，channel就是一个通信管道，作用是用来在goroutine中传递信息，使不同的goroutine能够通信。Go语言遵循CSP并发编程模式，提倡通过通信来实现内存共",
                 "level": 1,
                 "publishTime": "2024/10/22",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "闲话互联网二三事",
                 "followWords": null,

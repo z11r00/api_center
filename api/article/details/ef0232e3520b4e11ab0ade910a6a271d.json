@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "ef0232e3520b4e11ab0ade910a6a271d"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85466,
+                "outId": "ef0232e3520b4e11ab0ade910a6a271d",
+                "articleOutId": "ef0232e3520b4e11ab0ade910a6a271d",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">· Lincs2020数据下载数据</p> \n<ol data-tool=\"mdnice编辑器\" style=\"list-style-type: decimal; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    数据集来源 \n  </section></li> \n</ol> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">使用的是Level3的数据集，本研究中我们使用了两个，level3_beta_trt_cp_n1805898x12328.gctx 这个文件是代表化合物扰动的信息； level3_beta_ctl_n188708x12328.gctx 这个文件是代表细胞系没有扰动的基线信息；</p> \n<h6 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 14px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">trt_cp 表示 compounds</span><span class=\"suffix\" style=\"display: none;\"></span></h6> \n<h6 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 14px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">trt_ctl 表示 negative controls (ex: DMSO, untreated)</span><span class=\"suffix\" style=\"display: none;\"></span></h6> \n<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/77623/da9d06d8-c9ca-4ac6-8c4e-fff46f273ba3.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure> \n<ol start=\"2\" data-tool=\"mdnice编辑器\" style=\"list-style-type: decimal; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    数据处理流程： \n  </section></li> \n</ol> \n<h6 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 14px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">cmapPy 进行数据解析</span><span class=\"suffix\" style=\"display: none;\"></span></h6> \n<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/77623/e4c03a92-8afa-4b5c-97b8-a238de9f7d69.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">To filter the profiles, we used the most common condition with a duration of 24 h and a dosage concentration of 10 μM for perturbed expression profiles by compounds</p> \n<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/77623/8567e274-5fc1-4e4d-9e44-b6e81864b9e4.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure> \n<figure data-tool=\"mdnice编辑器\" style=\"margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;\"> \n <img src=\"https://files.mdnice.com/user/77623/030f7dd5-a03d-4b9f-9e09-8dd985f3fb6c.png\" alt style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%; border-top-style: none; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-right-width: 3px; border-top-color: rgba(0, 0, 0, 0.4); border-bottom-color: rgba(0, 0, 0, 0.4); border-left-color: rgba(0, 0, 0, 0.4); border-right-color: rgba(0, 0, 0, 0.4); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; object-fit: fill; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;\"> \n</figure> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">We averaged all of the profiles for each molecule by ignoring plate, dose, treatment time and cell line details.</p>",
+                "title": "LINCS数据集",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 77623,
+                "userOutId": "755398249852",
+                "username": "sst",
+                "avatar": "",
+                "description": "·Lincs2020数据下载数据数据集来源使用的是Level3的数据集，本研究中我们使用了两个，level3_beta_trt_cp_n1805898x12328.gctx这个文件是代表化合物扰动的信",
+                "level": 1,
+                "publishTime": "2024/10/23",
+                "readingNum": 18,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "cb7edeb6e0c144619f4eb538b4d4aa49",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-15 11:09"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "ef0232e3520b4e11ab0ade910a6a271d"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

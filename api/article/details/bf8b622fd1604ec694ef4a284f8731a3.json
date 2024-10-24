@@ -23,7 +23,7 @@
                 "description": "一、Rabbit概述RabbitMQ是一个开源的消息代理和队列服务器，用来通过普通协议在完全不同的应用中间共享数据，RabbitMQ是使用Erlang语言来编写的，并且RabbitMQ是基于AMQP协",
                 "level": 1,
                 "publishTime": "2024/10/23",
-                "readingNum": 0,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

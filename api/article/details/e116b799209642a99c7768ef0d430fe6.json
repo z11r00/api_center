@@ -23,7 +23,7 @@
                 "description": "首先，让我们理解为什么LTV预测是必要的。它可以帮助您大致估算与您的烧钱率相匹配的收入金额，并将其与吸引玩家的成本进行比较。当项目发布后获得真实数据时，此模型将被另一个更准确的模型取代。所有计算将使用",
                 "level": 1,
                 "publishTime": "2024/10/22",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "首创用户数据大模型",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 9,
+                    "writingNum": 10,
                     "createTime": "2024-08-06 19:05"
                 }
             }

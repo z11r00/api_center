@@ -23,7 +23,7 @@
                 "description": "单细胞的学习，首先最基础的是需要了解Seurat官网https://satijalab.org/seurat/中单细胞的标准流程，理解分析流程的意义。第一部分IntroductoryVignettes",
                 "level": 1,
                 "publishTime": "2024/10/22",
-                "readingNum": 4,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 1,
+                    "writingNum": 3,
                     "createTime": "2024-10-22 10:00"
                 }
             }

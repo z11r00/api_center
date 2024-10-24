@@ -23,7 +23,7 @@
                 "description": "背景在最近进行的项目架构升级中，我们对原有的核心项目结构进行了细致的拆分。现在，核心项目与非核心项目之间的通信和数据交换主要通过Kafka这一中间件来实现。这种设计主要体现在核心项目向非核心项目发送通",
                 "level": 1,
                 "publishTime": "2024/10/20",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

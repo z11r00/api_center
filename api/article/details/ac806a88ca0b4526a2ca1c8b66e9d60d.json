@@ -23,7 +23,7 @@
                 "description": "设计(design)1消息存储消息存储是RocketMQ中最为复杂和最为重要的一部分，本节将分别从RocketMQ的消息存储整体架构、PageCache与Mmap内存映射以及RocketMQ中两种不同",
                 "level": 1,
                 "publishTime": "2024/10/21",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 91,
+                    "writingNum": 92,
                     "createTime": "2024-08-06 19:04"
                 }
             }
