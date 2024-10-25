@@ -22,8 +22,8 @@
                 "avatar": "https://files.mdnice.com/pic/029d871b-381c-48e4-8891-af9638a4391b.png",
                 "description": "大模型的特点、重要概念及工作方式详解1.大模型的定义大模型通常指的是具有大量参数和复杂结构的深度学习模型。这些模型通过处理大量数据并在多个层次上进行特征抽取，以实现高效的任务解决能力。近年来，随着计算",
                 "level": 1,
-                "publishTime": "2024/10/23",
-                "readingNum": 7,
+                "publishTime": "2024/10/24",
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 8,
+                    "writingNum": 9,
                     "createTime": "2024-08-06 19:03"
                 }
             }

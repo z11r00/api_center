@@ -23,7 +23,7 @@
                 "description": "这里分享图文馆实战一期、二期制作的绝美图片提示词!这些提示词产生了累计1000万阅读文章!,非常炸裂适用于超级图文大师(coze)!也适用于超级图图(coze)、即梦，可灵等图片生成工具!1、带眼镜的",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 0,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 80,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:08"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "本章重点安装R和RStudio熟悉R运行R程序一、为什么要使用R？使用R编程语言有许多原因，尤其是在数据分析、统计建模和数据可视化方面。以下是一些主要的理由：1.强大的统计功能R是为统计分析而设计的，",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 2,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 3,
+                    "writingNum": 4,
                     "createTime": "2024-10-22 10:00"
                 }
             }

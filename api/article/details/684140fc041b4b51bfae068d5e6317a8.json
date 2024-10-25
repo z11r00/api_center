@@ -23,7 +23,7 @@
                 "description": "昨天更新了智能歌词V5，并且把歌曲创作接入到了公众号后台，但是看大家的提问我真的很着急。错！错！错!错!对!哪错了？要按我的约定框架来提问呀，兄弟!创作前面是要带指令的，不是直接提问!/createL",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 0,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 80,
+                    "writingNum": 81,
                     "createTime": "2024-08-06 19:08"
                 }
             }

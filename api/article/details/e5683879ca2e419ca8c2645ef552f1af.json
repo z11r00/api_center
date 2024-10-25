@@ -23,7 +23,7 @@
                 "description": "装饰器是什么？装饰器本质是一个函数，在类语法中使用。使用@method调用装饰器，method求值后必须是一个函数。可以修饰类、成员变量、成员方法和方法参数。装饰器函数会在运行时，类定义后立即被调用。",
                 "level": 1,
                 "publishTime": "2024/10/23",
-                "readingNum": 11,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

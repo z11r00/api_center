@@ -23,7 +23,7 @@
                 "description": "今天讲一些在套利策略中常见的风控条件，欢迎一起交流讨论~币种亏损异常在进行多币种套利时，累积亏损超过阈值，自动ban掉这个币资金费率异常当发现资金费率异常会导致亏损，自动减仓账户余额整体下降这个是个策",
                 "level": 1,
                 "publishTime": "2024/10/23",
-                "readingNum": 6,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
