@@ -23,7 +23,7 @@
                 "description": "最近开始在实际的国产化机器上折腾联邦学习环境，需要在一台断网的arm机器上装环境，记录一下踩过的坑。现状和问题有一台不联网的arm架构的华为昇腾8卡机器可以用，驱动是装好的，但是本机环境只有pytho",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 9,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

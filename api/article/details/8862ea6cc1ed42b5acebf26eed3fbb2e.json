@@ -23,7 +23,7 @@
                 "description": "一、理解MajorGC在Java虚拟机（JVM）的内存管理中，垃圾回收（GarbageCollection,GC）是一个核心环节。GC负责自动回收不再使用的对象所占用的内存空间，以避免内存泄漏和内存溢",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 5,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "JVM",
                     "briefIntro": "JVM",
                     "cover": "https://files.mdnice.com/user/73296/column-cover/b47e5235-f5b1-4034-85cf-b07bce817808.jpg",
-                    "writingNum": 14,
+                    "writingNum": 15,
                     "createTime": "2024-09-22 21:01"
                 }
             }

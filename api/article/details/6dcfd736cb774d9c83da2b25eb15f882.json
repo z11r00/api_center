@@ -23,7 +23,7 @@
                 "description": "前面我们大致了解了MSTP的由来，是为了解决STP/RSTP只有一根生成树导致的VLAN流量负载分担与次优路径问题，了解MSTP采用实例映射VLAN的方式实现多实例生成树，MSTP有很多的理论概念需要",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 32,
+                    "writingNum": 28,
                     "createTime": "2024-08-06 19:03"
                 }
             }

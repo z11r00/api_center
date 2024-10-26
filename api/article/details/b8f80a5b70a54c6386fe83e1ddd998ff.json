@@ -23,7 +23,7 @@
                 "description": "一、RSTP/STP的缺陷与不足前面我们学习了RSTP对于STP的一些优化与快速收敛机制。但在划分VLAN的网络中运行RSTP/STP，局域网内所有的VLAN共享一棵生成树，被阻塞后的链路将不承载任何",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 32,
+                    "writingNum": 28,
                     "createTime": "2024-08-06 19:03"
                 }
             }

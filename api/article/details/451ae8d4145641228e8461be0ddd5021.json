@@ -23,7 +23,7 @@
                 "description": "MySQL数据库sys库不可用解决方案背景在一次处理客户MySQL问题时，客户的sys库出现了无法使用的情况在主从复制的，从库执行查询select*fromsys.memory_global_tota",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

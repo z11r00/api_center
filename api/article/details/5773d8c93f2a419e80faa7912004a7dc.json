@@ -23,7 +23,7 @@
                 "description": "ReactNative0.74.5版本中，react-nativecodegen可能不再自动生成原生代码，特别是在处理模块或自定义组件时，手动执行Codegen可能是必要的。以下是处理codegen不",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": "公众号：君伟说。",
                 "followWords": "欢迎关注公众号。",

@@ -23,7 +23,7 @@
                 "description": "使用Poste搭建内网邮件服务器Poste.io也是一个流行的邮件服务器方案，它可以通过Docker容器轻松部署，非常适合搭建内部邮件服务器。本文档将向您展示如何开始使用Poste.io邮件服务器。在",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 5,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

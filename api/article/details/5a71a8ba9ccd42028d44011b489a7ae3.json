@@ -23,7 +23,7 @@
                 "description": "掌握Windows管理利器：WMI命令实战引言WindowsManagementInstrumentation(WMI)是一套核心的管理技术，用于从操作系统、应用程序和服务中收集信息，并且可以用来控制",
                 "level": 1,
                 "publishTime": "2024/10/24",
-                "readingNum": 9,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 9,
+                    "writingNum": 11,
                     "createTime": "2024-08-06 19:03"
                 }
             }
