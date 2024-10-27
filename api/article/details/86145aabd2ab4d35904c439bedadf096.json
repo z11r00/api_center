@@ -23,7 +23,7 @@
                 "description": "什么是BloomFilter布隆过滤器（英语：BloomFilter）是1970年由布隆提出的。它实际上是一个很长的二进制向量和一系列随机映射函数。主要用于判断一个元素是否在一个集合中。通常我们会遇到",
                 "level": 1,
                 "publishTime": "2024/10/26",
-                "readingNum": 0,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

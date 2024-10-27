@@ -23,7 +23,7 @@
                 "description": "借助Agent让大模型应用思考、决策并执行任务​随着人工智能技术的飞速发展，大规模语言模型（如GPT-3、BERT等）已经在自然语言处理领域取得了显著成就。然而，这些模型通常只能生成文本或回答问题，而",
                 "level": 1,
                 "publishTime": "2024/10/26",
-                "readingNum": 0,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -35,12 +35,12 @@
                 "isVisible": true,
                 "invisibleReason": null,
                 "writingColumn": {
-                    "columnOutId": "05745732285842dcbb1366d216656d2b",
-                    "name": "默认专栏",
-                    "briefIntro": "这是一个默认专栏",
-                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 11,
-                    "createTime": "2024-08-06 19:03"
+                    "columnOutId": "cd325343d48c4fc69ea5cb721b6402be",
+                    "name": "闲聊人工智能",
+                    "briefIntro": "本专栏探讨、分享AI相关知识。",
+                    "cover": "https://files.mdnice.com/user/55636/column-cover/cb165cd8-f021-4256-b362-81957a046bf6.png",
+                    "writingNum": 8,
+                    "createTime": "2024-10-26 14:05"
                 }
             }
         },

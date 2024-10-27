@@ -23,7 +23,7 @@
                 "description": "我需要为我的nextjs项目添加i18n特性，从而更好地进行推广和服务。于是我尝试使用next-intl库来完成这个功能，本文记录了我接入这个库的整个过程。版本信息nextjs15app路由子域名方案",
                 "level": 1,
                 "publishTime": "2024/10/25",
-                "readingNum": 7,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

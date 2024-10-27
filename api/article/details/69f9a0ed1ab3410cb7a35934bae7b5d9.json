@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "69f9a0ed1ab3410cb7a35934bae7b5d9"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85622,
+                "outId": "69f9a0ed1ab3410cb7a35934bae7b5d9",
+                "articleOutId": "69f9a0ed1ab3410cb7a35934bae7b5d9",
+                "html": "",
+                "title": "最近杭州大厦Chanel店因为一",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 78600,
+                "userOutId": "129961199349",
+                "username": "入戏",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/10/26",
+                "readingNum": 7,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "00f73bd6343f413fa27d7efa6f78a383",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-26 08:52"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "69f9a0ed1ab3410cb7a35934bae7b5d9"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
