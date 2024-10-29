@@ -23,7 +23,7 @@
                 "description": "写在开头JSON类型通常用于存储非结构化的数据或者一些可变的数据，比如存储日志、配置信息等。我们有时候需要将类似的信息保存到MySQL数据库中，但是MySQL作为关系型数据库，对于JSON这种非结构化",
                 "level": 1,
                 "publishTime": "2024/10/27",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

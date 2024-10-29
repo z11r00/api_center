@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "d3288a9106014f928892b8f649dbbe14"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85711,
+                "outId": "d3288a9106014f928892b8f649dbbe14",
+                "articleOutId": "d3288a9106014f928892b8f649dbbe14",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">错误：ModuleNotFoundError: No module named 'train.tuner'; 'train' is not a package 原因：py文件名称和文件夹名称重名（有一个文件名叫train.py，还有一个文件名叫train) 修改：修改文件名及其引用（或修改文件夹名称及其引用）</p>",
+                "title": "ModuleNotFoundError: No module named 'train.tuner'",
+                "categoryId": 3,
+                "categoryName": "人工智能",
+                "tagId": 115,
+                "tagName": "人工智能",
+                "userId": 58280,
+                "userOutId": "618929765074",
+                "username": "空空静静最难求",
+                "avatar": "",
+                "description": "错误：ModuleNotFoundError:Nomodulenamed'train.tuner';'train'isnotapackage原因：py文件名称和文件夹名称重名（有一个文件名叫train",
+                "level": 1,
+                "publishTime": "2024/10/28",
+                "readingNum": 3,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "fdf42ed19cca49fc81d6b550a53a0c3c",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 6,
+                    "createTime": "2024-08-06 19:03"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "d3288a9106014f928892b8f649dbbe14"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

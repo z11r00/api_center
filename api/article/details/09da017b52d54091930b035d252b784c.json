@@ -23,7 +23,7 @@
                 "description": "前言❝在OpenLayers中，使用Style样式类进行图形渲染，除了填充属性fill、描边属性stroke等之外，还可以使用renderer属性自定义渲染样式，当使用renderer进行渲染时，fi",
                 "level": 1,
                 "publishTime": "2024/10/27",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "专注于GIS知识分享",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 8,
+                    "writingNum": 9,
                     "createTime": "2024-08-06 19:04"
                 }
             }

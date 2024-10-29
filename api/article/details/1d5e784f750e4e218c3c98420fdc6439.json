@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "1d5e784f750e4e218c3c98420fdc6439"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85702,
+                "outId": "1d5e784f750e4e218c3c98420fdc6439",
+                "articleOutId": "1d5e784f750e4e218c3c98420fdc6439",
+                "html": "",
+                "title": "瘦肉水",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 78718,
+                "userOutId": "143173754717",
+                "username": "JennyHuang",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/10/28",
+                "readingNum": 9,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "ab5ea6837ed342d1919438c4d4c57d71",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-10-27 15:38"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "1d5e784f750e4e218c3c98420fdc6439"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

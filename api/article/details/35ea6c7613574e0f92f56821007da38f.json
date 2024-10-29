@@ -23,7 +23,7 @@
                 "description": "MySQL全文索引检索中文5.7.6版本不支持中文检索，需要手动修改配置ft_min_word_len=1，因为默认配置4SHOW&nbsp;VARIABLES&nbsp;LIKE&nbsp;'ft%",
                 "level": 1,
                 "publishTime": "2024/10/27",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

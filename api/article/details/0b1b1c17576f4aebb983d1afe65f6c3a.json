@@ -23,7 +23,7 @@
                 "description": "前言❝Landsat卫星数据具有很多波段，每种波段都有不同的用途。而对波段进行合成，根据波段类型组合形成不同的遥感影像对研究、应用具有更大的价值。遥感影像波段组合不仅能够获取更加全面和丰富的信息，还能",
                 "level": 1,
                 "publishTime": "2024/10/26",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "专注于GIS知识分享",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 7,
+                    "writingNum": 9,
                     "createTime": "2024-08-06 19:04"
                 }
             }

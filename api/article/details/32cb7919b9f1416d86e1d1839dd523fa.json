@@ -23,7 +23,7 @@
                 "description": "要创建一个使用Python和pygame库的漫天飞雪动画，首先确保你已经安装了pygame库。如果没有，可以使用pip安装：pip&nbsp;install&nbsp;pygame以下是一个基本的漫天",
                 "level": 1,
                 "publishTime": "2024/10/27",
-                "readingNum": 4,
+                "readingNum": 8,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "闲聊人工智能",
                     "briefIntro": "本专栏探讨、分享AI相关知识。",
                     "cover": "https://files.mdnice.com/user/55636/column-cover/cb165cd8-f021-4256-b362-81957a046bf6.png",
-                    "writingNum": 9,
+                    "writingNum": 10,
                     "createTime": "2024-10-26 14:05"
                 }
             }
