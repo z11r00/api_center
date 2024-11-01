@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "b8a38d83111a47ed9cf9fce802547823"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85787,
+                "outId": "b8a38d83111a47ed9cf9fce802547823",
+                "articleOutId": "b8a38d83111a47ed9cf9fce802547823",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(74, 74, 74); font-size: 16px; line-height: 1.8em; letter-spacing: 0.02em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 20px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">测试</p>",
+                "title": "侧完成",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 101,
+                "tagName": "Java",
+                "userId": 66248,
+                "userOutId": "912171416216",
+                "username": "hanxuan",
+                "avatar": "",
+                "description": "测试",
+                "level": 1,
+                "publishTime": "2024/10/30",
+                "readingNum": 18,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "ad1c27bca44742dba6e7dd102ca2ca29",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-08-06 19:02"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "b8a38d83111a47ed9cf9fce802547823"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
