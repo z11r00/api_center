@@ -23,7 +23,7 @@
                 "description": "起因是想build一个mindspore镜像，之后放到断网的机器上用，想确认一下openI启智平台上提供的环境是不是docker。因为之前了解到dockerindocker是不推荐的操作，并且启智平台",
                 "level": 1,
                 "publishTime": "2024/10/31",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

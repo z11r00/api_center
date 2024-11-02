@@ -23,7 +23,7 @@
                 "description": "Description在OracleLinux9.4的实验环境中，我们遇到了一个棘手的问题：无法正常使用dnf进行软件包管理。以下是详细的故障现象和解决方案。尝试安装cmake时，遇到了以下错误：[r",
                 "level": 1,
                 "publishTime": "2024/11/01",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
