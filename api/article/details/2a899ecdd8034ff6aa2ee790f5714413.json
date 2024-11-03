@@ -23,7 +23,7 @@
                 "description": "Java虚拟机（JVM）作为Java语言的运行环境，其内置的编译器优化技术对于提升应用程序性能至关重要。本文将深入探讨JVM编译器的几项关键优化技术：公共子表达式的清除、指令重排序、方法内联、逃逸分析",
                 "level": 1,
                 "publishTime": "2024/11/01",
-                "readingNum": 8,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "92add81dfb58492bada63ab584aabb30"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 85949,
+                "outId": "92add81dfb58492bada63ab584aabb30",
+                "articleOutId": "92add81dfb58492bada63ab584aabb30",
+                "html": "",
+                "title": "The Daydream -《白日梦5.爱的协奏曲》(Concerto D'amour)[MP3]",
+                "categoryId": 7,
+                "categoryName": "文学",
+                "tagId": 146,
+                "tagName": "诗歌",
+                "userId": 79344,
+                "userOutId": "804997733949",
+                "username": "qq905576024",
+                "avatar": "",
+                "description": "",
+                "level": 1,
+                "publishTime": "2024/11/03",
+                "readingNum": 0,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "51dc83f4884e484380966ee3fc8d2dc4",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-11-02 04:45"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "92add81dfb58492bada63ab584aabb30"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
