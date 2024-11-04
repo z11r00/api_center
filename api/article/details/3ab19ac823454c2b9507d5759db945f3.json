@@ -23,7 +23,7 @@
                 "description": "theme:nicozustand让你的React应用更简洁高效大家好,我是白露。今天我想和大家分享一个我最近在React项目中频繁使用的状态管理库——zustand。简单来说,zustand是一个轻",
                 "level": 1,
                 "publishTime": "2024/11/01",
-                "readingNum": 12,
+                "readingNum": 14,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 6,
+                    "writingNum": 7,
                     "createTime": "2024-08-06 19:03"
                 }
             }

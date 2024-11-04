@@ -23,7 +23,7 @@
                 "description": "前言❝鹰眼图作为常用控件，可以方便的查看当前地图显示范围。OpenLayers具有大部分常用的控件，如缩放、导航、鹰眼、比例尺、旋转、鼠标位置等。这些地图控件用来与地图进行简单的交互，已经被预先封装好",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "专注于GIS知识分享",
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 11,
+                    "writingNum": 12,
                     "createTime": "2024-08-06 19:04"
                 }
             }

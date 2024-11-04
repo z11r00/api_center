@@ -23,7 +23,7 @@
                 "description": "一、题目题目：给一个正整数数列&nbsp;nums，一个跳数&nbsp;jump，及幸存数量&nbsp;left。运算过程为：从索引0的位置开始向后跳，中间跳过&nbsp;J&nbsp;个数字，命中索",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

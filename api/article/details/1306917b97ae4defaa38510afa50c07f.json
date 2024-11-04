@@ -23,7 +23,7 @@
                 "description": "Hive分区和分桶两种用于优化查询性能的数据组织策略，数仓设计的关键概念，可提升Hive在读取大量数据时的性能。1分区（Partitioning）根据表的某列的值来组织数据。每个分区对应一个特定值，并",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 1,
+                "readingNum": 2,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 48,
+                    "writingNum": 51,
                     "createTime": "2024-08-06 19:02"
                 }
             }

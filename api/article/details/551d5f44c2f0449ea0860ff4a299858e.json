@@ -23,7 +23,7 @@
                 "description": "OLAP平台架构演化历程0导读随着大数据的持续发展及数字化转型的兴起，大数据OLAP分析需求越来越迫切，不论是大型互联网企业，还是中小型传统企业，都在积极探索及实践OLAP引擎选型及平台架构建设，大数",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 48,
+                    "writingNum": 51,
                     "createTime": "2024-08-06 19:02"
                 }
             }

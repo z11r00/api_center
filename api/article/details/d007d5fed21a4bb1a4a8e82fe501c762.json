@@ -23,7 +23,7 @@
                 "description": " 本文对两个分别以int和string为返回值类型的函数进行分析，说明了在有返回值的函数中不写返回值会产生的问题。然后给出在编译阶段检查出这样的问题的办法。一、背景在软件测试环节发现，函数会在返回之前",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": "8年C++程序员，嵌入式，桌面，系统集成",
                 "followWords": "小公司C++开发之路",

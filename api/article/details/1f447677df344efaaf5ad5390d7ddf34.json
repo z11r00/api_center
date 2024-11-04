@@ -23,7 +23,7 @@
                 "description": "Hive修复分区简介Hive的MSCKREPAIRTABLE命令用于修复（即添加丢失的）表分区。通常用于那些已在HDFS中存在，但尚未在Hive元数据中注册的分区。当你在HDFS文件系统中手动添加或删",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 48,
+                    "writingNum": 51,
                     "createTime": "2024-08-06 19:02"
                 }
             }

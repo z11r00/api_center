@@ -23,7 +23,7 @@
                 "description": "最近临时有个想法，输入股票代码，输出股票基本信息，画出K线图，列出最新的新闻，并让AI大模型给出投资建议。说干就干，刚折腾了一个小玩意，先看图这里简单提供下代码片段1、获取股票基本信息def&nbsp",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "程序员，分享AI、JAVA、Python",
                 "followWords": "扫码添加好友",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 6,
+                    "writingNum": 7,
                     "createTime": "2024-08-06 19:03"
                 }
             }

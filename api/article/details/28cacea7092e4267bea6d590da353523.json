@@ -23,7 +23,7 @@
                 "description": "热爱技术的小牛测试开发通关秘籍三：彻底搞懂，赋值，浅拷贝和深拷贝在Python中，赋值、浅拷贝和深拷贝都是将一个对象内容复制到另一个变量的方式，但它们在内存管理和对象的独立性上有重要区别。让我们分别详",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 3,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": "热爱科技，热爱技术。",
                 "followWords": "扫码关注更多",
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 2,
+                    "writingNum": 3,
                     "createTime": "2024-08-06 19:07"
                 }
             }

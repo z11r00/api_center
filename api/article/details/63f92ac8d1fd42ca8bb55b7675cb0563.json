@@ -23,7 +23,7 @@
                 "description": "Go语言并非传统意义上的面向对象的语言，他不像Java或者c++一样有类，继承等一些特性，但是我们也可以借助Go语言中的struct和interface来实现这种面向对象的编程。在学习Go语言的基础语",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 3,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": "闲话互联网二三事",
                 "followWords": null,

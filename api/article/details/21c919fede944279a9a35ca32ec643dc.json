@@ -23,7 +23,7 @@
                 "description": "1.背景公司有部门使用VuePress1.0搭建平台的帮助文档，前期文档不是很多，所以没有暴露出特别明显的问题。但随着文档的逐步迭代和内容的增多，出现了大量的并发请求，总共有218个请求，导致服务器带",
                 "level": 1,
                 "publishTime": "2024/10/31",
-                "readingNum": 7,
+                "readingNum": 12,
                 "likeNum": 0,
                 "introduction": "https://dstweihao.cn",
                 "followWords": "",

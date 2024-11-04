@@ -23,7 +23,7 @@
                 "description": "Hive执行原理MapReduce简化大数据编程难度，但对经常需大数据计算的人，如从事研究BI的数据分析师通常使用SQL进行大数据分析和统计，MapReduce编程有门槛。且若每次统计和分析都开发相应",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 2,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 48,
+                    "writingNum": 51,
                     "createTime": "2024-08-06 19:02"
                 }
             }
