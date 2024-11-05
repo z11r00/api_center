@@ -23,7 +23,7 @@
                 "description": "前言大模型服务平台百炼提供了完善的智能体应用构建功能，包括智能体应用，工作流应用，智能体编排应用等多种应用构建模式，支持在百炼控制台低代码或0代码的方式创建应用，也支持API调用。可以基于业务需求和数",
                 "level": 1,
                 "publishTime": "2024/11/03",
-                "readingNum": 5,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "闲聊人工智能",
                     "briefIntro": "本专栏探讨、分享AI相关知识。",
                     "cover": "https://files.mdnice.com/user/55636/column-cover/cb165cd8-f021-4256-b362-81957a046bf6.png",
-                    "writingNum": 17,
+                    "writingNum": 19,
                     "createTime": "2024-10-26 14:05"
                 }
             }

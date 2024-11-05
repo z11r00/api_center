@@ -23,7 +23,7 @@
                 "description": "前言Vue.js渐进式JavaScript框架，以其简洁和高效著称。当一个Vue实例被创建时，Vue会遍历其data对象中的所有属性，并使用Object.defineProperty方法将它们转换为g",
                 "level": 1,
                 "publishTime": "2024/11/02",
-                "readingNum": 7,
+                "readingNum": 9,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

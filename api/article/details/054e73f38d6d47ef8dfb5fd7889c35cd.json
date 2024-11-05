@@ -23,7 +23,7 @@
                 "description": "DolphinScheduler部署3种方式通过Docker完成DolphinScheduler的部署快速体验，推荐standalone-server镜像较完整服务，推荐docker-compose启",
                 "level": 1,
                 "publishTime": "2024/11/03",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 51,
+                    "writingNum": 55,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "HDFS1概述1.1简介Hadoop实现的一个分布式文件系统（HadoopDistributedFileSystem），简称HDFS源自Google的GFS论文，发表于2003年，HDFS是GFS的克",
                 "level": 1,
                 "publishTime": "2024/11/03",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 51,
+                    "writingNum": 55,
                     "createTime": "2024-08-06 19:02"
                 }
             }

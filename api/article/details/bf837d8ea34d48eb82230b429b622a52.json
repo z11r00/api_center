@@ -23,7 +23,7 @@
                 "description": "Hive专栏概述Hive“出身名门”，是最初由Facebook公司开发的数据仓库工具。它简单且容易上手，是深入学习Hadoop技术的一个很好的切入点。专栏内容包括：Hive的安装和配置，其核心组件和架",
                 "level": 1,
                 "publishTime": "2024/11/03",
-                "readingNum": 1,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 51,
+                    "writingNum": 55,
                     "createTime": "2024-08-06 19:02"
                 }
             }

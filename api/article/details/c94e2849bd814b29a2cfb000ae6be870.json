@@ -23,7 +23,7 @@
                 "description": "06-Dubbo相关面试题和源码使用技巧Dubbo相关面试题ZooKeeper宕机后，Dubbo服务还能使用吗？在实际生产中，假如ZooKeeper注册中心宕掉，一段时间内服务消费方还是能够调用提供方",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 4,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 51,
+                    "writingNum": 55,
                     "createTime": "2024-08-06 19:02"
                 }
             }

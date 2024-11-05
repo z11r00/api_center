@@ -23,7 +23,7 @@
                 "description": "03-Dubbo的负载均衡及高性能RPC调用Dubbo的负载均衡策略负载均衡策略就是当某个服务压力比较大的时候，这时候部署多个节点同时提供相同的服务当服务消费者来消费的时候，可以从这多个节点中选择一个",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 51,
+                    "writingNum": 55,
                     "createTime": "2024-08-06 19:02"
                 }
             }

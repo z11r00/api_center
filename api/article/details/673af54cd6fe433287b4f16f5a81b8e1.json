@@ -23,7 +23,7 @@
                 "description": "本篇重点在于分析SpringMVC与Servlet标准的整合，下节将详细讨论SpringMVC的启动/加载流程、处理请求的具体流程。一、介绍Spring框架提供了构建Web应用程序的全功能MVC模块。",
                 "level": 1,
                 "publishTime": "2024/11/03",
-                "readingNum": 2,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
