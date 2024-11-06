@@ -23,7 +23,7 @@
                 "description": "DolphinScheduler简介1简介分布式易扩展的可视化DAG工作流任务调度开源系统。适用于企业级场景，提供一个可视化操作任务、工作流和全生命周期数据处理过程的解决方案。DolphinSched",
                 "level": 1,
                 "publishTime": "2024/11/05",
-                "readingNum": 1,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 55,
+                    "writingNum": 57,
                     "createTime": "2024-08-06 19:02"
                 }
             }

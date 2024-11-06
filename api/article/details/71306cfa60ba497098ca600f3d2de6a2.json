@@ -23,7 +23,7 @@
                 "description": "02-Dubbo特性及工作原理Dubbo的特性这里说一下Dubbo最主要的特性，从这些特性中，就可以看出来我们为什么要选用Dubbo，也可以将Dubbo和SpringCloud进行对比，比如我们搭建一",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 55,
+                    "writingNum": 57,
                     "createTime": "2024-08-06 19:02"
                 }
             }

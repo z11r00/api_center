@@ -23,7 +23,7 @@
                 "description": "学习目标解释FASTQ文件的组成部分使用FastQC评估测序数据的质量序列质量现在我们已经设置了文件和目录结构，可以进行ChIP-seq分析了。对于任何NGS分析，工作流程的第一步是评估序列的质量，然",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 7,
+                "readingNum": 10,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 24,
+                    "writingNum": 25,
                     "createTime": "2024-08-06 19:02"
                 }
             }

@@ -23,7 +23,7 @@
                 "description": "一、引言SpringBoot的自动装配是其核心特性之一，是一种基于约定优于配置的理念，通过在项目启动时自动扫描类路径下的特定条件和配置，来自动装配应用程序所需的各种组件和功能。它可以自动配置数据库连接",
                 "level": 1,
                 "publishTime": "2024/11/05",
-                "readingNum": 3,
+                "readingNum": 4,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 27,
+                    "writingNum": 28,
                     "createTime": "2024-08-19 09:50"
                 }
             }

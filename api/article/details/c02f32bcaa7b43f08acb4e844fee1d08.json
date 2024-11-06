@@ -23,7 +23,7 @@
                 "description": "你可以在React中使用useState和useEffect来管理请求逻辑，同时使用setTimeout来控制网络请求和本地翻译的恢复。可以通过以下步骤实现：1.首先尝试本地翻译请求。2.如果本地翻译",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 4,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": "公众号：君伟说。",
                 "followWords": "欢迎关注公众号。",

@@ -23,7 +23,7 @@
                 "description": "07-Dubbo真实生产环境思考在互联网环境下，理想的注册中心摘自于阿里专家(2019年文章)：曹胜利CAP理论：现在大部分主流而且在使用中的注册中心都是满足CP的，但是在互联网大集群环境下，期望的结",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 55,
+                    "writingNum": 57,
                     "createTime": "2024-08-06 19:02"
                 }
             }

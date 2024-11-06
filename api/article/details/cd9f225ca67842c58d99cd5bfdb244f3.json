@@ -23,7 +23,7 @@
                 "description": "04-Dubbo的通信协议Dubbo支持的通信协议Dubbo框架提供了自定义的高性能RPC通信协议：基于TCP的Dubbo2协议基于HTTP/2的Triple协议Dubbo框架是不和任何通信协议绑定的",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 4,
+                "readingNum": 5,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 55,
+                    "writingNum": 57,
                     "createTime": "2024-08-06 19:02"
                 }
             }

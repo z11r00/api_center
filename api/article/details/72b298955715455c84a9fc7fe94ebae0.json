@@ -23,7 +23,7 @@
                 "description": "Docker的核心概念之一是Docker镜像，它是一个轻量级、独立的、可执行的包，包含了运行软件所需的一切。1.什么是Docker镜像？可以把Docker镜像理解成一种“容器模板”或“静态蓝图”。它包",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 3,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,

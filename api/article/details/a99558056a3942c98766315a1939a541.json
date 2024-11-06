@@ -23,7 +23,7 @@
                 "description": "掌握In-ContextLearning(ICL)：构建高效Prompt的技巧与调优策略ICL（In-ContextLearning）是一种在大型语言模型（如GPT-3、PaLM等）中使用的技术，它允",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 2,
+                "readingNum": 3,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "闲聊人工智能",
                     "briefIntro": "本专栏探讨、分享AI相关知识。",
                     "cover": "https://files.mdnice.com/user/55636/column-cover/cb165cd8-f021-4256-b362-81957a046bf6.png",
-                    "writingNum": 19,
+                    "writingNum": 20,
                     "createTime": "2024-10-26 14:05"
                 }
             }

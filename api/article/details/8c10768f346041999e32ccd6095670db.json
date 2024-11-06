@@ -23,7 +23,7 @@
                 "description": "前言MaxKey单点登录认证系统，谐音马克思的钥匙寓意是最大钥匙，支持OAuth2.x/OpenIDConnect、SAML2.0、JWT、CAS、SCIM等标准协议，提供简单、标准、安全和开放的用户",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 6,
+                "readingNum": 7,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 97,
+                    "writingNum": 98,
                     "createTime": "2024-08-06 19:04"
                 }
             }

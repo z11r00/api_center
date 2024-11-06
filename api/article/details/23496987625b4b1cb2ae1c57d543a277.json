@@ -23,7 +23,7 @@
                 "description": "DolphinScheduler资源中心1简介资源中心通常用于上传文件、UDF函数和任务组管理。standalone环境可选择本地文件目录作为上传文件夹（无需Hadoop部署）也可选择上传到Hadoo",
                 "level": 1,
                 "publishTime": "2024/11/05",
-                "readingNum": 0,
+                "readingNum": 1,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "默认专栏",
                     "briefIntro": "这是一个默认专栏",
                     "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
-                    "writingNum": 55,
+                    "writingNum": 57,
                     "createTime": "2024-08-06 19:02"
                 }
             }

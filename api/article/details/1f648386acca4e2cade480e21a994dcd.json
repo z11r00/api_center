@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "1f648386acca4e2cade480e21a994dcd"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 86112,
+                "outId": "1f648386acca4e2cade480e21a994dcd",
+                "articleOutId": "1f648386acca4e2cade480e21a994dcd",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: justify; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">【闲鱼免费自动发货神器，操作简单一键轻松自动发货！解放双手，玩转多个账号】 https://www.bilibili.com/video/BV1i71YYzE5W/?share_source=copy_web</p>",
+                "title": "机器人aa",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 79641,
+                "userOutId": "768832882619",
+                "username": "18689203158",
+                "avatar": "",
+                "description": "【闲鱼免费自动发货神器，操作简单一键轻松自动发货！解放双手，玩转多个账号】https://www.bilibili.com/video/BV1i71YYzE5W/?share_source=copy_",
+                "level": 1,
+                "publishTime": "2024/11/05",
+                "readingNum": 3,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "1b1fcfe5f41343e48b86899f6d1302c9",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 1,
+                    "createTime": "2024-11-04 22:58"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "1f648386acca4e2cade480e21a994dcd"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

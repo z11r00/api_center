@@ -23,7 +23,7 @@
                 "description": "​在大模型的应用中，编写一个好的Prompt至关重要。Prompt用于定义智能体的行为模式，正确的Prompt能帮助智能体更好地理解用户的需求并做出恰当的回应。它直接影响模型输出的质量和相关性，提高模",
                 "level": 1,
                 "publishTime": "2024/11/04",
-                "readingNum": 2,
+                "readingNum": 6,
                 "likeNum": 0,
                 "introduction": null,
                 "followWords": null,
@@ -39,7 +39,7 @@
                     "name": "闲聊人工智能",
                     "briefIntro": "本专栏探讨、分享AI相关知识。",
                     "cover": "https://files.mdnice.com/user/55636/column-cover/cb165cd8-f021-4256-b362-81957a046bf6.png",
-                    "writingNum": 19,
+                    "writingNum": 20,
                     "createTime": "2024-10-26 14:05"
                 }
             }
