@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "29e3c08e21b14e75be44e82724469fdd"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 86226,
+                "outId": "29e3c08e21b14e75be44e82724469fdd",
+                "articleOutId": "29e3c08e21b14e75be44e82724469fdd",
+                "html": "<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">更多实时面试题总结请关注我的公众号\"算法狗\" 或移步至 https://pica.zhimg.com/80/v2-7fd6e77f69aa02c34ca8c334870b3bcd_720w.webp?source=d16d100b</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">这里说的微调主要是指参数微调，参数微调的方法主要有以下几种：</p> \n<ul data-tool=\"mdnice编辑器\" style=\"list-style-type: disc; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    Adapter \n   <br> 在预训练模型每一层(或某些层)中添加Adapter模块(如上图左侧结构所示)，微调时冻结预训练模型主体，由Adapter模块学习特定下游任务的知识。每个Adapter模块由两个前馈子层组成。具体使用了Adapter的模型结构如下所示： \n   <br> \n   <img src=\"https://files.mdnice.com/pic/001360e3-9ca9-4cac-bfc2-2db551f78c40.jpg\" align=\"center\" width=\"60%\" style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"> 给每个任务定义了自己的Prompt，拼接到输入数据一起作为输入，同时freeze预训练模型进行训练 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    Prefix-tunning 前缀微调将一个连续的特定于任务的向量序列添加到输入，称之为前缀，如下图中的红色块所示。与提示（prompt）不同的是，前缀完全由自由参数组成，与真正的token不对应。相比于传统的微调，前缀微调只优化了前缀。因此，我们只需要存储一个大型Transformer和已知任务特定前缀的副本，对每个额外任务产生非常小的开销。 \n   <img src=\"https://files.mdnice.com/pic/f42d73ef-f3ac-4661-8585-7fe4baf66743.jpg\" align=\"center\" width=\"60%\" style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    P-tuning/P-tuning V2 \n   <br> P-tuning V1直接对embedding层进行优化存在两个挑战：embedding层已经经过预训练，如果直接对输入的prompt embedding进行随机初始化训练，容易陷入局部最优；没法捕捉到prompt embedding之间的相关性。 \n   <br> P-Tuning V2是升级版本，主要解决P-Tuning V1在小参数量模型上表现差的问题。V2在每一层上都加了一个残差连接，每一层都加上prompts，使特征更充分。 \n   <br> P-tuning模型加入embedding位置不固定，可以加在整个输入的前面或者后面，用法比较灵活，且其通过MLP+LSTM的方式对加入的embedding进行了学习，以提高收敛性。整体框架如下图所示： \n   <img src=\"https://files.mdnice.com/pic/4878328f-b774-4893-99d5-390b7955ec2e.jpg\" alt=\"image\" style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"> \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    LORA \n   <br> 采用低秩矩阵近似的思想，冻结一个预训练模型的矩阵参数，并选择用A和B矩阵来替代，在下游任务时只更新A和B。流程如下： \n   <img src=\"https://files.mdnice.com/pic/a804a0b7-cf60-4e51-a6fe-e57b5c30c747.jpg\" align=\"center\" width=\"40%\" style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"> \n  </section></li> \n</ul> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">参考：<br> [1] https://zhuanlan.zhihu.com/p/636481171<br> [2] https://zhuanlan.zhihu.com/p/709376189</p>",
+                "title": "大模型面试题：常见的微调方法有哪些说下原理并对比",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 28978,
+                "userOutId": "220287652781",
+                "username": "alexalt",
+                "avatar": "",
+                "description": "更多实时面试题总结请关注我的公众号\"算法狗\"或移步至https://pica.zhimg.com/80/v2-7fd6e77f69aa02c34ca8c334870b3bcd_720w.webp?so",
+                "level": 1,
+                "publishTime": "2024/11/07",
+                "readingNum": 0,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "1d96a1dd442f4d2e8d87540ae4363268",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 6,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "29e3c08e21b14e75be44e82724469fdd"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}

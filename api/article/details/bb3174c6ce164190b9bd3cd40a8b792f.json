@@ -1,0 +1,57 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "id": "bb3174c6ce164190b9bd3cd40a8b792f"
+            },
+            "ieBrowser": false,
+            "needRefresh": false,
+            "writingDetail": {
+                "id": 86185,
+                "outId": "bb3174c6ce164190b9bd3cd40a8b792f",
+                "articleOutId": "bb3174c6ce164190b9bd3cd40a8b792f",
+                "html": "<h2 data-tool=\"mdnice编辑器\" style=\"margin-top: 30px; margin-bottom: 15px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; display: block;\"><span class=\"prefix\" style=\"display: none;\"></span><span class=\"content\" style=\"font-size: 22px; color: rgb(0, 0, 0); line-height: 1.5em; letter-spacing: 0em; text-align: left; font-weight: bold; display: block;\">Encoder-only结构能适合于生成式任务吗？</span><span class=\"suffix\" style=\"display: none;\"></span></h2> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">更多实时面试题总结请关注我的公众号\"算法狗\"</p> \n<p data-tool=\"mdnice编辑器\" style=\"color: rgb(0, 0, 0); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; text-indent: 0em; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 8px; padding-bottom: 8px; padding-left: 0px; padding-right: 0px;\">目前基于Enodee-only的结构主要用于编码信息，而不太适合于生成式的任务。但是Enodee-only结构也是可以进行生成式任务的，其做法很简单，就是将最后一个token进行mask即可。但这么做会存在一些问题： <img src=\"https://pic2.zhimg.com/80/v2-5448ef5c549e1e0da3e173520c8df55b_720w.webp\" alt=\"image\" style=\"display: block; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 100%;\"></p> \n<ol data-tool=\"mdnice编辑器\" style=\"list-style-type: decimal; margin-top: 8px; margin-bottom: 8px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 25px; padding-right: 0px; color: rgb(0, 0, 0);\"> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    模型很少有针对性的在训练阶段进行最后一个token的mask，因此在inference的时候会出现和训练时候不一致的情况，导致泛化能力不好。 \n  </section></li> \n <li> \n  <section style=\"margin-top: 5px; margin-bottom: 5px; color: rgb(1, 1, 1); font-size: 16px; line-height: 1.8em; letter-spacing: 0em; text-align: left; font-weight: normal;\">\n    采用Encoder-only结构的模型难以用自回归的形式进行解码导致无法复用kv-cache，因为使用双向attention导致后面的token会影响到前面token的表征。 \n  </section></li> \n</ol>",
+                "title": "Encoder-only结构能适合于生成式任务吗",
+                "categoryId": 1,
+                "categoryName": "后端",
+                "tagId": 100,
+                "tagName": "后端",
+                "userId": 28978,
+                "userOutId": "220287652781",
+                "username": "alexalt",
+                "avatar": "",
+                "description": "Encoder-only结构能适合于生成式任务吗？更多实时面试题总结请关注我的公众号\"算法狗\"目前基于Enodee-only的结构主要用于编码信息，而不太适合于生成式的任务。但是Enodee-only",
+                "level": 1,
+                "publishTime": "2024/11/06",
+                "readingNum": 3,
+                "likeNum": 0,
+                "introduction": null,
+                "followWords": null,
+                "followPic": null,
+                "isFollowing": false,
+                "isLike": false,
+                "isSelf": false,
+                "type": 1,
+                "isVisible": true,
+                "invisibleReason": null,
+                "writingColumn": {
+                    "columnOutId": "1d96a1dd442f4d2e8d87540ae4363268",
+                    "name": "默认专栏",
+                    "briefIntro": "这是一个默认专栏",
+                    "cover": "https://files.mdnice.com/common/community/default-column-cover.jpg",
+                    "writingNum": 6,
+                    "createTime": "2024-08-06 19:05"
+                }
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/writing/[id]",
+    "query": {
+        "id": "bb3174c6ce164190b9bd3cd40a8b792f"
+    },
+    "buildId": "ErZPkD4oq6iwH2nj6Dpcx",
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true
+}
